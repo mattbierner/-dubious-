@@ -209,7 +209,7 @@ exports.getTemplateUsages = (client, title, templateNames) =>
             return { title: title, usages: [] };
 
         return getArticleText(client, title).then(data => {
-            data = normalizeOutput(data);
+            data = normalizeOutput(data);console.log(data);
             const out = []
             for (let target of contexts) {
                 const index = data.indexOf(target.pre + target.post);
