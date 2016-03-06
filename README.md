@@ -36,6 +36,12 @@ Examples of `lopsided` statements. The star represents where the template is use
 
 The tool is great for finding entertaining pages on Wikipedia like this.
 
+## Examples
+
+* [Dubious](https://github.com/mattbierner/dubious/blob/master/out/dubious/dubious.md)
+* [Lopsided](https://github.com/mattbierner/dubious/blob/master/out/lopsided/lopsided.md)
+
+
 ## Usage
 
 ```bash

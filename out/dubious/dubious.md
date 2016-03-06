@@ -14,6 +14,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - On 8 May, CW Channel aired 30-second TV Spot, which focused on the romantic side of the film.*
 - On 20 May, first clip from the film was released through The Ellen DeGeneres Show's official website, showing love-struck Ron.*
 
+#### <a href="https://en.wikipedia.org/wiki/Order_of_precedence_in_Scotland">Order of precedence in Scotland</a>
+- The Prime Minister of the United Kingdom, First Lord of the Treasury (David Cameron MP)*
+- Commonwealth Prime Ministers, while visiting the UK, in order of appointment*
+- The Speaker of the House of Commons (John Bercow MP)*
+- The Lord Speaker of the House of Lords (See Order of Precedence for Ladies)*
+- Ministers, Envoys, and other very important visitors from foreign countries*
+- Lord Great Chamberlain (The Marquess of Cholmondeley)*
+- Commonwealth Prime Ministers, while visiting the UK, in order of appointment*
+- Ambassadors of foreign countries and High Commissioners of Commonwealth countries according to date of arrival*
+- The Lord Speaker of the House of Lords (The Baroness D'Souza)*
+
 #### <a href="https://en.wikipedia.org/wiki/Chalcogen">Chalcogen</a>
 - Out of the compounds consisting purely of chalcogens and halogens, there are a total of 13 chalcogen fluorides, nine chalcogen chlorides, eight chalcogen bromides, and six chalcogen iodides that are known.*
 - Sulfur fluorides with low valences are fairly unstable and little is known about their properties.*
@@ -38,23 +49,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - The ROC – USA Mutual Defense Treaty of 1955 states that "the terms "territorial" and "territories" shall mean in respect of the Republic of China, Taiwan and the Pescadores" and thus can be read as implicitly recognizing the ROC sovereignty over Taiwan.*
 - Public opinion in Taiwan regarding relations with the PRC is notoriously difficult to gauge, as poll results tend to be extremely sensitive to how the questions are phrased and what options are given, and there is a tendency by all political parties to spin the results to support their point of view.*
 
-#### <a href="https://en.wikipedia.org/wiki/Roman_Dacia">Roman Dacia</a>
-- Some modern authors write that Caracalla added further territory to Dacia by pushing the border around 50 kilometres east of the Olt river.*
-- The native Dacians retained their names and their cultural distinctiveness* even with the increasing embrace of Roman cultural norms which followed their incorporation into the empire.
-- It may be that the Dacians lacked an anthropomorphic conception of deity, and that the Thraco-Dacian religion was characterized by aniconism comparable to that of Judaism and Islam.*
-- Toponymic analysis of place-names in Dacia suggests that the Slavs possibly took at least some place-names from an un-Romanized Dacian population.*
+#### <a href="https://en.wikipedia.org/wiki/Doctors_(TV_series)">Doctors (TV series)</a>
+- Doctors was originally produced and broadcast in blocks of episodes, ranging from blocks of 40 to 130 episodes in the first three years.*
+- Until mid-2004, Doctors was filmed at the BBC's Pebble Mill studios in Edgbaston, Birmingham.*
+- The show utilised space originally occupied by Pebble Mill at One (1973–86) /Pebble Mill (1991–96).*
+- In mid-2006, after six years in the role, Timothy left the show, being the last original cast member.*
 
 #### <a href="https://en.wikipedia.org/wiki/Liberation_of_Paris">Liberation of Paris</a>
 - In his memoir Brennt Paris? ("Is Paris Burning?"), first published in 1950, Choltitz describes himself as the saviour of Paris.*
 - Kriegel-Valrimont argues "not only do we owe him nothing, but this a shameless falsification of History, to award him any merit."*
 - Kriegel-Valrimont argues "not only do we owe him nothing, but this a shameless falsification of History, to award him any merit." The transcripts of telephone conversations between Choltitz and his superiors, which were found in the Bundesarchiv-Militärarchiv in Freiburg im Breisgau (Baden-Württemberg), and analysed by German historians, support Kriegel-Valrimont's theory.*
 - From the French point of view, the liberation of Paris by the French themselves* rather than by the Allies saved France from having a new constitution being imposed by the Allied Military Government for Occupied Territories (AMGOT), like those established in Germany and Japan in 1945.
-
-#### <a href="https://en.wikipedia.org/wiki/Doctors_(TV_series)">Doctors (TV series)</a>
-- Doctors was originally produced and broadcast in blocks of episodes, ranging from blocks of 40 to 130 episodes in the first three years.*
-- Until mid-2004, Doctors was filmed at the BBC's Pebble Mill studios in Edgbaston, Birmingham.*
-- The show utilised space originally occupied by Pebble Mill at One (1973–86) /Pebble Mill (1991–96).*
-- In mid-2006, after six years in the role, Timothy left the show, being the last original cast member.*
 
 #### <a href="https://en.wikipedia.org/wiki/Emulator">Emulator</a>
 - However, the speed penalty inherent in interpretation can be a problem when emulating computers whose processor speed is on the same order of magnitude as the host machine*.
@@ -68,6 +73,12 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - Thus, it was extremely difficult for the Mulattoes jump to the Black side of their dual nature,* because they rarely wanted to be confused with the mass of poor Blacks that makes up the racial imaginary of Brazilians.
 - Thus, it was extremely difficult for the Mulattoes jump to the Black side of their dual nature, because they rarely wanted to be confused with the mass of poor Blacks that makes up the racial imaginary of Brazilians.*
 
+#### <a href="https://en.wikipedia.org/wiki/Roman_Dacia">Roman Dacia</a>
+- Some modern authors write that Caracalla added further territory to Dacia by pushing the border around 50 kilometres east of the Olt river.*
+- The native Dacians retained their names and their cultural distinctiveness* even with the increasing embrace of Roman cultural norms which followed their incorporation into the empire.
+- It may be that the Dacians lacked an anthropomorphic conception of deity, and that the Thraco-Dacian religion was characterized by aniconism comparable to that of Judaism and Islam.*
+- Toponymic analysis of place-names in Dacia suggests that the Slavs possibly took at least some place-names from an un-Romanized Dacian population.*
+
 #### <a href="https://en.wikipedia.org/wiki/Chinmayananda_Saraswati">Chinmayananda Saraswati</a>
 - Balakrishna Menon, who later became known as Swami Chinmayananda, was born in the city of Ernakulam in present-day Kerala, India, on 8 May 1916, as the eldest son of a prominent judge, Vadakke Kuruppathu Kutta Menon, who was the nephew of the Maharaja of Cochin.*
 - His mother, Parukutty Amma died while giving birth to her third child.*
@@ -79,15 +90,15 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - From 1983 to 1987, LTTE acquired a substantial amount of weapons from RAW* and from Lebanon, Cyprus, Singapore, and Malaysia-based arms dealers.
 - After the war, LTTE's main business has been people smuggling.*
 
-#### <a href="https://en.wikipedia.org/wiki/Public_good">Public good</a>
-- Public goods include fresh air, knowledge, public infrastructure*, national security, education, common language(s), widespread and high public literacy levels, flood control systems, lighthouses, and street lighting.
-- Public goods include fresh air, knowledge, public infrastructure, national security, education*, common language(s), widespread and high public literacy levels, flood control systems, lighthouses, and street lighting.
-- For example, in the United States, the patent rights given to pharmaceutical companies encourage them to charge high prices (above marginal cost)* and to advertise to convince patients to persuade their doctors to prescribe the drugs.
-
 #### <a href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina">Bosnia and Herzegovina</a>
 - The Chronicle of the Priest of Duklja from 1172–96* of Bar's Roman Catholic Christian Archbishop names Bosnia, and references an earlier source from the year of 753 – the De Regno Sclavorum (Of the Realm of Slavs).
 - The Austro-Hungarian Empire built the three Roman Catholic churches in Sarajevo and these three churches are among only 20 Catholic churches in the state of Bosnia.*
 - An estimated 209,000 Serbs and Montenegrins were killed on the territory of Bosnia-Herzegovina during the war.*
+
+#### <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a>
+- Brazil occupies a large area along the eastern coast of South America and includes much of the continent's interior,* sharing land borders with Uruguay to the south; Argentina and Paraguay to the southwest; Bolivia and Peru to the west; Colombia to the northwest; and Venezuela, Guyana, Suriname and the French overseas department of French Guiana to the north.
+- Brazil has a dense and complex system of rivers, one of the world's most extensive, with eight major drainage basins, all of which drain into the Atlantic.*
+- Many regions have starkly different microclimates.*
 
 #### <a href="https://en.wikipedia.org/wiki/Alternative_medicine">Alternative medicine</a>
 - other than those intrinsic to the politically dominant health system of a particular society or culture in a given historical period." This definition has been widely adopted by CAM researchers, cited by official government bodies such as the UK Department of Health, attributed as the definition used by the Cochrane Collaboration, and, with some modification,* was preferred in the 2005 consensus report of the US Institute of Medicine, Complementary and Alternative Medicine in the United States.
@@ -103,11 +114,6 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - The church was built upon the ruins of a Byzantine church from the fifth or sixth century and a Crusader church from the 12th century, which was built in honor of* Tancred, Prince of Galilee.
 - Nearby there are the remains of the monastery of San Salvatore (Monastère St Salvador)*, which was established by the Benedictines in 1101.
 - It goes up the mountain from the Gazit Junction via the village of Shibli, surrounds the summit and descends on the other side towards the Arab village of Daburiyya, in the direction of the Nazareth mountains.*
-
-#### <a href="https://en.wikipedia.org/wiki/Brazil">Brazil</a>
-- Brazil occupies a large area along the eastern coast of South America and includes much of the continent's interior,* sharing land borders with Uruguay to the south; Argentina and Paraguay to the southwest; Bolivia and Peru to the west; Colombia to the northwest; and Venezuela, Guyana, Suriname and the French overseas department of French Guiana to the north.
-- Brazil has a dense and complex system of rivers, one of the world's most extensive, with eight major drainage basins, all of which drain into the Atlantic.*
-- Many regions have starkly different microclimates.*
 
 #### <a href="https://en.wikipedia.org/wiki/Christadelphians">Christadelphians</a>
 - The typical Old Testament belief in unconsciousness till resurrection, instead of the immortality of the soul, has been held marginally throughout the history of both Judaism and Christianity; such sources include certain Jewish pseudepigraphal works, rabbinical works, Clement of Rome,* Arnobius in the 3rd to 4th century, a succession of Arabic and Syrian Christians from the 3rd to the 8th century including Aphrahat, Ephrem, Narsai, Isaac of Nineveh (d.
@@ -159,25 +165,25 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - 1100 BC) of North Africa, and that it remained attached to the Neolithic way of life*.
 - The technologically superior Bantu-speakers spread across southern Africa and became wealthy and powerful, producing iron for tools and weapons in large, industrial quantities.*
 
-#### <a href="https://en.wikipedia.org/wiki/Federal_Intelligence_Service_(Germany)">Federal Intelligence Service (Germany)</a>
-- It also detected the deployment of Soviet missiles to Cuba in 1962,* and subsequently warned the United States, resulting in the Cuban Missile Crisis.
-- It also detected the deployment of Soviet missiles to Cuba in 1962, and subsequently warned the United States,* resulting in the Cuban Missile Crisis.
-- With Pullach cryptography fully functioning, the BND predicted an invasion of Soviet and other Warsaw Pact troops into Czechoslovakia.*
-
 #### <a href="https://en.wikipedia.org/wiki/Contemporary_worship_music">Contemporary worship music</a>
 - These early songs for communal singing were arguably the first examples of contemporary worship music, and were characteristically simple, often only involving a three chord structure.*
 - Though the styles have developed according to what is popular between the 1950s and now, such music usually follows popular trends that are already well-established rather than the most current.*
 - In particular the use of projectors means that the song repertoire of a church is not restricted to those in a song book, and so CWM has a much greater rate of turnover than other Christian genres.*
 
-#### <a href="https://en.wikipedia.org/wiki/Technology_during_World_War_II">Technology during World War II</a>
-- By 1939, French tanks were virtually unchanged from 1918.*
-- This was ideal for trench warfare,* but made the tanks painfully slow in open battles.
-- Their light cannons* and machine-guns were usually unable to inflict serious damage on German vehicles.
+#### <a href="https://en.wikipedia.org/wiki/Federal_Intelligence_Service_(Germany)">Federal Intelligence Service (Germany)</a>
+- It also detected the deployment of Soviet missiles to Cuba in 1962,* and subsequently warned the United States, resulting in the Cuban Missile Crisis.
+- It also detected the deployment of Soviet missiles to Cuba in 1962, and subsequently warned the United States,* resulting in the Cuban Missile Crisis.
+- With Pullach cryptography fully functioning, the BND predicted an invasion of Soviet and other Warsaw Pact troops into Czechoslovakia.*
 
 #### <a href="https://en.wikipedia.org/wiki/BitTorrent">BitTorrent</a>
 - Pieces with sizes greater than 512 kB will reduce the size of a torrent file for a very large payload, but is claimed to reduce the efficiency of the protocol.*
 - After the DHT was adopted, a "private" flag — analogous to the broadcast flag — was unofficially introduced, telling clients to restrict the use of decentralized tracking regardless of the user's desires.*
 - Several studies on BitTorrent have indicated that a large portion* of files available for download via BitTorrent contain malware.
+
+#### <a href="https://en.wikipedia.org/wiki/Technology_during_World_War_II">Technology during World War II</a>
+- By 1939, French tanks were virtually unchanged from 1918.*
+- This was ideal for trench warfare,* but made the tanks painfully slow in open battles.
+- Their light cannons* and machine-guns were usually unable to inflict serious damage on German vehicles.
 
 #### <a href="https://en.wikipedia.org/wiki/2000s_(decade)">2000s (decade)</a>
 - During the decade, Windows 2000 And Windows XP and Microsoft Office 2003 And Windows Vista* And Microsoft Office 2008 (and later Windows 7) become the ubiquitous industry standards in personal computer software until the end of the decade, when Apple began to slowly gain market share.
@@ -189,32 +195,37 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - was bruised for a time when in March 1979, during a drunken argument with Stephen Stills and Bonnie Bramlett in a Columbus, Ohio Holiday Inn bar, the singer referred to James Brown as a "jive-ass nigger", then upped the ante by pronouncing Ray Charles a "blind, ignorant nigger".*
 - In 1993, Costello experimented with classical music with a critically acclaimed collaboration with the Brodsky Quartet* on The Juliet Letters.
 
+#### <a href="https://en.wikipedia.org/wiki/Public_good">Public good</a>
+- Public goods include fresh air, knowledge, public infrastructure*, national security, education, common language(s), widespread and high public literacy levels, flood control systems, lighthouses, and street lighting.
+- Public goods include fresh air, knowledge, public infrastructure, national security, education*, common language(s), widespread and high public literacy levels, flood control systems, lighthouses, and street lighting.
+- For example, in the United States, the patent rights given to pharmaceutical companies encourage them to charge high prices (above marginal cost)* and to advertise to convince patients to persuade their doctors to prescribe the drugs.
+
 #### <a href="https://en.wikipedia.org/wiki/Palestinian_territories">Palestinian territories</a>
 - A parallel exists in the aspirations of David Ben-Gurion,* Menachem Begin, and other Zionists and Jewish religious leaders to establish Jewish sovereignty over all of Greater Israel in trust for the Jewish people.
 - According to the Israeli Supreme Court, the Fourth Geneva Convention, which prohibits unilateral annexation of occupied territory, does not* apply to East Jerusalem, as there was no "legitimate sovereign" recognised by Israel and its allies previously exercising control over the territory.
 - According to the Israeli Supreme Court, the Fourth Geneva Convention, which prohibits unilateral annexation of occupied territory, does not apply to East Jerusalem, as there was no* "legitimate sovereign" recognised by Israel and its allies previously exercising control over the territory.
-
-#### <a href="https://en.wikipedia.org/wiki/Early_Slavs">Early Slavs</a>
-- Much attention has been given to the Chernoles culture, which existed from 1050 to 725 BC* in the forest-steppe zone.
-- Also, both Slavs and Iranians had demons –- given names from similar linguistic roots, Daêva (Iranian) and Divŭ (Slavic) –- and a concept of dualism, of good and evil.*
-- After some overtures to each side, the khan aligned with Eastern Orthodox Christianity.*
 
 #### <a href="https://en.wikipedia.org/wiki/Acre,_Israel">Acre, Israel</a>
 - The name 'Akka is recorded in Egyptian sources from about 2000 BC, with three signs (the initial guttural, "k" and "a"; followed by the sign for "foreign city")*.
 - In the Amarna letters, written in Akkadian, the letter "H" is used to signify the guttural letters alef-heh-chet-ayin*, and therefore it was possible to write the name of the city as if it were "Haca" or "Aca".
 - During Ottoman rule, Acre continued to play an important role in the region via smaller autonomous sheikhdoms.*
 
-#### <a href="https://en.wikipedia.org/wiki/Townes_Van_Zandt">Townes Van Zandt</a>
-- Van Zandt has been referred to as a cult musician and "a songwriter's songwriter." Musician Steve Earle, who met him in 1978 and considered Van Zandt a mentor, once called Van Zandt "the best songwriter in the whole world and I'll stand on Bob Dylan's coffee table in my cowboy boots and say that."*
-- He has been cited as a source of inspiration by such notable artists as Bob Dylan, Neil Young, Willie Nelson, Guthrie Thomas, John Prine, Lyle Lovett, Chelsea Wolfe, Scott Avett of The Avett Brothers, Emmylou Harris, Nanci Griffith, Cowboy Junkies, Vetiver, Guy Clark, Devendra Banhart, Norah Jones,* Robert Plant &amp; Alison Krauss, The Be Good Tanyas and Jolie Holland, Josh Ritter, Gillian Welch, Garth Brooks, Simon Joyner, Conor Oberst of Bright Eyes, Caleb Followill of Kings of Leon, Laura Marling, and Frank Turner.
+#### <a href="https://en.wikipedia.org/wiki/Early_Slavs">Early Slavs</a>
+- Much attention has been given to the Chernoles culture, which existed from 1050 to 725 BC* in the forest-steppe zone.
+- Also, both Slavs and Iranians had demons –- given names from similar linguistic roots, Daêva (Iranian) and Divŭ (Slavic) –- and a concept of dualism, of good and evil.*
+- After some overtures to each side, the khan aligned with Eastern Orthodox Christianity.*
+
+#### <a href="https://en.wikipedia.org/wiki/Sark">Sark</a>
+- In ancient times, Sark was almost certainly occupied by the Veneti*.
+- After the Roman retreat during the fifth century AD, Sark was probably an outpost of one or other Breton-speaking* kingdoms until 933, when it became part of the Duchy of Normandy.
 
 #### <a href="https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus">Voyages of Christopher Columbus</a>
 - He described the new lands as belonging to a previously unknown new continent, but he pictured it hanging from China, bulging out to make the earth pear-shaped.*
 - By April 6, the garrison he had established captured the local leader El Quibían, who had demanded they not go down* the Belén River.
 
-#### <a href="https://en.wikipedia.org/wiki/Tree_squirrel">Tree squirrel</a>
-- Therefore, offering peanuts that have been roasted is the better option.*
-- This type of deficiency has been found to cause metabolic bone disease, a somewhat common ailment found in malnourished squirrels.*
+#### <a href="https://en.wikipedia.org/wiki/Discrimination">Discrimination</a>
+- Diversity of language is protected and respected by most nations who value cultural diversity.*
+- Commonly, the preferred language is just another attribute of separate ethnic groups.*
 
 #### <a href="https://en.wikipedia.org/wiki/Family_name">Family name</a>
 - Since 1975, women have kept their own surname when married, but until recently (2000)* they could have added the surname of the husband according to the civil code, although it was a very seldom-used practice.
@@ -228,21 +239,25 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - An example would be the forced Christianization of the indigenous peoples of the Americas by the Spanish, French, English and Portuguese, or the forced Islamization of West African peoples by the Fula* or of the Nuristanis by the Afghans.
 - Evolutionary diffusionism—the theory that societies are influenced by others and that all humans share psychological traits that make them equally likely to innovate, resulting in development of similar innovations in isolation.*
 
-#### <a href="https://en.wikipedia.org/wiki/Discrimination">Discrimination</a>
-- Diversity of language is protected and respected by most nations who value cultural diversity.*
-- Commonly, the preferred language is just another attribute of separate ethnic groups.*
-
-#### <a href="https://en.wikipedia.org/wiki/Singlish">Singlish</a>
-- It may be used in vulgar, obscene and offensive contexts,* such as
-- It is mostly incorrectly used by European expatriates or Hong Kong and Mainlanders trying to integrate and assimilate into Singapore society,* though with an ironic modicum of success, for example
+#### <a href="https://en.wikipedia.org/wiki/Knowledge_worker">Knowledge worker</a>
+- Knowledge workers spend 38% of their time searching for information.*
+- 450 BC, with the Library of Alexandria,* but their modern roots can be linked to the emergence of information management in the 1970s.
 
 #### <a href="https://en.wikipedia.org/wiki/Guildford">Guildford</a>
 - Guildford /ˈɡɪlfərd/ is the historic county town* of Surrey, England and the seat of the borough of Guildford.
 - Even though Guildford is the county town* for Surrey, the council itself has its administrative base in Kingston upon Thames which, although formerly in Surrey, is now in Greater London.
 
-#### <a href="https://en.wikipedia.org/wiki/Liep%C4%81ja">Liepāja</a>
-- The Livonian Order, under the aegis of the Teutonic Order, established the settlement as the village of Liba(u) in 1263*.
-- In 1418 the city was sacked and burned by the Lithuanians.*
+#### <a href="https://en.wikipedia.org/wiki/Singlish">Singlish</a>
+- It may be used in vulgar, obscene and offensive contexts,* such as
+- It is mostly incorrectly used by European expatriates or Hong Kong and Mainlanders trying to integrate and assimilate into Singapore society,* though with an ironic modicum of success, for example
+
+#### <a href="https://en.wikipedia.org/wiki/Townes_Van_Zandt">Townes Van Zandt</a>
+- Van Zandt has been referred to as a cult musician and "a songwriter's songwriter." Musician Steve Earle, who met him in 1978 and considered Van Zandt a mentor, once called Van Zandt "the best songwriter in the whole world and I'll stand on Bob Dylan's coffee table in my cowboy boots and say that."*
+- He has been cited as a source of inspiration by such notable artists as Bob Dylan, Neil Young, Willie Nelson, Guthrie Thomas, John Prine, Lyle Lovett, Chelsea Wolfe, Scott Avett of The Avett Brothers, Emmylou Harris, Nanci Griffith, Cowboy Junkies, Vetiver, Guy Clark, Devendra Banhart, Norah Jones,* Robert Plant &amp; Alison Krauss, The Be Good Tanyas and Jolie Holland, Josh Ritter, Gillian Welch, Garth Brooks, Simon Joyner, Conor Oberst of Bright Eyes, Caleb Followill of Kings of Leon, Laura Marling, and Frank Turner.
+
+#### <a href="https://en.wikipedia.org/wiki/Mikheil_Saakashvili">Mikheil Saakashvili</a>
+- He was named "man of the year"* by a panel of journalists and human rights advocates in 1997.
+- This earned praise* from international observers and human rights activists.
 
 #### <a href="https://en.wikipedia.org/wiki/Ten_Years'_War">Ten Years' War</a>
 - Its forces executed eight students from the University of Havana on November 27, 1871.*
@@ -251,10 +266,6 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Beit_Shemesh">Beit Shemesh</a>
 - Near the ancient ruins of Beth Shemesh there is a prehistoric megalithic stone circle, probably the structure responsible for the name Beit Shemesh.*
 - Thus during the first Jewish return, at the beginning of the Second Temple period, there was no revival of the city, as opposed to many other places in the vicinity such as Beit Guvrin,* Maresha, and others.
-
-#### <a href="https://en.wikipedia.org/wiki/Mikheil_Saakashvili">Mikheil Saakashvili</a>
-- He was named "man of the year"* by a panel of journalists and human rights advocates in 1997.
-- This earned praise* from international observers and human rights activists.
 
 #### <a href="https://en.wikipedia.org/wiki/Hieratic">Hieratic</a>
 - It developed alongside cursive hieroglyphs, to which it is separate* yet intimately related.
@@ -296,6 +307,10 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - The terminal of the first working programmable, fully automatic digital  Turing-complete computer, the Z3, had a keyboard and a row of lamps to show results.*
 - The Win32 console on Windows does not emulate a physical terminal that supports escape sequences* so SSH and Telnet programs (for logging in textually to remote computers) for Windows, including the Telnet program bundled with some versions of Windows, often incorporate their own code to process escape sequences.
 
+#### <a href="https://en.wikipedia.org/wiki/War_on_Drugs">War on Drugs</a>
+- These scholars believe that Hearst felt* that this was a threat to his extensive timber holdings.
+- Then, driven by the 1986 cocaine overdose of black basketball star Len Bias,* Reagan was able to pass the Anti-Drug Abuse Act through Congress.
+
 #### <a href="https://en.wikipedia.org/wiki/Dead_Sea">Dead Sea</a>
 - In Roman and Byzantine times, sugarcane,* henna, and sycamore fig all made the lower Jordan valley wealthy.
 - By the 19th century, Jericho's fertility had disappeared.*
@@ -304,9 +319,9 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - Another Spanish anarcho-syndicalist* union, the Confederacion General del Trabajo de España, is now the fourth largest union in Spain and the largest anarchist union with tens of thousands of members.
 - Another Spanish anarcho-syndicalist union, the Confederacion General del Trabajo de España, is now the fourth largest union in Spain and the largest anarchist* union with tens of thousands of members.
 
-#### <a href="https://en.wikipedia.org/wiki/War_on_Drugs">War on Drugs</a>
-- These scholars believe that Hearst felt* that this was a threat to his extensive timber holdings.
-- Then, driven by the 1986 cocaine overdose of black basketball star Len Bias,* Reagan was able to pass the Anti-Drug Abuse Act through Congress.
+#### <a href="https://en.wikipedia.org/wiki/River_Cam">River Cam</a>
+- The Rhee tributary is also formally known as the Cam,* and the Granta has a tributary on its upper stretch also known as the Granta.
+- The two principal tributaries of the Cam are the Granta and the Rhee, though both are also officially known as the Cam.*
 
 #### <a href="https://en.wikipedia.org/wiki/Edsel">Edsel</a>
 - The company was now able to sell cars according to current market trends following the sellers' market of the postwar years.*
@@ -316,33 +331,33 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - Grimm has provided one of the earlier and more commonly accepted* etymologies for kobold, tracing the word's origin through the Latin cobalus to the Greek koba'los, meaning "rogue".
 - These beliefs spread, becoming the kobold, the Germanic gnome,* the French goblin and the Scottish bogle.
 
-#### <a href="https://en.wikipedia.org/wiki/Tile">Tile</a>
-- Tiling was widespread in the time* of the Sinhalese kings of ancient Sri Lanka, using smoothed and polished stone laid on floors and in swimming pools.
-- Tiling from this period* can be seen Ruwanwelisaya and Kuttam Pokuna in the city of Anuradhapura.
-
-#### <a href="https://en.wikipedia.org/wiki/River_Cam">River Cam</a>
-- The Rhee tributary is also formally known as the Cam,* and the Granta has a tributary on its upper stretch also known as the Granta.
-- The two principal tributaries of the Cam are the Granta and the Rhee, though both are also officially known as the Cam.*
-
 #### <a href="https://en.wikipedia.org/wiki/Frederick,_Maryland">Frederick, Maryland</a>
 - The value of the housing stock in Frederick is above the national average and significantly higher than small nearby cities such as Hagerstown, Maryland; and Harrisburg, Pennsylvania.*
 - and related areas in Montgomery County, Maryland, such as Bethesda), one of the most expensive housing and rental markets in the nation.*
+
+#### <a href="https://en.wikipedia.org/wiki/Tile">Tile</a>
+- Tiling was widespread in the time* of the Sinhalese kings of ancient Sri Lanka, using smoothed and polished stone laid on floors and in swimming pools.
+- Tiling from this period* can be seen Ruwanwelisaya and Kuttam Pokuna in the city of Anuradhapura.
 
 #### <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">Treaty on the Non-Proliferation of Nuclear Weapons</a>
 - They express disappointment with the limited progress on nuclear disarmament, where the five authorized nuclear weapons states still have 22,000 warheads in their combined stockpile and have shown a reluctance to disarm further.*
 - Several high-ranking officials within the United Nations have said that they can do little to stop states using nuclear reactors to produce nuclear weapons.*
 
-#### <a href="https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland">United Kingdom of Great Britain and Ireland</a>
-- They can vote in all elections and stand for Parliament.*
-- British citizens have similar rights to Irish citizens in the Republic of Ireland and can vote in all elections apart from presidential elections and referendums.*
+#### <a href="https://en.wikipedia.org/wiki/Carnitine">Carnitine</a>
+- Carnitine has been proposed as a supplement to treat a variety of health conditions including heart attack, heart failure, angina, narcolepsy, and diabetic neuropathy,* but not improving exercise performance, nor wasting syndrome (weight loss).
+- Carnitine has been proposed as a supplement to treat a variety of health conditions including heart attack, heart failure, angina, narcolepsy, and diabetic neuropathy, but not improving exercise performance, nor wasting syndrome (weight loss).*
 
 #### <a href="https://en.wikipedia.org/wiki/Egypt">Egypt</a>
 - When the British exiled Zaghlul and his associates* to Malta on 8 March 1919, the country arose in its first modern revolution.
 - Egypt hosts two major religious institutions, the Coptic Orthodox Church of Alexandria, established in the middle of the 1st century CE by Saint Mark the Evangelist, and Al-Azhar University, founded in 970 CE by the Fatimids as the first* Islamic School and University in the world.
 
-#### <a href="https://en.wikipedia.org/wiki/Albany,_Georgia">Albany, Georgia</a>
-- East Albany is a district of Albany.*
-- Its main road is East Broad Avenue.*
+#### <a href="https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland">United Kingdom of Great Britain and Ireland</a>
+- They can vote in all elections and stand for Parliament.*
+- British citizens have similar rights to Irish citizens in the Republic of Ireland and can vote in all elections apart from presidential elections and referendums.*
+
+#### <a href="https://en.wikipedia.org/wiki/Brazilian_Portuguese">Brazilian Portuguese</a>
+- Tá bom") – now widespread in Brazil – reflects an influence from the speech of African slaves.*
+- vou falar") over the synthetic future ("falarei") – recall the grammatical simplification typical of pidgins and creoles*.
 
 #### <a href="https://en.wikipedia.org/wiki/Mesozoic">Mesozoic</a>
 - In fact, by the middle Cretaceous, equatorial ocean waters (perhaps as warm as 20 °C in the deep ocean) may have been too warm for sea life,* and land areas near the equator may have been deserts despite their proximity to water.
@@ -368,25 +383,29 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - This upper section was decorated with pilasters, the remainder of which were destroyed when the Byzantines reconquered Jerusalem from the Persians in 628.*
 - Article VIII of the 1949 Armistice Agreement provided for Israeli Jewish access to the Western Wall.*
 
-#### <a href="https://en.wikipedia.org/wiki/Brazilian_Portuguese">Brazilian Portuguese</a>
-- Tá bom") – now widespread in Brazil – reflects an influence from the speech of African slaves.*
-- vou falar") over the synthetic future ("falarei") – recall the grammatical simplification typical of pidgins and creoles*.
+#### <a href="https://en.wikipedia.org/wiki/Albany,_Georgia">Albany, Georgia</a>
+- East Albany is a district of Albany.*
+- Its main road is East Broad Avenue.*
 
 #### <a href="https://en.wikipedia.org/wiki/John_the_Baptist">John the Baptist</a>
 - Therefore, it is highly unlikely that any Arab Christian would have used the name Yahya prior to the Quran's usage of it.*
 - It is also the only time this word is used in the Quran.*
 
-#### <a href="https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom">Parliament of the United Kingdom</a>
-- Governments have a tendency to dominate the legislative functions of Parliament, by using their in-built majority in the House of Commons, and sometimes using their patronage power to appoint supportive peers in the Lords.*
-- In practice, governments can pass any legislation (within reason) in the Commons they wish, unless there is major dissent by MPs in the governing party.*
+#### <a href="https://en.wikipedia.org/wiki/Tijaniyyah">Tijaniyyah</a>
+- The Tijānī order was spread to the south by another jihadist, Màbba Jaxu Ba, a contemporary of Umar Tall who founded a similar Islamic state in Senegal's Saalum area*.
+- After Màbba was defeated and killed at The Battle of Fandane-Thiouthioune fighting against Maad a Sinig Kumba Ndoffene Famak Joof, his state crumbled but the Tijāniyya remained the predominant Sufi order in the region, and Abdoulaye Niass (1840–1922) became the most important representative of the order in the Saalum*, having immigrated southward from the Jolof and, after exile in Gambia due to tensions with the French, returned to establish a zāwiya in the city of Kaolack.
+
+#### <a href="https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_relations">China–Pakistan relations</a>
+- China supported Pakistan's opposition to the Soviet Union's intervention in Afghanistan and is perceived by Pakistan as a regional counterweight to NATO and the United States.*
+- These results showed that Pakistan is the most pro-China country in the world.*
 
 #### <a href="https://en.wikipedia.org/wiki/Queen's_Counsel">Queen's Counsel</a>
 - It suggested that, instead of declaring services to Queen Elizabeth, barristers should "sincerely promise and declare that I will well and truly serve all whom I may lawfully be called to serve in the office of one of Her Majesty's Counsel, learned in the law according to the best of my skill and understanding".*
 - After more wrangling, the barristers were permitted to make "a more neutral statement" of commitment to principles.*
 
-#### <a href="https://en.wikipedia.org/wiki/Tijaniyyah">Tijaniyyah</a>
-- The Tijānī order was spread to the south by another jihadist, Màbba Jaxu Ba, a contemporary of Umar Tall who founded a similar Islamic state in Senegal's Saalum area*.
-- After Màbba was defeated and killed at The Battle of Fandane-Thiouthioune fighting against Maad a Sinig Kumba Ndoffene Famak Joof, his state crumbled but the Tijāniyya remained the predominant Sufi order in the region, and Abdoulaye Niass (1840–1922) became the most important representative of the order in the Saalum*, having immigrated southward from the Jolof and, after exile in Gambia due to tensions with the French, returned to establish a zāwiya in the city of Kaolack.
+#### <a href="https://en.wikipedia.org/wiki/Emirate_of_Granada">Emirate of Granada</a>
+- About 200,000 Muslims are thought to have emigrated* to North Africa after the fall of Granada.
+- Initially, under the conditions of surrender, the Muslims who remained were guaranteed their property, laws, customs, and religion*.
 
 #### <a href="https://en.wikipedia.org/wiki/Hilary_Duff">Hilary Duff</a>
 - As a Youth Ambassador, she spent five days in the country, distributing backpacks filled with food to needy children.*
@@ -396,37 +415,41 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - As in all mercury-based gas-filled tubes, mercury is slowly adsorbed into the glass,* phosphor, and tube electrodes throughout the life of the lamp, until it can no longer function.
 - Newer fluorescent lights without magnetic ballasts have essentially eliminated flicker.*
 
-#### <a href="https://en.wikipedia.org/wiki/Emirate_of_Granada">Emirate of Granada</a>
-- About 200,000 Muslims are thought to have emigrated* to North Africa after the fall of Granada.
-- Initially, under the conditions of surrender, the Muslims who remained were guaranteed their property, laws, customs, and religion*.
-
 #### <a href="https://en.wikipedia.org/wiki/Social_construction_of_gender_difference">Social construction of gender difference</a>
 - In the past, gender has been used to define the potential of students in areas of qualitative and quantitative subjects.*
 - Since there are no innate or essential intelligence differences in our society, the explanations must be social and cultural.*
+
+#### <a href="https://en.wikipedia.org/wiki/Parliament_of_the_United_Kingdom">Parliament of the United Kingdom</a>
+- Governments have a tendency to dominate the legislative functions of Parliament, by using their in-built majority in the House of Commons, and sometimes using their patronage power to appoint supportive peers in the Lords.*
+- In practice, governments can pass any legislation (within reason) in the Commons they wish, unless there is major dissent by MPs in the governing party.*
 
 #### <a href="https://en.wikipedia.org/wiki/Plough">Plough</a>
 - An advance on the basic design was the iron* ploughshare, a replaceable horizontal cutting surface mounted on the tip of the share.
 - The earliest ploughs with a detachable and replaceable share date from around 1000 BC in the Ancient Near East,* and the earliest iron ploughshares from ca.
 
-#### <a href="https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_relations">China–Pakistan relations</a>
-- China supported Pakistan's opposition to the Soviet Union's intervention in Afghanistan and is perceived by Pakistan as a regional counterweight to NATO and the United States.*
-- These results showed that Pakistan is the most pro-China country in the world.*
-
 #### <a href="https://en.wikipedia.org/wiki/Rocket">Rocket</a>
 - The effect of the combustion of propellant in the rocket engine is to increase the velocity of the resulting gases to very high speeds, hence producing a thrust.*
 - Initially, the gases of combustion are sent in every direction, but only those that produce a net thrust have any effect.*
-
-#### <a href="https://en.wikipedia.org/wiki/Hubert_Lanz">Hubert Lanz</a>
-- While Lanz was in command of the defence of Kharkov, he, along with his Chief of Staff Hans Speidel (later chief of staff to Erwin Rommel and involved in the 20 July plot) and Colonel von Strachwitz formulated a plan to arrest Hitler during his scheduled visit to Lanz's headquarters at Poltava.*
-- This "Plan Lanz" was known in certain military circles, including the leadership of Army Group B, and was even communicated to Field Marshal Erwin Rommel.*
 
 #### <a href="https://en.wikipedia.org/wiki/Zulu_language">Zulu language</a>
 - However, low tone is the default, and is over-ridden by neighbouring high tones, so it is common to describe low-tone syllables as having no inherent tone, with the two phonemic tones, high and falling,* appearing on only certain syllables, rather like stress in English.
 - The falling tone is actually a sequence of high–low, and only occurs on long vowels.*
 
+#### <a href="https://en.wikipedia.org/wiki/Hubert_Lanz">Hubert Lanz</a>
+- While Lanz was in command of the defence of Kharkov, he, along with his Chief of Staff Hans Speidel (later chief of staff to Erwin Rommel and involved in the 20 July plot) and Colonel von Strachwitz formulated a plan to arrest Hitler during his scheduled visit to Lanz's headquarters at Poltava.*
+- This "Plan Lanz" was known in certain military circles, including the leadership of Army Group B, and was even communicated to Field Marshal Erwin Rommel.*
+
+#### <a href="https://en.wikipedia.org/wiki/Diploma">Diploma</a>
+- The entire diploma was written by hand because of the lack of economically viable printing presses, as at the time templates would have been carved out of limestone tablets, and since the fall of the Egyptian empire there had been very few skilled workers in the carving of limestone.Soon, parchment entered use for the diploma in many places but most notably, first at Mexico City College in May, 1949*, later the diploma became bound in leather.
+- Diplomas used to be printed on large paper, but it has become common to print diplomas on standard letter or A4 size paper, except for most educational institutions in the north of France which issue diplomas on A3 size paper or larger.*
+
 #### <a href="https://en.wikipedia.org/wiki/World_War_II_by_country">World War II by country</a>
 - Salazar attempted to limit this, and in October 1941, Germany sank a Portuguese merchant ship, the first neutral ship to be sunk in World War II.*
 - The Independent State of Croatia (Nezavisna Država Hrvatska, or NDH) became a member of the Axis on 10 April 1941* and joined the Tripartite Pact on 15 June 1941.
+
+#### <a href="https://en.wikipedia.org/wiki/Tree_squirrel">Tree squirrel</a>
+- Therefore, offering peanuts that have been roasted is the better option.*
+- This type of deficiency has been found to cause metabolic bone disease, a somewhat common ailment found in malnourished squirrels.*
 
 #### <a href="https://en.wikipedia.org/wiki/Alfa_Romeo">Alfa Romeo</a>
 - Prodi was initially unsupportive, citing the strained industrial relations between Northern and Southern Italy, with Fiat being based in Turin and Alfa being based in Milan.*
@@ -436,29 +459,29 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - The Thirlmere Aqueduct in North West England, United Kingdom is sometimes considered the longest tunnel, of any type, in the world at 154 km (96 mi), though the aqueduct's tunnel section is not continuous.*
 - This arguably is the longest ever tunnel in construction taking 104 years.*
 
-#### <a href="https://en.wikipedia.org/wiki/Diploma">Diploma</a>
-- The entire diploma was written by hand because of the lack of economically viable printing presses, as at the time templates would have been carved out of limestone tablets, and since the fall of the Egyptian empire there had been very few skilled workers in the carving of limestone.Soon, parchment entered use for the diploma in many places but most notably, first at Mexico City College in May, 1949*, later the diploma became bound in leather.
-- Diplomas used to be printed on large paper, but it has become common to print diplomas on standard letter or A4 size paper, except for most educational institutions in the north of France which issue diplomas on A3 size paper or larger.*
+#### <a href="https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant">Muslim conquest of the Levant</a>
+- The Muslim conquest of Syria (Arabic: الفتح الإسلامي لبلاد الشام) occurred in the first half of the 7th century, and refers to the conquest of region known as the Levant,* later to become the Islamic Province of Bilad al-Sham.
+- The Muslim conquest of Syria (Arabic: الفتح الإسلامي لبلاد الشام) occurred in the first half of the 7th century, and refers to the conquest of region known as the Levant, later to become the Islamic Province of Bilad al-Sham.*
 
 #### <a href="https://en.wikipedia.org/wiki/Ryan_Adams">Ryan Adams</a>
 - According to Adams's Facebook page, he had completed two unreleased albums, Blackhole and Cardinals III/IV, and was currently recording new albums in both New York City and Los Angeles.*
 - They debuted three new songs and were joined onstage by Mandy Moore for "Oh My Sweet Carolina."*
 
-#### <a href="https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant">Muslim conquest of the Levant</a>
-- The Muslim conquest of Syria (Arabic: الفتح الإسلامي لبلاد الشام) occurred in the first half of the 7th century, and refers to the conquest of region known as the Levant,* later to become the Islamic Province of Bilad al-Sham.
-- The Muslim conquest of Syria (Arabic: الفتح الإسلامي لبلاد الشام) occurred in the first half of the 7th century, and refers to the conquest of region known as the Levant, later to become the Islamic Province of Bilad al-Sham.*
+#### <a href="https://en.wikipedia.org/wiki/Umayyad_Mosque">Umayyad Mosque</a>
+- The Abbasid governor of Damascus, al-Fadl ibn Salih ibn Ali, built the so-called Dome of the Clock* in the eastern section of the mosque in 780.
+- By the early 10th century, a monumental clock* had been installed by the entrance in the western part of the southern wall of the mosque (Bāb al-Ziyāda.
 
-#### <a href="https://en.wikipedia.org/wiki/Pakistani_English">Pakistani English</a>
-- Pakistani English contains many unique terms, as well as terms which are utilised somewhat differently in Pakistan.*
-- Graduation - completion of a bachelor's degree (as in the UK): "I did my graduation at Presidency College" ("I earned my bachelor's degree at Presidency College"), whereas in the United States it refers to completion of Highschool, Master's or PhD as well.*
+#### <a href="https://en.wikipedia.org/wiki/Hash_function">Hash function</a>
+- In particular, the popular CRC32 checksum provides only 16 bits (the higher half of the result) that are usable for hashing*.
+- Moreover, each bit of the input has a deterministic effect on each bit of the CRC32, that is one can tell without looking at the rest of the input, which bits of the output will flip if the input bit is flipped; so care must be taken to use all 32 bits when computing the hash from the checksum.*
 
 #### <a href="https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850">Fugitive Slave Act of 1850</a>
 - By 1843, several hundred slaves a year were successfully escaping to the North, making slavery an unstable institution in the border states.*
 - Since there was no way to confirm the number of runaway slaves,* Congress enacted stricter laws regarding fugitive slaves in the United States.
 
-#### <a href="https://en.wikipedia.org/wiki/Hash_function">Hash function</a>
-- In particular, the popular CRC32 checksum provides only 16 bits (the higher half of the result) that are usable for hashing*.
-- Moreover, each bit of the input has a deterministic effect on each bit of the CRC32, that is one can tell without looking at the rest of the input, which bits of the output will flip if the input bit is flipped; so care must be taken to use all 32 bits when computing the hash from the checksum.*
+#### <a href="https://en.wikipedia.org/wiki/Cut,_copy,_and_paste">Cut, copy, and paste</a>
+- Early versions of Windows* used the IBM standard.
+- Microsoft later also adopted the Apple key combinations with the introduction of Windows*, using the control key as modifier key.
 
 #### <a href="https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War">1948 Arab–Israeli War</a>
 - The Israeli soldiers and aircraft struck at one of the Arab retreat routes, killing 60 Arab soldiers.*
@@ -476,10 +499,6 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - After the war higher education changed from a German model to more of an American model.*
 - The Marshall Plan also introduced the Dutch to American management practices.*
 
-#### <a href="https://en.wikipedia.org/wiki/Cut,_copy,_and_paste">Cut, copy, and paste</a>
-- Early versions of Windows* used the IBM standard.
-- Microsoft later also adopted the Apple key combinations with the introduction of Windows*, using the control key as modifier key.
-
 #### <a href="https://en.wikipedia.org/wiki/Food_vs._fuel">Food vs. fuel</a>
 - 19, 2008, food prices continued to rise in October 2008 and were 6.3 percent higher than October 2007.*
 - So if the price of a bushel of corn goes up, there may be no noticeable impact on US retail food prices.*
@@ -492,6 +511,10 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - The force of gravity on Earth is the resultant (vector sum) of two forces:* (a) The gravitational attraction in accordance with Newton's universal law of gravitation, and (b) the centrifugal force, which results from the choice of an earthbound, rotating frame of reference.
 - The force of gravity on Earth is the resultant (vector sum) of two forces: (a) The gravitational attraction in accordance with Newton's universal law of gravitation, and (b) the centrifugal force*, which results from the choice of an earthbound, rotating frame of reference.
 
+#### <a href="https://en.wikipedia.org/wiki/Pakistani_English">Pakistani English</a>
+- Pakistani English contains many unique terms, as well as terms which are utilised somewhat differently in Pakistan.*
+- Graduation - completion of a bachelor's degree (as in the UK): "I did my graduation at Presidency College" ("I earned my bachelor's degree at Presidency College"), whereas in the United States it refers to completion of Highschool, Master's or PhD as well.*
+
 #### <a href="https://en.wikipedia.org/wiki/Insular_area">Insular area</a>
 - through the Treaty of Paris in 1898, independence recognized on May 20, 1902.*
 - control under provisions of the Hay–Bunau-Varilla Treaty from 1903 to 1979.*
@@ -500,26 +523,25 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - Mashraqi arrived in New Delhi on 2 January 1942.*
 - At this point its aims were to establish rule in India, and then perhaps over the entire world*.
 
-#### <a href="https://en.wikipedia.org/wiki/Knowledge_worker">Knowledge worker</a>
-- Knowledge workers spend 38% of their time searching for information.*
-- 450 BC, with the Library of Alexandria,* but their modern roots can be linked to the emergence of information management in the 1970s.
+#### <a href="https://en.wikipedia.org/wiki/Liep%C4%81ja">Liepāja</a>
+- The Livonian Order, under the aegis of the Teutonic Order, established the settlement as the village of Liba(u) in 1263*.
+- In 1418 the city was sacked and burned by the Lithuanians.*
 
 #### <a href="https://en.wikipedia.org/wiki/Purebred">Purebred</a>
 - A purebred dog is a dog of a modern breed of dog, with written documentation showing the individual purebred dog's descent from its breeds' foundation stock*.
 - Some of these cat breeds (with their invalid scientific names for historical interest) are:*
 
-#### <a href="https://en.wikipedia.org/wiki/Sark">Sark</a>
-- In ancient times, Sark was almost certainly occupied by the Veneti*.
-- After the Roman retreat during the fifth century AD, Sark was probably an outpost of one or other Breton-speaking* kingdoms until 933, when it became part of the Duchy of Normandy.
+#### <a href="https://en.wikipedia.org/wiki/Coventry">Coventry</a>
+- These plays were traditionally performed on the steps of the (old) cathedral, and the plays are believed to have been performed for both Richard III in 1484 and Henry VII in 1584.*
 
-#### <a href="https://en.wikipedia.org/wiki/East_Rail_Line">East Rail Line</a>
-- In May 2008, MTR announced plans to renew many stations, most* of which have been in service for over half a century.
+#### <a href="https://en.wikipedia.org/wiki/Trieste">Trieste</a>
+- In total, the city's ethnic Slavic minority makes up about 30 percent of the population.*
 
-#### <a href="https://en.wikipedia.org/wiki/Prairie">Prairie</a>
-- The native grasses suffered much less damage from dry conditions than the farm crops currently grown.*
+#### <a href="https://en.wikipedia.org/wiki/April_Fools'_Day">April Fools' Day</a>
+- The custom of setting aside a day for the playing of harmless pranks upon one's neighbor is recognized everywhere.*
 
-#### <a href="https://en.wikipedia.org/wiki/Mineral_oil">Mineral oil</a>
-- Food grade mineral oil has an E number of E905a, although it is not approved in food products in the European Union, and incidental amounts in foods are carefully regulated.*
+#### <a href="https://en.wikipedia.org/wiki/64th_Air_Expeditionary_Group">64th Air Expeditionary Group</a>
+- The 64 AEG/AEW operated out of Camp Snoopy at Doha International Airport, Qatar from 1996 until 2004.*
 
 #### <a href="https://en.wikipedia.org/wiki/Low-cost_carrier">Low-cost carrier</a>
 - Often these airlines offer no refunds or transfers to later flights in the event of missed flights; if the aircraft leaves on time without a passenger who arrived late from a connecting flight, the passenger will have to buy a wholly new ticket for the next flight.*
@@ -530,8 +552,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Anti-Arabism">Anti-Arabism</a>
 - Out of a total of 116,000 workers from 1914–1918, 78,000 Algerians, 54,000 Moroccans, and Tunisians were requistioned.*
 
-#### <a href="https://en.wikipedia.org/wiki/Colonial_India">Colonial India</a>
-- The East India Company had failed to implement any coordinated policy to deal with the famines during its period of rule.*
+#### <a href="https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas">Indigenous peoples of the Americas</a>
+- In Brazil, the indigenous population declined from a pre-Columbian high of an estimated three million to some 300,000 in 1997.*
 
 #### <a href="https://en.wikipedia.org/wiki/Theobroma_cacao">Theobroma cacao</a>
 - The cacao was known as kakaw in Tzeltal, K’iche’ and Classic Maya; kagaw in Sayula Popoluca; and cacahuatl* in Nahuatl.
@@ -563,17 +585,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Economy">Economy</a>
 - The discoveries of Marco Polo (1254–1324),* Christopher Columbus (1451–1506) and Vasco da Gama (1469–1524) led to a first global economy.
 
-#### <a href="https://en.wikipedia.org/wiki/April_Fools'_Day">April Fools' Day</a>
-- The custom of setting aside a day for the playing of harmless pranks upon one's neighbor is recognized everywhere.*
+#### <a href="https://en.wikipedia.org/wiki/Chinese_name">Chinese name</a>
+- A noted* example is the exile and dissident poet Zhao Zhenkai, whose pen name is "Bei Dao" (北岛, lit.
 
-#### <a href="https://en.wikipedia.org/wiki/64th_Air_Expeditionary_Group">64th Air Expeditionary Group</a>
-- The 64 AEG/AEW operated out of Camp Snoopy at Doha International Airport, Qatar from 1996 until 2004.*
+#### <a href="https://en.wikipedia.org/wiki/Belt_(clothing)">Belt (clothing)</a>
+- This was also common in superhero costume design of the early 1990s.*
 
 #### <a href="https://en.wikipedia.org/wiki/Parliament_of_Northern_Ireland">Parliament of Northern Ireland</a>
 - In the 1930s, the phrase a Protestant parliament for a Protestant people was a debated term.*
 
-#### <a href="https://en.wikipedia.org/wiki/Belt_(clothing)">Belt (clothing)</a>
-- This was also common in superhero costume design of the early 1990s.*
+#### <a href="https://en.wikipedia.org/wiki/Helium-3">Helium-3</a>
+- Cosmochemist and geochemist Ouyang Ziyuan from the Chinese Academy of Sciences who is now in charge of the Chinese Lunar Exploration Program has already stated on many occasions that one of the main goals of the program would be the mining of helium-3, from which operation "each year three space shuttle missions could bring enough fuel for all human beings across the world." To "bring enough fuel for all human beings across the world", more than one Space Shuttle load (and the processing of 4 million tonnes of regolith) per week, at least 52 per year, would be necessary.*
 
 #### <a href="https://en.wikipedia.org/wiki/Palais_Garnier">Palais Garnier</a>
 - Charles Garnier (1825–1898) was one of 171 entrants in the first phase.*
@@ -584,8 +606,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Dispersion_(optics)">Dispersion (optics)</a>
 - More generally, "waveguide" dispersion can occur for waves propagating through any inhomogeneous structure (e.g., a photonic crystal), whether or not the waves are confined to some region*.
 
-#### <a href="https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas">Indigenous peoples of the Americas</a>
-- In Brazil, the indigenous population declined from a pre-Columbian high of an estimated three million to some 300,000 in 1997.*
+#### <a href="https://en.wikipedia.org/wiki/Royal_charter">Royal charter</a>
+- The Royal Heraldry Society of Canada; founded in 1966 as the Heraldry Society of Canada; reconstituted by a Royal Charter issued in 2002 by Queen Elizabeth II*
 
 #### <a href="https://en.wikipedia.org/wiki/Persuasion">Persuasion</a>
 - We are so obsessed with what others do and how others act, that we then try to be just like other people.*
@@ -596,8 +618,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Mu%CA%BFtazila">Muʿtazila</a>
 - In response to the attacks, Mu'tazili theologians refined and made more coherent and systematic their idea system.*
 
-#### <a href="https://en.wikipedia.org/wiki/Chinese_name">Chinese name</a>
-- A noted* example is the exile and dissident poet Zhao Zhenkai, whose pen name is "Bei Dao" (北岛, lit.
+#### <a href="https://en.wikipedia.org/wiki/Punching_bag">Punching bag</a>
+- using the knuckles of the index and middle fingers)*.
 
 #### <a href="https://en.wikipedia.org/wiki/Liberalism_in_the_United_States">Liberalism in the United States</a>
 - More recently, writers have seen a multitude of traditions, including liberalism, republicanism and Protestantism.*
@@ -647,8 +669,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/History_of_Egypt">History of Egypt</a>
 - Sadat's initiative sparked enormous controversy in the Arab world and led to Egypt's expulsion from the Arab League, but it was supported by most Egyptians.*
 
-#### <a href="https://en.wikipedia.org/wiki/Helium-3">Helium-3</a>
-- Cosmochemist and geochemist Ouyang Ziyuan from the Chinese Academy of Sciences who is now in charge of the Chinese Lunar Exploration Program has already stated on many occasions that one of the main goals of the program would be the mining of helium-3, from which operation "each year three space shuttle missions could bring enough fuel for all human beings across the world." To "bring enough fuel for all human beings across the world", more than one Space Shuttle load (and the processing of 4 million tonnes of regolith) per week, at least 52 per year, would be necessary.*
+#### <a href="https://en.wikipedia.org/wiki/TARDIS">TARDIS</a>
+- For example, the sign on the door concealing the police telephone has been black letters on a white background (An Unearthly Child), white on blue (The Seeds of Death, 1969)* and white on black (The Curse of Peladon, 1972).
 
 #### <a href="https://en.wikipedia.org/wiki/Monarch">Monarch</a>
 - Between 47BC-42BC Anula of Sri Lanka became the country's first female head of state as well as Asia's first head of state.*
@@ -656,8 +678,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Online_music_store">Online music store</a>
 - More consistent and higher-quality metadata, because the entering of the metadata is more centralized and done with more oversight.*
 
-#### <a href="https://en.wikipedia.org/wiki/Royal_charter">Royal charter</a>
-- The Royal Heraldry Society of Canada; founded in 1966 as the Heraldry Society of Canada; reconstituted by a Royal Charter issued in 2002 by Queen Elizabeth II*
+#### <a href="https://en.wikipedia.org/wiki/Gravesend,_Brooklyn">Gravesend, Brooklyn</a>
+- The first known European to set foot in the area that would become Gravesend was Henry Hudson, whose ship, the Half Moon, landed on Coney Island in the fall of 1609.*
 
 #### <a href="https://en.wikipedia.org/wiki/Free_software_license">Free software license</a>
 - Since the BSD license restricts the right of developers to have changes recontributed to the community,* neither it nor the GPL is "free" in the sense of "lacking any restrictions.
@@ -683,8 +705,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Battle_of_Sarikamish">Battle of Sarikamish</a>
 - On January 3, I Corps* were driven out to the Choruk Valley, in which direction the remnants of the X Corps were also retreating.
 
-#### <a href="https://en.wikipedia.org/wiki/Punching_bag">Punching bag</a>
-- using the knuckles of the index and middle fingers)*.
+#### <a href="https://en.wikipedia.org/wiki/Human_rights_in_China">Human rights in China</a>
+- The members of the illegal, underground Catholic church true to the Pope* and members of Protestant house churches face prosecution from PRC authorities.
 
 #### <a href="https://en.wikipedia.org/wiki/Voting_at_the_Eurovision_Song_Contest">Voting at the Eurovision Song Contest</a>
 - Since the creation of a qualifying round/semi-final in 2004 and expansion to two semi-finals in 2008, more than thirty countries vote each night*, even the countries eliminated or already qualified.
@@ -692,8 +714,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Charity_(practice)">Charity (practice)</a>
 - St Paul's agapē was not primarily about good works and giving to the poor* (And though I feed the poor with all my goods, and though I give my body, that I be burned, and have not love [agapē], it profiteth me nothing—1 Cor 13:3, Geneva translation, 1560), although in English the word "charity" has steadily acquired this as its primary meaning, wherein it was first used in Old French at least since the year 1200 A.
 
-#### <a href="https://en.wikipedia.org/wiki/TARDIS">TARDIS</a>
-- For example, the sign on the door concealing the police telephone has been black letters on a white background (An Unearthly Child), white on blue (The Seeds of Death, 1969)* and white on black (The Curse of Peladon, 1972).
+#### <a href="https://en.wikipedia.org/wiki/Horseshoe">Horseshoe</a>
+- Because iron was a valuable commodity, and any worn out items were generally melted down and reused, it is difficult to locate clear archaeological evidence.*
 
 #### <a href="https://en.wikipedia.org/wiki/Tire">Tire</a>
 - Tires have also been cut up and used in garden beds as bark mulch to hold in the water and to prevent weeds from growing.*
@@ -710,17 +732,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Marathon">Marathon</a>
 - In 2014 Amy Hughes, from England, ran 53 marathons in 53 days, thus setting the record for the most marathons run on consecutive days by any person, male or female.*
 
-#### <a href="https://en.wikipedia.org/wiki/Gravesend,_Brooklyn">Gravesend, Brooklyn</a>
-- The first known European to set foot in the area that would become Gravesend was Henry Hudson, whose ship, the Half Moon, landed on Coney Island in the fall of 1609.*
+#### <a href="https://en.wikipedia.org/wiki/Philanthropy">Philanthropy</a>
+- Philanthropy began to reach its modern form in the Age of Enlightenment; after the Wars of Religion in 17th century Europe, secular alternatives such as rationalism, empiricism, and science inclined philosophers toward a progressive view of history.*
 
 #### <a href="https://en.wikipedia.org/wiki/Township_(United_States)">Township (United States)</a>
 - Survey townships exist in some form in most states other than the original 13 colonies, Kentucky, Tennessee, Vermont, and Maine.*
 
-#### <a href="https://en.wikipedia.org/wiki/Human_rights_in_China">Human rights in China</a>
-- The members of the illegal, underground Catholic church true to the Pope* and members of Protestant house churches face prosecution from PRC authorities.
+#### <a href="https://en.wikipedia.org/wiki/Ecuadorians">Ecuadorians</a>
+- This is largely owing to the 17th century shipwreck of a slave-trading galleon off the northern coast of Ecuador.*
 
-#### <a href="https://en.wikipedia.org/wiki/Horseshoe">Horseshoe</a>
-- Because iron was a valuable commodity, and any worn out items were generally melted down and reused, it is difficult to locate clear archaeological evidence.*
+#### <a href="https://en.wikipedia.org/wiki/Foreign_relations_of_France">Foreign relations of France</a>
+- In Southeast Asia, France was an architect of the Paris Peace Accords, which ended the conflict in Cambodia.*
 
 #### <a href="https://en.wikipedia.org/wiki/John_Langdon_(politician)">John Langdon (politician)</a>
 - During the 1787 constitutional debates in Philadelphia, Langdon spoke out against James Madison's proposed "negative" on state laws simply because he felt that should the Senate be granted this power and not the House of Representatives, it would "hurt the feelings" of House members.*
@@ -737,14 +759,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Anatolia">Anatolia</a>
 - The Egyptians eventually* withdrew from the region after failing to gain the upper hand over the Hittites and becoming wary of the power of Assyria, which had destroyed the Mitanni Empire.
 
-#### <a href="https://en.wikipedia.org/wiki/Philanthropy">Philanthropy</a>
-- Philanthropy began to reach its modern form in the Age of Enlightenment; after the Wars of Religion in 17th century Europe, secular alternatives such as rationalism, empiricism, and science inclined philosophers toward a progressive view of history.*
+#### <a href="https://en.wikipedia.org/wiki/Fuel_injection">Fuel injection</a>
+- Carburetors have the potential to atomize fuel better (see Pogue and Allen Caggiano patents).*
 
 #### <a href="https://en.wikipedia.org/wiki/European_bison">European bison</a>
 - The European bison has 14 pairs of ribs, while the American bison has 15.*
 
-#### <a href="https://en.wikipedia.org/wiki/Ecuadorians">Ecuadorians</a>
-- This is largely owing to the 17th century shipwreck of a slave-trading galleon off the northern coast of Ecuador.*
+#### <a href="https://en.wikipedia.org/wiki/Chiapas">Chiapas</a>
+- Flowing within the Rainforest is the Usumacinta River, considered to be one of the largest rivers in Mexico and seventh largest in the world based on volume of water.*
 
 #### <a href="https://en.wikipedia.org/wiki/Gondwana">Gondwana</a>
 - This is the Famatinian block (named after Famatina in northwest Argentina) and it formerly continued the line of the Appalachians southwards.*
@@ -788,8 +810,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Collective_intelligence">Collective intelligence</a>
 - In addition, humans lack a way to make choices that balance innovation and reality.*
 
-#### <a href="https://en.wikipedia.org/wiki/Foreign_relations_of_France">Foreign relations of France</a>
-- In Southeast Asia, France was an architect of the Paris Peace Accords, which ended the conflict in Cambodia.*
+#### <a href="https://en.wikipedia.org/wiki/Marriage">Marriage</a>
+- Western Christians commonly refer to marriage as a vocation, while Eastern Christians consider it an ordination and a martyrdom, though the theological emphases indicated by the various names are not excluded by the teachings of either tradition.*
 
 #### <a href="https://en.wikipedia.org/wiki/Moro_people">Moro people</a>
 - Since the 19th century, many of the indigenous Muslims preferred to be separated from the mainstream Philippine society,* due to social and political factors.
@@ -800,11 +822,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Water_supply">Water supply</a>
 - This is, for example, the case in the countries of continental Europe, in China and India.*
 
+#### <a href="https://en.wikipedia.org/wiki/Structuralism">Structuralism</a>
+- Roland Barthes and Jacques Derrida focused on how structuralism could be applied to literature.*
+
 #### <a href="https://en.wikipedia.org/wiki/Bed_bug">Bed bug</a>
 - Boric acid, occasionally applied as a safe indoor insecticide, is not effective against bed bugs because they do not groom.*
 
-#### <a href="https://en.wikipedia.org/wiki/Fuel_injection">Fuel injection</a>
-- Carburetors have the potential to atomize fuel better (see Pogue and Allen Caggiano patents).*
+#### <a href="https://en.wikipedia.org/wiki/Abenaki">Abenaki</a>
+- The Abenaki smash the flowers and leaves of Ranunculus acris* and sniff them for headaches.
 
 #### <a href="https://en.wikipedia.org/wiki/Brixton">Brixton</a>
 - Although now in Brixton,* the address at the time was in Camberwell prior to a minor boundary change.
@@ -824,11 +849,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Babylonia">Babylonia</a>
 - Thus Babylonian mathematics remained stale in character and content, with very little progress or innovation, for nearly two millennia.*
 
-#### <a href="https://en.wikipedia.org/wiki/Chiapas">Chiapas</a>
-- Flowing within the Rainforest is the Usumacinta River, considered to be one of the largest rivers in Mexico and seventh largest in the world based on volume of water.*
+#### <a href="https://en.wikipedia.org/wiki/Culture_of_Brazil">Culture of Brazil</a>
+- Some aspects of Brazilian culture are contributions of Italian, German and other European immigrants.*
 
-#### <a href="https://en.wikipedia.org/wiki/Marriage">Marriage</a>
-- Western Christians commonly refer to marriage as a vocation, while Eastern Christians consider it an ordination and a martyrdom, though the theological emphases indicated by the various names are not excluded by the teachings of either tradition.*
+#### <a href="https://en.wikipedia.org/wiki/Semi-trailer_truck">Semi-trailer truck</a>
+- Semi trucks use air pressure, rather than hydraulic fluid, to actuate the brakes mainly due to the much larger braking forces required.*
 
 #### <a href="https://en.wikipedia.org/wiki/Florida">Florida</a>
 - The average sales price for an existing house was $131,000, 7% decrease from the prior year.*
@@ -836,8 +861,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Scoliosis">Scoliosis</a>
 - Taking into account that signs and symptoms of spinal deformity cannot be changed by surgical intervention, surgery remains primarily a cosmetic indication*, only especially in patients with adolescent idiopathic scoliosis, the most common form of scoliosis never exceeding 80°.
 
-#### <a href="https://en.wikipedia.org/wiki/Structuralism">Structuralism</a>
-- Roland Barthes and Jacques Derrida focused on how structuralism could be applied to literature.*
+#### <a href="https://en.wikipedia.org/wiki/2channel">2channel</a>
+- According to Densha Otoko and Hermes (the nickname of the woman; named after the brand of the tea-set she sent him), they are still together*.
 
 #### <a href="https://en.wikipedia.org/wiki/G%C3%B6ttingen">Göttingen</a>
 - After the war the city and district of Göttingen joined the administrative district (Regierungsbezirk) of Hildesheim.*
@@ -845,8 +870,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Andrew_Mellon">Andrew Mellon</a>
 - By 1926, 65% of the income tax revenue came from incomes $300,000 and higher, when five years prior, less than 20% did.*
 
-#### <a href="https://en.wikipedia.org/wiki/Abenaki">Abenaki</a>
-- The Abenaki smash the flowers and leaves of Ranunculus acris* and sniff them for headaches.
+#### <a href="https://en.wikipedia.org/wiki/Upper_class">Upper class</a>
+- In the United States, the upper class, as distinguished from the rich, is often considered to consist of those families that have for many generations enjoyed top social status based on their leadership in society and their distinctive culture derived from their Upper class ancestors in the colonial gentry*.
 
 #### <a href="https://en.wikipedia.org/wiki/County_Antrim">County Antrim</a>
 - The earliest known inhabitants were Mesolithic hunter-gatherers of pre-Celtic origin, but the names of the townlands or subdivisions, supposed to have been made in the 13th century, are all of Gaelic derivation.*
@@ -857,6 +882,9 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Design_of_experiments">Design of experiments</a>
 - This systematic clinical trial constitutes a type of DOE.*
 
+#### <a href="https://en.wikipedia.org/wiki/History_of_Western_Sahara">History of Western Sahara</a>
+- Phoenician/Carthaginian colonies established or reinforced by Hanno the Navigator in the 5th century BC have vanished with virtually no trace.*
+
 #### <a href="https://en.wikipedia.org/wiki/Dualism_(philosophy_of_mind)">Dualism (philosophy of mind)</a>
 - Any theory will be wrong when applied to a system which contains the observer himself due to self-reference.*
 
@@ -866,8 +894,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Linda_Ronstadt">Linda Ronstadt</a>
 - Having sold in excess of 100 million records worldwide* and setting records as one of the top-grossing concert performers for over a decade, Ronstadt was the most successful female singer of the 1970s and stands as one of the most successful female recording artists in U.
 
-#### <a href="https://en.wikipedia.org/wiki/Coventry">Coventry</a>
-- These plays were traditionally performed on the steps of the (old) cathedral, and the plays are believed to have been performed for both Richard III in 1484 and Henry VII in 1584.*
+#### <a href="https://en.wikipedia.org/wiki/Rootkit">Rootkit</a>
+- Most of the rootkits available on the Internet originated as exploits or as academic "proofs of concept" to demonstrate varying methods of hiding things within a computer system and of taking unauthorized control of it.*
 
 #### <a href="https://en.wikipedia.org/wiki/Nowruz">Nowruz</a>
 - Traditionally, "Nawriz" or "Nowruz" is celebrated mainly in China's Xinjiang Uyghur Autonomous Region by the Uyghurs, Chinese Tajik, Salar, and Kazakh ethnicities.*
@@ -890,32 +918,32 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Sausage">Sausage</a>
 - In England, the saveloy is a type of pre-cooked beef* sausage, larger than a typical hot-dog, which is served hot.
 
-#### <a href="https://en.wikipedia.org/wiki/Culture_of_Brazil">Culture of Brazil</a>
-- Some aspects of Brazilian culture are contributions of Italian, German and other European immigrants.*
+#### <a href="https://en.wikipedia.org/wiki/Oar">Oar</a>
+- The sport of competitive rowing has developed a peculiar* tradition of using an oar as a memento of significant race wins.
 
 #### <a href="https://en.wikipedia.org/wiki/Drug_lord">Drug lord</a>
 - There are currently plans to produce a film based upon his career.*
 
-#### <a href="https://en.wikipedia.org/wiki/Semi-trailer_truck">Semi-trailer truck</a>
-- Semi trucks use air pressure, rather than hydraulic fluid, to actuate the brakes mainly due to the much larger braking forces required.*
+#### <a href="https://en.wikipedia.org/wiki/Teacher_education">Teacher education</a>
+- skills in assessing student learning, supporting English Language learners,* using technology to improve teaching and learning, and supporting students with special needs.
 
 #### <a href="https://en.wikipedia.org/wiki/Religious_violence">Religious violence</a>
 - Make no mistake, the United States will hunt down and punish those responsible for these cowardly acts." Despite the few severe sects, Islam is not a fundamentally violent religion.*
 
-#### <a href="https://en.wikipedia.org/wiki/2channel">2channel</a>
-- According to Densha Otoko and Hermes (the nickname of the woman; named after the brand of the tea-set she sent him), they are still together*.
-
-#### <a href="https://en.wikipedia.org/wiki/Upper_class">Upper class</a>
-- In the United States, the upper class, as distinguished from the rich, is often considered to consist of those families that have for many generations enjoyed top social status based on their leadership in society and their distinctive culture derived from their Upper class ancestors in the colonial gentry*.
-
 #### <a href="https://en.wikipedia.org/wiki/Constitution_of_India">Constitution of India</a>
 - did not exist before the adoption of the constitution, by the people of India, and were created by it.*
 
-#### <a href="https://en.wikipedia.org/wiki/Oar">Oar</a>
-- The sport of competitive rowing has developed a peculiar* tradition of using an oar as a memento of significant race wins.
+#### <a href="https://en.wikipedia.org/wiki/Tapas_(Sanskrit)">Tapas (Sanskrit)</a>
+- The earliest discussions of tapas, and compound words from the root tap (Sanskrit: तप) relate to the heat necessary for biological birth.*
 
 #### <a href="https://en.wikipedia.org/wiki/Laser">Laser</a>
 - They are typical micrometer-sized* and tunable on the bands of the photonic crystals.
+
+#### <a href="https://en.wikipedia.org/wiki/Alexander_Pechersky">Alexander Pechersky</a>
+- 270 and was sent to the front to fight German forces in some of the toughest engagements of the war.*
+
+#### <a href="https://en.wikipedia.org/wiki/Muhajir_people">Muhajir people</a>
+- In 1739, a new wave of Pashtuns settled increasing their population to over 100,0000.*
 
 #### <a href="https://en.wikipedia.org/wiki/Bamboo">Bamboo</a>
 - A bamboo filter is used to remove the salt from seawater*.
@@ -929,11 +957,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Nuclear_power">Nuclear power</a>
 - The total energy required for decommissioning can be as much as 50% more than the energy needed for the original construction.*
 
-#### <a href="https://en.wikipedia.org/wiki/Teacher_education">Teacher education</a>
-- skills in assessing student learning, supporting English Language learners,* using technology to improve teaching and learning, and supporting students with special needs.
+#### <a href="https://en.wikipedia.org/wiki/Igbo_language">Igbo language</a>
+- They have been used since at least the 16th century, but died out publicly* after they became popular amongst secret societies such as the Ekpe, who used them as a secret form of communication.
 
-#### <a href="https://en.wikipedia.org/wiki/Muhajir_people">Muhajir people</a>
-- In 1739, a new wave of Pashtuns settled increasing their population to over 100,0000.*
+#### <a href="https://en.wikipedia.org/wiki/Claudius_Gothicus">Claudius Gothicus</a>
+- Together with his cavalry commander, the future Emperor Aurelian, the Romans took thousands of prisoners, destroyed the Gothic cavalry as a force, and stormed their laager (a circular alignment of wagons long favored by the Goths).*
 
 #### <a href="https://en.wikipedia.org/wiki/Albanian_language">Albanian language</a>
 - h (all other laryngeals disappear completely).*
@@ -944,11 +972,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Chantilly,_Virginia">Chantilly, Virginia</a>
 - A portion of Chantilly is located within the South Riding, Virginia CDP located to the immediate west, but within Loudoun County, Virginia.*
 
-#### <a href="https://en.wikipedia.org/wiki/Tapas_(Sanskrit)">Tapas (Sanskrit)</a>
-- The earliest discussions of tapas, and compound words from the root tap (Sanskrit: तप) relate to the heat necessary for biological birth.*
+#### <a href="https://en.wikipedia.org/wiki/Phoenician_alphabet">Phoenician alphabet</a>
+- However, according to a theory by Theodor Nöldeke from 1904, some of the letter names were changed in Phoenician from the Proto-Canaanite script.*
 
 #### <a href="https://en.wikipedia.org/wiki/Chlorofluorocarbon">Chlorofluorocarbon</a>
 - Hydrofluorocarbons are included in the Kyoto Protocol because of their very high Global Warming Potential and are facing calls to be regulated under the Montreal Protocol* due to the recognition of halocarbon contributions to climate change.
+
+#### <a href="https://en.wikipedia.org/wiki/Flag_of_Egypt">Flag of Egypt</a>
+- It has also been suggested that the three stars represented the three religious communities of the country: Muslims, Christians and Jews.*
 
 #### <a href="https://en.wikipedia.org/wiki/Corruption">Corruption</a>
 - The word was first used by Aristotle and later by Cicero who added the terms bribe and abandonment of good habits.*
@@ -977,14 +1008,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Whitewater">Whitewater</a>
 - This pressure causes the water to flow more rapidly (hence the name) and to react differently* to riverbed events (rocks, drops, etc.
 
-#### <a href="https://en.wikipedia.org/wiki/Alexander_Pechersky">Alexander Pechersky</a>
-- 270 and was sent to the front to fight German forces in some of the toughest engagements of the war.*
+#### <a href="https://en.wikipedia.org/wiki/Nonverbal_communication">Nonverbal communication</a>
+- Nonverbal communication represents two-thirds of all communication.*
 
 #### <a href="https://en.wikipedia.org/wiki/Alcohol_by_volume">Alcohol by volume</a>
 - 1.05 is the number of grams of ethanol produced for every gram of CO2 produced,* and .
 
-#### <a href="https://en.wikipedia.org/wiki/Igbo_language">Igbo language</a>
-- They have been used since at least the 16th century, but died out publicly* after they became popular amongst secret societies such as the Ekpe, who used them as a secret form of communication.
+#### <a href="https://en.wikipedia.org/wiki/Languages_of_the_Philippines">Languages of the Philippines</a>
+- Filipinos prefer textbooks for subjects like calculus, physics, chemistry, biology, etc., written in English rather than Filipino.*
 
 #### <a href="https://en.wikipedia.org/wiki/Markov_chain">Markov chain</a>
 - in 1974.*
@@ -992,14 +1023,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Virtual_memory">Virtual memory</a>
 - DOS), generally have no virtual memory functionality,* though notable exceptions for mainframes of the 1960s include
 
-#### <a href="https://en.wikipedia.org/wiki/Claudius_Gothicus">Claudius Gothicus</a>
-- Together with his cavalry commander, the future Emperor Aurelian, the Romans took thousands of prisoners, destroyed the Gothic cavalry as a force, and stormed their laager (a circular alignment of wagons long favored by the Goths).*
+#### <a href="https://en.wikipedia.org/wiki/Transylvania">Transylvania</a>
+- Transylvania was occupied by Hungarians in several stages between the 10th and 13th centuries Between 1003* and 1526, Transylvania was a voivodeship in the Kingdom of Hungary, led by a voivode appointed by the King of Hungary.
 
-#### <a href="https://en.wikipedia.org/wiki/Phoenician_alphabet">Phoenician alphabet</a>
-- However, according to a theory by Theodor Nöldeke from 1904, some of the letter names were changed in Phoenician from the Proto-Canaanite script.*
+#### <a href="https://en.wikipedia.org/wiki/White_privilege">White privilege</a>
+- The family wealth so generated is the most important contribution to wealth disparity between black and white Americans.*
 
-#### <a href="https://en.wikipedia.org/wiki/Nonverbal_communication">Nonverbal communication</a>
-- Nonverbal communication represents two-thirds of all communication.*
+#### <a href="https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica">Banská Bystrica</a>
+- Other sources claim that due to the attack of Mongols, in 1243–44, the town ceased to exist.*
 
 #### <a href="https://en.wikipedia.org/wiki/Ancient_Greek_medicine">Ancient Greek medicine</a>
 - The earliest known Greek medical school opened in Cnidus in 700 BC.*
@@ -1010,8 +1041,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Kushan_Empire">Kushan Empire</a>
 - After that date,* they used Kushan language legends (in an adapted Greek script), combined with legends in Greek (Greek script) and legends in Prakrit (Kharoshthi script).
 
-#### <a href="https://en.wikipedia.org/wiki/Languages_of_the_Philippines">Languages of the Philippines</a>
-- Filipinos prefer textbooks for subjects like calculus, physics, chemistry, biology, etc., written in English rather than Filipino.*
+#### <a href="https://en.wikipedia.org/wiki/Vladimir_Mayakovsky">Vladimir Mayakovsky</a>
+- Such speculation, often alluding to suspicion of murder by State services, especially intensified during the periods of Krushchevian de-Stalinisation, Glasnost, and Perestroika,* as Soviet politicians sought to weaken Stalin's reputation (or Brik's, and by association, Stalin's) and the positions of contemporary opponents.
 
 #### <a href="https://en.wikipedia.org/wiki/Macedonians_(ethnic_group)">Macedonians (ethnic group)</a>
 - Subsequently, the literary and ecclesiastical centres in Ohrid, not only became a second cultural capital of medieval Bulgaria, but soon eclipsed those in Preslav.*
@@ -1019,14 +1050,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Tora!_Tora!_Tora!">Tora! Tora! Tora!</a>
 - Tora (虎, pronounced [tòɽá]) literally means "tiger", but in this case was an acronym for totsugeki raigeki　(突撃雷撃, "lightning attack")*.
 
+#### <a href="https://en.wikipedia.org/wiki/Film">Film</a>
+- Another opinion is that the first public exhibition of projected motion pictures in America was at Koster and Bial's Music Hall in New York City on the 23rd of April 1896.*
+
 #### <a href="https://en.wikipedia.org/wiki/Bus">Bus</a>
 - In the 1930s Italy designed the world's only* triple decker bus for the busy route between Rome and Tivoli that could carry eighty-eight passengers.
 
 #### <a href="https://en.wikipedia.org/wiki/Kabul_Province">Kabul Province</a>
 - In the 1960s and 70s most of Kabul's economy depended on tourism.*
 
-#### <a href="https://en.wikipedia.org/wiki/Film">Film</a>
-- Another opinion is that the first public exhibition of projected motion pictures in America was at Koster and Bial's Music Hall in New York City on the 23rd of April 1896.*
+#### <a href="https://en.wikipedia.org/wiki/Life_on_Mars">Life on Mars</a>
+- Of the four experiments, only the Labeled Release (LR) experiment returned a positive result,* showing increased 14CO2 production on first exposure of soil to water and nutrients.
 
 #### <a href="https://en.wikipedia.org/wiki/The_Living_Daylights">The Living Daylights</a>
 - In the intervening period, having completed Brenda Starr,* Dalton was offered the role once again, which he accepted.
@@ -1046,23 +1080,23 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/James_Lovelock">James Lovelock</a>
 - At that point the Arctic Ocean was 23 °C and had crocodiles in it, with the rest of the world mostly scrub and desert.*
 
-#### <a href="https://en.wikipedia.org/wiki/Transylvania">Transylvania</a>
-- Transylvania was occupied by Hungarians in several stages between the 10th and 13th centuries Between 1003* and 1526, Transylvania was a voivodeship in the Kingdom of Hungary, led by a voivode appointed by the King of Hungary.
+#### <a href="https://en.wikipedia.org/wiki/Panther_tank">Panther tank</a>
+- Army officers in August 1944 in Isigny, France showed catastrophic cracking of the armour plate on two out of three Panthers examined.*
 
 #### <a href="https://en.wikipedia.org/wiki/Bicameralism">Bicameralism</a>
 - This is due to their original location in the two-story building that was to house them.*
 
-#### <a href="https://en.wikipedia.org/wiki/White_privilege">White privilege</a>
-- The family wealth so generated is the most important contribution to wealth disparity between black and white Americans.*
+#### <a href="https://en.wikipedia.org/wiki/Umayyad_Caliphate">Umayyad Caliphate</a>
+- Modern Arab nationalism regards the period of the Umayyads as part of the Arab Golden Age which it sought to emulate and restore.*
 
 #### <a href="https://en.wikipedia.org/wiki/Karl_Popper">Karl Popper</a>
 - Thus Newton's laws, with their wide general application, are to be preferred over the much more specific "the solar system has seven planets".*
 
-#### <a href="https://en.wikipedia.org/wiki/Life_on_Mars">Life on Mars</a>
-- Of the four experiments, only the Labeled Release (LR) experiment returned a positive result,* showing increased 14CO2 production on first exposure of soil to water and nutrients.
+#### <a href="https://en.wikipedia.org/wiki/Dahomey">Dahomey</a>
+- Eventually, however, the corps became respected enough that King Ghezo ordered every family to send him their daughters, with the most fit being chosen as soldiers.*
 
-#### <a href="https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica">Banská Bystrica</a>
-- Other sources claim that due to the attack of Mongols, in 1243–44, the town ceased to exist.*
+#### <a href="https://en.wikipedia.org/wiki/Pali">Pali</a>
+- The existence of a Sanskrit word regularly corresponding to a Pali word is not always secure evidence of the Pali etymology, since, in some cases, artificial Sanskrit words were created by back-formation from Prakrit words.*
 
 #### <a href="https://en.wikipedia.org/wiki/The_Uplift_Mofo_Party_Plan">The Uplift Mofo Party Plan</a>
 - Flea incorporated a "slap" bass style on the album,* which would become a staple of the band's early work.
@@ -1088,8 +1122,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Street_running">Street running</a>
 - The C-Train runs through 7 Avenue South, which only emergency and Calgary Transit vehicles may run on*
 
-#### <a href="https://en.wikipedia.org/wiki/Vladimir_Mayakovsky">Vladimir Mayakovsky</a>
-- Such speculation, often alluding to suspicion of murder by State services, especially intensified during the periods of Krushchevian de-Stalinisation, Glasnost, and Perestroika,* as Soviet politicians sought to weaken Stalin's reputation (or Brik's, and by association, Stalin's) and the positions of contemporary opponents.
+#### <a href="https://en.wikipedia.org/wiki/Saffron">Saffron</a>
+- Saffron, long among the world's most costly spices by weight, is native* to Greece or Southwest Asia and was first cultivated in Greece.
 
 #### <a href="https://en.wikipedia.org/wiki/Forced_conversion">Forced conversion</a>
 - Using the ideas of Feuerbach, Marx and Freud, communist regimes later treated religious believers as subversives or abnormal, sometimes relegating them to psychiatric hospitals and reeducation.*
@@ -1100,8 +1134,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Pine_nut">Pine nut</a>
 - Throughout Europe and Middle East the pine nuts used are traditionally from Pinus pinea (stone pine).*
 
-#### <a href="https://en.wikipedia.org/wiki/Panther_tank">Panther tank</a>
-- Army officers in August 1944 in Isigny, France showed catastrophic cracking of the armour plate on two out of three Panthers examined.*
+#### <a href="https://en.wikipedia.org/wiki/Liquorice">Liquorice</a>
+- Black liquorice contains about 100 calories* per ounce (15 kJ/g).
 
 #### <a href="https://en.wikipedia.org/wiki/Rishi_Kapoor">Rishi Kapoor</a>
 - Duggal*
@@ -1115,38 +1149,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Reston,_Virginia">Reston, Virginia</a>
 - The local theater group, the award-winning* Reston Community Players, present four stage productions annually in the high-tech theater at the Reston Community Center in the Hunters Woods Plaza.
 
-#### <a href="https://en.wikipedia.org/wiki/Umayyad_Caliphate">Umayyad Caliphate</a>
-- Modern Arab nationalism regards the period of the Umayyads as part of the Arab Golden Age which it sought to emulate and restore.*
-
-#### <a href="https://en.wikipedia.org/wiki/Pali">Pali</a>
-- The existence of a Sanskrit word regularly corresponding to a Pali word is not always secure evidence of the Pali etymology, since, in some cases, artificial Sanskrit words were created by back-formation from Prakrit words.*
-
-#### <a href="https://en.wikipedia.org/wiki/Saffron">Saffron</a>
-- Saffron, long among the world's most costly spices by weight, is native* to Greece or Southwest Asia and was first cultivated in Greece.
-
-#### <a href="https://en.wikipedia.org/wiki/Nottingham">Nottingham</a>
-- The reintroduction of trams in 2004 made Nottingham one of only six* English cities to have a light rail system.
-
-#### <a href="https://en.wikipedia.org/wiki/Dahomey">Dahomey</a>
-- Eventually, however, the corps became respected enough that King Ghezo ordered every family to send him their daughters, with the most fit being chosen as soldiers.*
-
-#### <a href="https://en.wikipedia.org/wiki/Vishva_Hindu_Parishad">Vishva Hindu Parishad</a>
-- In the resulting disorder, Christian settlements were set on fire, and 250 Christians were forced to flee their villages.*
-
-#### <a href="https://en.wikipedia.org/wiki/Flea">Flea</a>
-- Cedar oil, a nontoxic natural substance, has been proven effective in the eradication of infestations in pets.*
-
-#### <a href="https://en.wikipedia.org/wiki/Liquorice">Liquorice</a>
-- Black liquorice contains about 100 calories* per ounce (15 kJ/g).
-
 #### <a href="https://en.wikipedia.org/wiki/Negev">Negev</a>
 - The population, largely made up of Arabian nomads, remained largely tribal and independent of Roman rule, with an animist belief system.*
-
-#### <a href="https://en.wikipedia.org/wiki/Early_2014_North_American_cold_wave">Early 2014 North American cold wave</a>
-- Beginning on January 2, 2014, sudden stratospheric warming (SSW)* led to the breakdown of the semi-permanent feature across the Arctic known as the polar vortex.
-
-#### <a href="https://en.wikipedia.org/wiki/Argos">Argos</a>
-- The importance of Argos was eclipsed by Sparta after the 6th century BC;* because of its refusal to fight or send supplies in the Greco-Persian Wars, Argos was shunned by most other city-states.
 
 #### <a href="https://en.wikipedia.org/wiki/Medieval_technology">Medieval technology</a>
 - The battle of Halidon Hill 1333 was the first battle where intentional and disciplined combined arms infantry tactics were employed.*
@@ -1154,11 +1158,41 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Henri_Cartier-Bresson">Henri Cartier-Bresson</a>
 - Cartier-Bresson worked exclusively in black and white, other than a few unsuccessful attempts in color.*
 
+#### <a href="https://en.wikipedia.org/wiki/Nottingham">Nottingham</a>
+- The reintroduction of trams in 2004 made Nottingham one of only six* English cities to have a light rail system.
+
+#### <a href="https://en.wikipedia.org/wiki/Flea">Flea</a>
+- Cedar oil, a nontoxic natural substance, has been proven effective in the eradication of infestations in pets.*
+
+#### <a href="https://en.wikipedia.org/wiki/Vishva_Hindu_Parishad">Vishva Hindu Parishad</a>
+- In the resulting disorder, Christian settlements were set on fire, and 250 Christians were forced to flee their villages.*
+
+#### <a href="https://en.wikipedia.org/wiki/Portuguese_Colonial_War">Portuguese Colonial War</a>
+- Again the Rhodesians would copy this concept forming the Rhodesian Armoured Car Regiment.*
+
 #### <a href="https://en.wikipedia.org/wiki/Cowboy">Cowboy</a>
 - Homosexual acts between young, unmarried men occurred, but cowboys culture itself was and remains deeply homophobic.*
 
 #### <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">Cygnus (constellation)</a>
 - The Kepler-22 system is also notable, in that its extrasolar planet is believed to be the first "Earth-twin" planet ever discovered.*
+
+#### <a href="https://en.wikipedia.org/wiki/Early_2014_North_American_cold_wave">Early 2014 North American cold wave</a>
+- Beginning on January 2, 2014, sudden stratospheric warming (SSW)* led to the breakdown of the semi-permanent feature across the Arctic known as the polar vortex.
+
+#### <a href="https://en.wikipedia.org/wiki/Argos">Argos</a>
+- The importance of Argos was eclipsed by Sparta after the 6th century BC;* because of its refusal to fight or send supplies in the Greco-Persian Wars, Argos was shunned by most other city-states.
+
+#### <a href="https://en.wikipedia.org/wiki/April_29">April 29</a>
+- 2005 – Syria completes withdrawal from Lebanon, ending 29 years of occupation.*
+
+#### <a href="https://en.wikipedia.org/wiki/International_auxiliary_language">International auxiliary language</a>
+- Advances in linguistics have done away with the first of these, and the limited but significant* use of Esperanto, Ido and Interlingua on an international scale, without breakup into unintelligible dialects, has shown that either a rapid break-up into dialects shall not happen too soon in the future, or that there is enough constant 'standardisation' to reduce the diversity of the language.
+
+#### <a href="https://en.wikipedia.org/wiki/King_James_Version">King James Version</a>
+- However, Bibles in all the early editions were made up using sheets originating from several printers, and consequently there is very considerable variation* within any one edition.
+
+#### <a href="https://en.wikipedia.org/wiki/Haridwar">Haridwar</a>
+- Each floor depicts an era in the Indian history, from the days of Ramayana* until India's independence.
 
 #### <a href="https://en.wikipedia.org/wiki/St._John's,_Newfoundland_and_Labrador">St. John's, Newfoundland and Labrador</a>
 - It was during this time that Water Street was first developed, making it the oldest street in North America.*
@@ -1187,11 +1221,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/West_Coast_hip_hop">West Coast hip hop</a>
 - During this period, one of the greatest factors in the spread of West Coast hip hop was the radio station 1580 KDAY and DJ Greg "Mack Attack" Mack.*
 
-#### <a href="https://en.wikipedia.org/wiki/Portuguese_Colonial_War">Portuguese Colonial War</a>
-- Again the Rhodesians would copy this concept forming the Rhodesian Armoured Car Regiment.*
-
 #### <a href="https://en.wikipedia.org/wiki/History_of_San_Francisco">History of San Francisco</a>
 - It remains the leading financial center,* and has grown wealthy in recent years by its proximity to Silicon Valley.
+
+#### <a href="https://en.wikipedia.org/wiki/Low-carbohydrate_diet">Low-carbohydrate diet</a>
+- Most advocates* today argue that fiber is a "good" carbohydrate and encourage a high-fiber diet.
+
+#### <a href="https://en.wikipedia.org/wiki/Ashtamudi_Lake">Ashtamudi Lake</a>
+- Temperatures recorded in the area are a maximum of 27.5 °C (81.5 °F) and a minimum of 25.5 °C (78 °F)*.
 
 #### <a href="https://en.wikipedia.org/wiki/Economy_of_Israel">Economy of Israel</a>
 - The second development benefiting the Israeli economy is the peace process begun at the Madrid conference of October 1991, which led to the signing of accords and later to a peace treaty between Israel and Jordan (1994).*
@@ -1205,8 +1242,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Griffin">Griffin</a>
 - The griffin was thus made an emblem of the Church's opposition to remarriage.*
 
-#### <a href="https://en.wikipedia.org/wiki/April_29">April 29</a>
-- 2005 – Syria completes withdrawal from Lebanon, ending 29 years of occupation.*
+#### <a href="https://en.wikipedia.org/wiki/Oxon_Hill,_Maryland">Oxon Hill, Maryland</a>
+- The land that his home, "Salubria", once occupied, is directly adjacent to National Harbor and is now the location of Tanger Outlets shopping complex, which opened in late 2013.*
+
+#### <a href="https://en.wikipedia.org/wiki/Trespass">Trespass</a>
+- In some jurisdictions, such as the United Kingdom*, trespass to chattels has been codified to clearly define the scope of the remedy; in most jurisdictions, trespass to chattel remains a purely common law remedy, the scope of which varies by jurisdiction.
 
 #### <a href="https://en.wikipedia.org/wiki/Software_developer">Software developer</a>
 - Already in the current market place there can be found a segregation between programmers and developers,* being that one who implements is not the same as the one who designs the class structure or hierarchy.
@@ -1226,41 +1266,41 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Liver-Eating_Johnson">Liver-Eating Johnson</a>
 - Johnson managed to break through the straps, then knocked out his young guard with a kick, took his knife and scalped him, then quickly cut off one of his legs.*
 
-#### <a href="https://en.wikipedia.org/wiki/International_auxiliary_language">International auxiliary language</a>
-- Advances in linguistics have done away with the first of these, and the limited but significant* use of Esperanto, Ido and Interlingua on an international scale, without breakup into unintelligible dialects, has shown that either a rapid break-up into dialects shall not happen too soon in the future, or that there is enough constant 'standardisation' to reduce the diversity of the language.
-
-#### <a href="https://en.wikipedia.org/wiki/King_James_Version">King James Version</a>
-- However, Bibles in all the early editions were made up using sheets originating from several printers, and consequently there is very considerable variation* within any one edition.
-
-#### <a href="https://en.wikipedia.org/wiki/Haridwar">Haridwar</a>
-- Each floor depicts an era in the Indian history, from the days of Ramayana* until India's independence.
-
-#### <a href="https://en.wikipedia.org/wiki/Trespass">Trespass</a>
-- In some jurisdictions, such as the United Kingdom*, trespass to chattels has been codified to clearly define the scope of the remedy; in most jurisdictions, trespass to chattel remains a purely common law remedy, the scope of which varies by jurisdiction.
-
-#### <a href="https://en.wikipedia.org/wiki/Antonio_Meucci">Antonio Meucci</a>
-- He constructed a simple calling system with a telegraphic manipulator which short-circuited the instrument of the calling person, producing in the instrument of the called person a succession of impulses (clicks), much more intense than those of normal conversation.*
-
 #### <a href="https://en.wikipedia.org/wiki/Celtic_polytheism">Celtic polytheism</a>
 - The importance of trees in Celtic religion may be shown by the fact that the very name of the Eburonian tribe contains a reference to the yew tree, and that names like Mac Cuilinn (son of holly) and Mac Ibar (son of yew) appear in Irish myths*.
 
 #### <a href="https://en.wikipedia.org/wiki/October_Revolution">October Revolution</a>
 - 10 October] 1917, the Bolsheviks' Central Committee voted 10-2 for a resolution saying that "an armed uprising is inevitable, and that the time for it is fully ripe".*
 
-#### <a href="https://en.wikipedia.org/wiki/Ashtamudi_Lake">Ashtamudi Lake</a>
-- Temperatures recorded in the area are a maximum of 27.5 °C (81.5 °F) and a minimum of 25.5 °C (78 °F)*.
+#### <a href="https://en.wikipedia.org/wiki/Washington_metropolitan_area">Washington metropolitan area</a>
+- to another).*
+
+#### <a href="https://en.wikipedia.org/wiki/Slavery">Slavery</a>
+- Graves dating to 8000 BC in Egypt may show the enslavement of a San-like tribe.*
+
+#### <a href="https://en.wikipedia.org/wiki/Antonio_Meucci">Antonio Meucci</a>
+- He constructed a simple calling system with a telegraphic manipulator which short-circuited the instrument of the calling person, producing in the instrument of the called person a succession of impulses (clicks), much more intense than those of normal conversation.*
+
+#### <a href="https://en.wikipedia.org/wiki/Mediterranean_Basin">Mediterranean Basin</a>
+- Among the endemic plant genera are:*
+
+#### <a href="https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables">Independent and identically distributed random variables</a>
+- The following are examples or applications of independent and identically distributed (i.i.d.) random variables*
+
+#### <a href="https://en.wikipedia.org/wiki/Human_nutrition">Human nutrition</a>
+- The macronutrients are carbohydrates, fats, fiber, proteins, and water.*
 
 #### <a href="https://en.wikipedia.org/wiki/Perkins_Engines">Perkins Engines</a>
 - The world’s first high-speed diesel engine* was Perkins' four-cylinder Vixen, which made its debut in 1932, and in October 1935 Perkins became the first company to hold six world diesel speed records for a variety of distances set at the Brooklands race track in Surrey.
 
-#### <a href="https://en.wikipedia.org/wiki/Washington_metropolitan_area">Washington metropolitan area</a>
-- to another).*
+#### <a href="https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)">New World Order (conspiracy theory)</a>
+- However, some conspiracy theorists use the research findings of American journalist Edwin Black, author of the 2009 book Nazi Nexus, to claim that some American corporations and philanthropic foundations—whose complicity was pivotal to the Third Reich's war effort, Nazi eugenics and the Holocaust—are now conspiring to build a Fourth Reich*.
 
 #### <a href="https://en.wikipedia.org/wiki/Offshore_drilling">Offshore drilling</a>
 - One of the oldest subsea wells is the Bibi Eibat well, which came on stream in 1923 in Azerbaijan.*
 
-#### <a href="https://en.wikipedia.org/wiki/Slavery">Slavery</a>
-- Graves dating to 8000 BC in Egypt may show the enslavement of a San-like tribe.*
+#### <a href="https://en.wikipedia.org/wiki/Flintlock">Flintlock</a>
+- They tended to be fired in mass volleys, followed by bayonet charges in which the weapons were used much like the pikes that they replaced.*
 
 #### <a href="https://en.wikipedia.org/wiki/Percentile">Percentile</a>
 - This is known as the 68–95–99.7 rule or the three-sigma rule.*
@@ -1301,8 +1341,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Cosmological_constant">Cosmological constant</a>
 - Einstein later reputedly referred to his failure to accept the validation of his equations—when they had predicted the expansion of the universe in theory, before it was demonstrated in observation of the cosmological red shift—as the "biggest blunder" of his life.*
 
-#### <a href="https://en.wikipedia.org/wiki/Human_nutrition">Human nutrition</a>
-- The macronutrients are carbohydrates, fats, fiber, proteins, and water.*
+#### <a href="https://en.wikipedia.org/wiki/St_Thomas_the_Martyr's_Church,_Oxford">St Thomas the Martyr's Church, Oxford</a>
+- Underwood in 1890;* the vestry was built in the 17th century and rebuilt in 1846 to designs by Chamberlain, through the generosity of the curate, Alexander Penrose Forbes.
 
 #### <a href="https://en.wikipedia.org/wiki/Offshoring">Offshoring</a>
 - In effect, offshoring creates and strengthens the competitive industries of the foreign country while strategically weakening the domestic country.*
@@ -1316,23 +1356,23 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Racial_profiling">Racial profiling</a>
 - Responding to such criticisms are local community* groups who seek to collect data, analyze trends and how they might correspond to public perceptions of profiling, and solicit ideas aimed at diminishing cultural and racial biases.
 
-#### <a href="https://en.wikipedia.org/wiki/St_Thomas_the_Martyr's_Church,_Oxford">St Thomas the Martyr's Church, Oxford</a>
-- Underwood in 1890;* the vestry was built in the 17th century and rebuilt in 1846 to designs by Chamberlain, through the generosity of the curate, Alexander Penrose Forbes.
+#### <a href="https://en.wikipedia.org/wiki/Prunus">Prunus</a>
+- In that work,* Linnaeus attributes the word to "Varr.
 
-#### <a href="https://en.wikipedia.org/wiki/Mediterranean_Basin">Mediterranean Basin</a>
-- Among the endemic plant genera are:*
+#### <a href="https://en.wikipedia.org/wiki/ESports">ESports</a>
+- In 2013 the Season 3 League of Legends World Championship was held in a sold-out Staples Center.*
 
 #### <a href="https://en.wikipedia.org/wiki/Seine">Seine</a>
 - Some identify the river Sikanos, origin (according to Thucydides) of the Sicanoi of Sikelia (Sicily), with the river Sequana (Seine).*
 
-#### <a href="https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables">Independent and identically distributed random variables</a>
-- The following are examples or applications of independent and identically distributed (i.i.d.) random variables*
+#### <a href="https://en.wikipedia.org/wiki/Criticism_of_Christianity">Criticism of Christianity</a>
+- In addition to aiding* abolitionism, many Christians made further efforts toward establishing racial equality, contributing to the Civil Rights Movement.
 
 #### <a href="https://en.wikipedia.org/wiki/Sun_Wukong">Sun Wukong</a>
 - Sun Wukong is so prominent in Journey to the West that the famous translation by Arthur Waley, entitled Monkey, led to other versions of Journey to the West, also called Monkey, among them a well-known Japanese television show.*
 
-#### <a href="https://en.wikipedia.org/wiki/Prunus">Prunus</a>
-- In that work,* Linnaeus attributes the word to "Varr.
+#### <a href="https://en.wikipedia.org/wiki/Sidmouth">Sidmouth</a>
+- This tradition has been maintained since it was formed in the 1860s,* and runs from late May until early September.
 
 #### <a href="https://en.wikipedia.org/wiki/2014_pro-Russian_unrest_in_Ukraine">2014 pro-Russian unrest in Ukraine</a>
 - Reports of paid protesters were supported by Party of Regions member Volodymyr Landik, the First Deputy Prime Minister Vitaliy Yarema,* journalist Serhiy Leshchenko, and a report released by the Organization for Security and Co-operation in Europe.
@@ -1340,8 +1380,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Chile">Chile</a>
 - Important airports in Chile include Chacalluta International Airport (Arica), Diego Aracena International Airport (Iquique), Cerro Moreno International Airport (Antofagasta), Carriel Sur International Airport (Concepción), El Tepual International Airport (Puerto Montt), Presidente Carlos Ibáñez del Campo International Airport (Punta Arenas), Mataveri International Airport (Easter Island), the most remote airport in the world*, and the Comodoro Arturo Merino Benítez International Airport (Santiago) with a traffic of 12,105,524 passengers in 2011.
 
-#### <a href="https://en.wikipedia.org/wiki/ESports">ESports</a>
-- In 2013 the Season 3 League of Legends World Championship was held in a sold-out Staples Center.*
+#### <a href="https://en.wikipedia.org/wiki/Cosmological_argument">Cosmological argument</a>
+- His conception of First Cause was the idea that the Universe must have been caused by something that was itself uncaused, which he asserted was God.*
 
 #### <a href="https://en.wikipedia.org/wiki/Critical_thinking">Critical thinking</a>
 - This process of intellectual engagement is at the heart of the Oxford, Durham,* Cambridge and London School of Economics tutorials.
@@ -1379,29 +1419,29 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Weight">Weight</a>
 - The sensation of weight is caused by the force exerted by fluids in the vestibular system, a three-dimensional set of tubes in the inner ear.*
 
-#### <a href="https://en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory)">New World Order (conspiracy theory)</a>
-- However, some conspiracy theorists use the research findings of American journalist Edwin Black, author of the 2009 book Nazi Nexus, to claim that some American corporations and philanthropic foundations—whose complicity was pivotal to the Third Reich's war effort, Nazi eugenics and the Holocaust—are now conspiring to build a Fourth Reich*.
+#### <a href="https://en.wikipedia.org/wiki/Sicilian_language">Sicilian language</a>
+- The 2nd-person singular and plural employ the present indicative in place of the imperative, while the 2nd-person singular (polite), because of its formality, employs the present subjunctive, which makes it less of a command and more of a request*.
 
 #### <a href="https://en.wikipedia.org/wiki/Christendom">Christendom</a>
 - Unlike the Muslim world, which has a geo-political and cultural definition that provides a primary identifier for a large swath of the world, Christendom is more complex.*
-
-#### <a href="https://en.wikipedia.org/wiki/Sidmouth">Sidmouth</a>
-- This tradition has been maintained since it was formed in the 1860s,* and runs from late May until early September.
-
-#### <a href="https://en.wikipedia.org/wiki/Cosmological_argument">Cosmological argument</a>
-- His conception of First Cause was the idea that the Universe must have been caused by something that was itself uncaused, which he asserted was God.*
-
-#### <a href="https://en.wikipedia.org/wiki/Nas">Nas</a>
-- Nasir bin Olu Dara Jones was born September 14, 1973, in Brooklyn, New York.*
-
-#### <a href="https://en.wikipedia.org/wiki/Flintlock">Flintlock</a>
-- They tended to be fired in mass volleys, followed by bayonet charges in which the weapons were used much like the pikes that they replaced.*
 
 #### <a href="https://en.wikipedia.org/wiki/Spanish_Armada">Spanish Armada</a>
 - Most* military historians hold that the battle of Gravelines reflected a lasting shift in the balance of naval power in favour of the English, in part because of the gap in naval technology and armament it confirmed between the two nations, which continued into the next century.
 
 #### <a href="https://en.wikipedia.org/wiki/Lowry_Air_Force_Base">Lowry Air Force Base</a>
 - Lowry training for Boeing B-29 Superfortress pilot qualification and for B-29 operational crew readiness began in 1943, and the base had a July 1943–Jan 1944 clerical school.*
+
+#### <a href="https://en.wikipedia.org/wiki/Nas">Nas</a>
+- Nasir bin Olu Dara Jones was born September 14, 1973, in Brooklyn, New York.*
+
+#### <a href="https://en.wikipedia.org/wiki/Orthopraxy">Orthopraxy</a>
+- Orthopraxis would include attendance of church services which are designed to benefit the practitioner of the Eastern Orthodox faith.*
+
+#### <a href="https://en.wikipedia.org/wiki/Personal_digital_assistant">Personal digital assistant</a>
+- Some PDAs also have a USB port, mainly for USB flash drives.*
+
+#### <a href="https://en.wikipedia.org/wiki/Shogi">Shogi</a>
+- Not only the similarity in distribution and movements of the pieces but also the names of shogi pieces suggest intimacy between shogi and makruk by its Buddhist symbolism (gold, silver, Cassia and Incense),* which is not recognized in Chinese chess at all.
 
 #### <a href="https://en.wikipedia.org/wiki/Spoilt_vote">Spoilt vote</a>
 - The percentage of accidentally spoilt votes is lowest when the ballot requires voting for only one candidate*.
@@ -1421,8 +1461,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Flag_of_England">Flag of England</a>
 - George's Cross as a maritime flag, in conjunction with royal banners, dates to 1545.*
 
-#### <a href="https://en.wikipedia.org/wiki/Criticism_of_Christianity">Criticism of Christianity</a>
-- In addition to aiding* abolitionism, many Christians made further efforts toward establishing racial equality, contributing to the Civil Rights Movement.
+#### <a href="https://en.wikipedia.org/wiki/Yangtze">Yangtze</a>
+- The Yangtze flows into the East China Sea and was navigable by ocean-going vessels up 1,000 miles (1,600 km) from its mouth even before the Three Gorges Dam was built.*
 
 #### <a href="https://en.wikipedia.org/wiki/Swordsmanship">Swordsmanship</a>
 - This facilitated a quicker draw.*
@@ -1430,8 +1470,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Buddhist_cuisine">Buddhist cuisine</a>
 - Therefore, strictly speaking, root vegetables (such as potatoes, carrots or onion and garlic) are not to be used as this results in the death of the plant.*
 
-#### <a href="https://en.wikipedia.org/wiki/Sicilian_language">Sicilian language</a>
-- The 2nd-person singular and plural employ the present indicative in place of the imperative, while the 2nd-person singular (polite), because of its formality, employs the present subjunctive, which makes it less of a command and more of a request*.
+#### <a href="https://en.wikipedia.org/wiki/Dodge_Viper">Dodge Viper</a>
+- Its completion commemorated the end of the production run of the Gen 4 Viper.*
 
 #### <a href="https://en.wikipedia.org/wiki/FIFA">FIFA</a>
 - The first tournament FIFA staged, the association football competition for the 1908 Olympics in London was more successful than its Olympic predecessors, despite the presence of professional footballers, contrary to the founding principles of FIFA.*
@@ -1442,11 +1482,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">Denial-of-service attack</a>
 - It must let the legitimate traffic flow while blocking the DoS attack traffic.*
 
-#### <a href="https://en.wikipedia.org/wiki/Orthopraxy">Orthopraxy</a>
-- Orthopraxis would include attendance of church services which are designed to benefit the practitioner of the Eastern Orthodox faith.*
+#### <a href="https://en.wikipedia.org/wiki/One_Canada_Square">One Canada Square</a>
+- Some of the electrical generators on the mezzanine floor are powered by micro-hydro water turbines, sourced by water pumped up to the roof, making the building one of the most advanced environmentally friendly buildings in the world.*
 
-#### <a href="https://en.wikipedia.org/wiki/Personal_digital_assistant">Personal digital assistant</a>
-- Some PDAs also have a USB port, mainly for USB flash drives.*
+#### <a href="https://en.wikipedia.org/wiki/South_Lebanon_conflict_(1985%E2%80%932000)">South Lebanon conflict (1985–2000)</a>
+- Hezbollah later met with Lebanese Christian clerics to reassure them that the Israeli withdrawal was a victory for Lebanon as a nation, not just one sect or militia.*
 
 #### <a href="https://en.wikipedia.org/wiki/Cannabis_sativa">Cannabis sativa</a>
 - Flowering usually occurs when darkness equals at least 12 hours per day*.
@@ -1469,26 +1509,26 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Child_grooming">Child grooming</a>
 - To the groomer, this is a way to get close.*
 
-#### <a href="https://en.wikipedia.org/wiki/Shogi">Shogi</a>
-- Not only the similarity in distribution and movements of the pieces but also the names of shogi pieces suggest intimacy between shogi and makruk by its Buddhist symbolism (gold, silver, Cassia and Incense),* which is not recognized in Chinese chess at all.
+#### <a href="https://en.wikipedia.org/wiki/Freestyle_music">Freestyle music</a>
+- Let the Music Play)" nods heavily to the freestyle genre with its use of a sample from the song "Let the Music Play" by Shannon.*
 
 #### <a href="https://en.wikipedia.org/wiki/Christian_theology">Christian theology</a>
 - The Roman Catholic Church allows for both a literal and allegorical interpretation of Genesis, so as to allow for the possibility of Creation by means of an evolutionary process over great spans of time, otherwise known as theistic evolution.*
 
-#### <a href="https://en.wikipedia.org/wiki/Yangtze">Yangtze</a>
-- The Yangtze flows into the East China Sea and was navigable by ocean-going vessels up 1,000 miles (1,600 km) from its mouth even before the Three Gorges Dam was built.*
+#### <a href="https://en.wikipedia.org/wiki/Political_party">Political party</a>
+- Political change is often easier with a coalition government than in one-party or two-party dominant systems.*
 
 #### <a href="https://en.wikipedia.org/wiki/Tin">Tin</a>
 - The amount of tin in the pipe defines the pipe's tone, since tin is the most tonally resonant of all metals.*
 
-#### <a href="https://en.wikipedia.org/wiki/Dodge_Viper">Dodge Viper</a>
-- Its completion commemorated the end of the production run of the Gen 4 Viper.*
+#### <a href="https://en.wikipedia.org/wiki/American_Civil_Liberties_Union">American Civil Liberties Union</a>
+- Under his leadership, the government pushed a conservative social agenda, including outlawing abortion, inserting prayer in schools, banning pornography*, and resisting gay rights.
 
-#### <a href="https://en.wikipedia.org/wiki/One_Canada_Square">One Canada Square</a>
-- Some of the electrical generators on the mezzanine floor are powered by micro-hydro water turbines, sourced by water pumped up to the roof, making the building one of the most advanced environmentally friendly buildings in the world.*
+#### <a href="https://en.wikipedia.org/wiki/Jasenovac_concentration_camp">Jasenovac concentration camp</a>
+- In general, their treatment was similar to other inmates, although known communists were executed right away, and convicted Ustaše or law-enforcement officials, or others close to the Ustaše in opinion, such as Croatian peasants,* were held on beneficial terms and granted amnesty after serving a duration of time.
 
-#### <a href="https://en.wikipedia.org/wiki/South_Lebanon_conflict_(1985%E2%80%932000)">South Lebanon conflict (1985–2000)</a>
-- Hezbollah later met with Lebanese Christian clerics to reassure them that the Israeli withdrawal was a victory for Lebanon as a nation, not just one sect or militia.*
+#### <a href="https://en.wikipedia.org/wiki/Pakistan_Rangers">Pakistan Rangers</a>
+- The two forces maintain their different uniforms* and chains of command but work under same ordinances, such as the Pakistan Rangers Ordinance 1959.
 
 #### <a href="https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster">Fukushima Daiichi nuclear disaster</a>
 - Authorities allegedly* wanted to "limit the size of costly and disruptive evacuations in land-scarce Japan and to avoid public questioning of the politically powerful nuclear industry".
@@ -1499,14 +1539,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Norfolk_Southern_Railway">Norfolk Southern Railway</a>
 - The railroad operates over 22,000 route miles in 22 eastern states, the District of Columbia, and has rights in Canada from Buffalo to Toronto and over the Albany to Montreal route.*
 
-#### <a href="https://en.wikipedia.org/wiki/Political_party">Political party</a>
-- Political change is often easier with a coalition government than in one-party or two-party dominant systems.*
+#### <a href="https://en.wikipedia.org/wiki/Alevism">Alevism</a>
+- Sunnism, according to the Alevis, is not true Islam but an aberration that by its nomianism allegedly opposes independent thought and is seen as reactionary, bigoted, fanatic, and antidemocratic.*
 
 #### <a href="https://en.wikipedia.org/wiki/Recorder_(musical_instrument)">Recorder (musical instrument)</a>
 - The recorder's mellow tone and limited harmonics allows for the seemingly deeper sound.*
 
-#### <a href="https://en.wikipedia.org/wiki/Freestyle_music">Freestyle music</a>
-- Let the Music Play)" nods heavily to the freestyle genre with its use of a sample from the song "Let the Music Play" by Shannon.*
+#### <a href="https://en.wikipedia.org/wiki/List_of_north%E2%80%93south_roads_in_Toronto">List of north–south roads in Toronto</a>
+- James Cathedral was the tallest structure in Toronto until the Royal York Hotel was completed in 1927.*
 
 #### <a href="https://en.wikipedia.org/wiki/100th_Fighter_Squadron">100th Fighter Squadron</a>
 - The 100th was reactivated by Strategic Air Command in 1953 as an integrated squadron,* being equipped with Boeing KB-29P Superfortress tankers and given an air refueling mission, based at Robins AFB, near Macon, Georgia.
@@ -1520,20 +1560,20 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Th%C3%A9rouanne">Thérouanne</a>
 - After he captured the city he ordered it to be razed, the roads to be broken up, and the area to be ploughed and salted.*
 
-#### <a href="https://en.wikipedia.org/wiki/List_of_north%E2%80%93south_roads_in_Toronto">List of north–south roads in Toronto</a>
-- James Cathedral was the tallest structure in Toronto until the Royal York Hotel was completed in 1927.*
+#### <a href="https://en.wikipedia.org/wiki/Dacians">Dacians</a>
+- Dacian states arose as a tribal confederacy that included the Getae, the Daci, the Buri, and the Carpi* (cf.
 
 #### <a href="https://en.wikipedia.org/wiki/Relative_atomic_mass">Relative atomic mass</a>
 - Therefore, for synthetic elements the total nucleon count* of the most stable isotope (i.
 
-#### <a href="https://en.wikipedia.org/wiki/American_Civil_Liberties_Union">American Civil Liberties Union</a>
-- Under his leadership, the government pushed a conservative social agenda, including outlawing abortion, inserting prayer in schools, banning pornography*, and resisting gay rights.
+#### <a href="https://en.wikipedia.org/wiki/Social_structure_of_the_United_Kingdom">Social structure of the United Kingdom</a>
+- In this new model, Prince William, Duke of Cambridge would be considered middle class despite being second-in-line to the throne, as he is a junior army officer and not a general.*
 
 #### <a href="https://en.wikipedia.org/wiki/Hip">Hip</a>
 - The angle between the longitudinal axes of the femoral neck and shaft, called the caput-collum-diaphyseal angle or CCD angle, normally measures approximately 150° in newborn and 126° in adults (coxa norma).*
 
-#### <a href="https://en.wikipedia.org/wiki/Jasenovac_concentration_camp">Jasenovac concentration camp</a>
-- In general, their treatment was similar to other inmates, although known communists were executed right away, and convicted Ustaše or law-enforcement officials, or others close to the Ustaše in opinion, such as Croatian peasants,* were held on beneficial terms and granted amnesty after serving a duration of time.
+#### <a href="https://en.wikipedia.org/wiki/Mixed-sex_education">Mixed-sex education</a>
+- It was the first college founded by the Cumberland Presbyterian Church, and was one of the first American institutions to accept female students.*
 
 #### <a href="https://en.wikipedia.org/wiki/Greater_Syria">Greater Syria</a>
 - The origin of the Hellenistic term Syria is linked in the etymology of the Neo-Assyrian Empire, so a "Greater Syria" in this sense corresponds to "Greater Assyria", which includes all of the Levant and Mesopotamia.*
@@ -1547,14 +1587,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Women_in_the_Philippines">Women in the Philippines</a>
 - Now, the chore work is evenly distributed with the men doing just as much work as the women*.
 
-#### <a href="https://en.wikipedia.org/wiki/Pakistan_Rangers">Pakistan Rangers</a>
-- The two forces maintain their different uniforms* and chains of command but work under same ordinances, such as the Pakistan Rangers Ordinance 1959.
+#### <a href="https://en.wikipedia.org/wiki/United_States_Treasury_security">United States Treasury security</a>
+- General calculation for the discount yield for Treasury bills is:*
 
 #### <a href="https://en.wikipedia.org/wiki/Dialect_continuum">Dialect continuum</a>
 - Dutch and Frisian* are generally included within this continuum, though the transition between the German and Dutch dialects mentioned above, and the Frisian dialect continuum is far less gradual than the one between the various German and Dutch dialects.
 
-#### <a href="https://en.wikipedia.org/wiki/Dacians">Dacians</a>
-- Dacian states arose as a tribal confederacy that included the Getae, the Daci, the Buri, and the Carpi* (cf.
+#### <a href="https://en.wikipedia.org/wiki/Joomla">Joomla</a>
+- Joomla modules look like boxes, such as the search or login module.*
 
 #### <a href="https://en.wikipedia.org/wiki/Robotics">Robotics</a>
 - Robots have become a popular educational tool in some middle and high schools,* as well as in numerous youth summer camps, raising interest in programming, artificial intelligence and robotics among students.
@@ -1568,8 +1608,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Ancient_Greece_and_wine">Ancient Greece and wine</a>
 - Aristotle mentions Lemnian wine*, which was probably the same as the modern-day Lemnió varietal, a red wine with a bouquet of oregano and thyme.
 
-#### <a href="https://en.wikipedia.org/wiki/Alevism">Alevism</a>
-- Sunnism, according to the Alevis, is not true Islam but an aberration that by its nomianism allegedly opposes independent thought and is seen as reactionary, bigoted, fanatic, and antidemocratic.*
+#### <a href="https://en.wikipedia.org/wiki/Rockhampton">Rockhampton</a>
+- Rugby Union – Rockhampton Brahmans, Brothers Old Boys*
 
 #### <a href="https://en.wikipedia.org/wiki/Valentino_Rossi">Valentino Rossi</a>
 - Partnered with increased scepticism that the reason for his success was the dominance of the RC211V rather than Rossi, it was inevitable* that Honda and Rossi would part.
@@ -1577,8 +1617,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Subjunctive_mood">Subjunctive mood</a>
 - Among the Indo-European languages, only Albanian, Avestan, Ancient Greek, Sanskrit, and, to some extent, Old Church Slavonic* kept the subjunctive and the optative fully separate and parallel.
 
-#### <a href="https://en.wikipedia.org/wiki/Social_structure_of_the_United_Kingdom">Social structure of the United Kingdom</a>
-- In this new model, Prince William, Duke of Cambridge would be considered middle class despite being second-in-line to the throne, as he is a junior army officer and not a general.*
+#### <a href="https://en.wikipedia.org/wiki/Battle_of_White_Mountain">Battle of White Mountain</a>
+- He also hoped to reclaim church properties which had been seized by Protestants at the start of the Reformation decades earlier, and to do away with the Electorate - the body of princes who chose the Holy Roman Emperor and who had considerable power over Imperial policy.*
 
 #### <a href="https://en.wikipedia.org/wiki/Fudge">Fudge</a>
 - Clotted cream - a probable precursor, with no added sugar, from Devon and Cornwall in England*
@@ -1592,23 +1632,26 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Alexander_Cartwright">Alexander Cartwright</a>
 - Cartwright is thought to be the first person to draw a diagram of a diamond-shaped baseball field,* and the rules of the modern game are based on the Knickerbocker Rules developed by Cartwright and a committee from his club, the Knickerbocker Base Ball Club.
 
-#### <a href="https://en.wikipedia.org/wiki/Mixed-sex_education">Mixed-sex education</a>
-- It was the first college founded by the Cumberland Presbyterian Church, and was one of the first American institutions to accept female students.*
+#### <a href="https://en.wikipedia.org/wiki/Indian_general_election,_2009">Indian general election, 2009</a>
+- This election defied the predictions made by pre-poll predictions and exit polls and gave a clear* mandate to the incumbent Congress government.
 
-#### <a href="https://en.wikipedia.org/wiki/United_States_Treasury_security">United States Treasury security</a>
-- General calculation for the discount yield for Treasury bills is:*
+#### <a href="https://en.wikipedia.org/wiki/Hokkaido">Hokkaido</a>
+- Historically, many peoples who had interactions with the ancestors of the Ainu called them and their islands* Kuyi, Kuye, Qoy, or some similar name, which may have some connection to the early modern form Kai.
+
+#### <a href="https://en.wikipedia.org/wiki/List_of_DOS_commands">List of DOS commands</a>
+- TYPE can be used to concatenate files (type file1 file2 &gt; file3); however this won't work for large files*—use copy command instead.
 
 #### <a href="https://en.wikipedia.org/wiki/Tupi_language">Tupi language</a>
 - As the basis for the língua geral, spoken throughout the country by white and Indian settlers alike until the early 18th century, and still heard in isolated pockets until the early 20th century, Tupi left a strong mark on the Portuguese language of Brazil, being by far its most distinctive source of modification*.
 
-#### <a href="https://en.wikipedia.org/wiki/Rockhampton">Rockhampton</a>
-- Rugby Union – Rockhampton Brahmans, Brothers Old Boys*
+#### <a href="https://en.wikipedia.org/wiki/Existence">Existence</a>
+- The people who make the comment are aware that Law and Order is fiction, but at some level, they may process fiction as if it were fact, a process included in what is called the Paradox of Fiction* Another example of this is the common experience of actresses who play the villain in a soap opera being accosted in public as if they are to blame for the actions of the characters they play.
 
 #### <a href="https://en.wikipedia.org/wiki/Gilbert,_Arizona">Gilbert, Arizona</a>
 - Justin Lassen, artist, currently lives in Gilbert; graduated from Gilbert High School in 2000.*
 
-#### <a href="https://en.wikipedia.org/wiki/Battle_of_White_Mountain">Battle of White Mountain</a>
-- He also hoped to reclaim church properties which had been seized by Protestants at the start of the Reformation decades earlier, and to do away with the Electorate - the body of princes who chose the Holy Roman Emperor and who had considerable power over Imperial policy.*
+#### <a href="https://en.wikipedia.org/wiki/Kiowa">Kiowa</a>
+- In the early 18th* century , the Cheyenne and Arapaho began camping on the Arkansas River and new warfare broke out.
 
 #### <a href="https://en.wikipedia.org/wiki/Colonial_Brazil">Colonial Brazil</a>
 - The European discovery of Brazil was preceded by a series of treaties between the kings of Portugal and Castile, which were the leading seafaring powers at the time.*
@@ -1619,11 +1662,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Pulmonology">Pulmonology</a>
 - In the United Kingdom, Ireland, South Africa*, and Australia the term "respiratory physician" is used (rather than pulmonologist) to distinguish a physician that practices pulmonology.
 
-#### <a href="https://en.wikipedia.org/wiki/Joomla">Joomla</a>
-- Joomla modules look like boxes, such as the search or login module.*
+#### <a href="https://en.wikipedia.org/wiki/Global_catastrophic_risk">Global catastrophic risk</a>
+- Such an eruption could also release large volumes of gases, increase carbon dioxide concentrations and cause a runaway greenhouse effect*, or enough pyroclastic debris and other material might be thrown into the atmosphere to partially block out the sun and cause a volcanic winter, as happened on a smaller scale in 1816 following the eruption of Mount Tambora, the so-called Year Without a Summer.
 
 #### <a href="https://en.wikipedia.org/wiki/Radio_drama">Radio drama</a>
 - Series that have had this treatment include Doctor Who, Dad's Army, Thunderbirds* and The Tomorrow People.
+
+#### <a href="https://en.wikipedia.org/wiki/Jeff_Flake">Jeff Flake</a>
+- The bill increases the annual cap on H-1B visas from 65,000 to 115,000, “authorize[s] employment for the dependent spouses of H-1B visas holders, and allow[s] a grace period for foreign workers to change jobs and not be out of status, allows for the recapturing [issuing] of green cards that 'were approved by Congress in previous years but were not used'", and refers to “persons with extraordinary ability,” and “outstanding professors and researchers” to create an unlimited* green card cap.
 
 #### <a href="https://en.wikipedia.org/wiki/Bulkhead_(partition)">Bulkhead (partition)</a>
 - On an aircraft, bulkheads divide the cabin into multiple areas.*
@@ -1637,8 +1683,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Thurgau">Thurgau</a>
 - The town of Zürich was part of the Thurgau until it became reichsunmittelbar in 1218.*
 
-#### <a href="https://en.wikipedia.org/wiki/Indian_general_election,_2009">Indian general election, 2009</a>
-- This election defied the predictions made by pre-poll predictions and exit polls and gave a clear* mandate to the incumbent Congress government.
+#### <a href="https://en.wikipedia.org/wiki/Counter-Reformation">Counter-Reformation</a>
+- Forced to self-justify their position by unflattering prophetic figures and epithets utilized by Protestant Bible scholars of the Papacy, the Jesuits utilized two counter-interpretations of these selfsame prophecies, Futurism and Preterism.*
 
 #### <a href="https://en.wikipedia.org/wiki/Gujarati_Muslims">Gujarati Muslims</a>
 - The Surat port (the only Indian port facing westwards) then became the principal port of India during Mughal rule to gain widespread international repute, which encouraged a period of further immigration and settlement of Muslim pilgrims from countries such as Iran, Iraq, Hejaz, Turkey, Egypt, Syria, Afghanistan, Turkmenistan, China, and Russia who assembled in great numbers to make the Hajj pilgrimage to Mecca from the ports of Surat, Veraval and Mandvi with the royal patronage of the Mughals.*
@@ -1646,20 +1692,20 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Printmaking">Printmaking</a>
 - One could leave iron, lead, or gold in the sun for a million years and they would never change color or change into another substance.*
 
-#### <a href="https://en.wikipedia.org/wiki/Hokkaido">Hokkaido</a>
-- Historically, many peoples who had interactions with the ancestors of the Ainu called them and their islands* Kuyi, Kuye, Qoy, or some similar name, which may have some connection to the early modern form Kai.
+#### <a href="https://en.wikipedia.org/wiki/Sex_differences_in_psychology">Sex differences in psychology</a>
+- Studies have shown either no differences, or advantages for both sexes, with most showing a slight advantage for males.*
 
-#### <a href="https://en.wikipedia.org/wiki/Existence">Existence</a>
-- The people who make the comment are aware that Law and Order is fiction, but at some level, they may process fiction as if it were fact, a process included in what is called the Paradox of Fiction* Another example of this is the common experience of actresses who play the villain in a soap opera being accosted in public as if they are to blame for the actions of the characters they play.
+#### <a href="https://en.wikipedia.org/wiki/Logro%C3%B1o">Logroño</a>
+- Logroño was an old settlement, first of the Romans, under the name of Vareia, a commercial port, and then of the Celts*.
 
-#### <a href="https://en.wikipedia.org/wiki/Global_catastrophic_risk">Global catastrophic risk</a>
-- Such an eruption could also release large volumes of gases, increase carbon dioxide concentrations and cause a runaway greenhouse effect*, or enough pyroclastic debris and other material might be thrown into the atmosphere to partially block out the sun and cause a volcanic winter, as happened on a smaller scale in 1816 following the eruption of Mount Tambora, the so-called Year Without a Summer.
+#### <a href="https://en.wikipedia.org/wiki/Centurion_(tank)">Centurion (tank)</a>
+- The 20 pounder gun was used only for a short time* before the Royal Ordnance Factories introduced the 105 mm L7 gun.
 
 #### <a href="https://en.wikipedia.org/wiki/Independence_Hall">Independence Hall</a>
 - By the spring of 1729 the citizens of Philadelphia were petitioning to be allowed to build a state house*.
 
-#### <a href="https://en.wikipedia.org/wiki/Kiowa">Kiowa</a>
-- In the early 18th* century , the Cheyenne and Arapaho began camping on the Arkansas River and new warfare broke out.
+#### <a href="https://en.wikipedia.org/wiki/St_George's_Cross">St George's Cross</a>
+- George flag was supposedly used in the 5th century by Georgian king Vakhtang Gorgasali.*
 
 #### <a href="https://en.wikipedia.org/wiki/Antioch">Antioch</a>
 - The mass of the population seems to have been only superficially Hellenic, and to have spoken Aramaic in non-official life*.
@@ -1673,8 +1719,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Homelessness">Homelessness</a>
 - People who are homeless are most often unable to acquire and maintain regular, safe, secure and adequate housing, or lack "fixed, regular, and adequate night-time residence." The legal definition of homeless varies from country to country, or among different jurisdictions in the same country or region.*
 
-#### <a href="https://en.wikipedia.org/wiki/Counter-Reformation">Counter-Reformation</a>
-- Forced to self-justify their position by unflattering prophetic figures and epithets utilized by Protestant Bible scholars of the Papacy, the Jesuits utilized two counter-interpretations of these selfsame prophecies, Futurism and Preterism.*
+#### <a href="https://en.wikipedia.org/wiki/Neoconservatism">Neoconservatism</a>
+- Strauss asserted that "the crisis of the West consists in the West's having become uncertain of its purpose." His solution was a restoration of the vital ideas and faith that in the past had sustained the moral purpose of the West.*
 
 #### <a href="https://en.wikipedia.org/wiki/Goths">Goths</a>
 - The zero-grade is preserved in modern times in the Lithuanian ethnonym for Belarusians, Gudai (earlier Baltic Prussian territory before Slavic conquests by about 1200 CE), and in certain Prussian towns in the territory around the Vistula River in Gothiscandza, today Poland (Gdynia, Gdańsk)*.
@@ -1691,26 +1737,29 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Skull_and_Bones">Skull and Bones</a>
 - Theorists such as Alexandra Robbins suggest that Skull and Bones is a branch of the Illuminati, having been founded by German university alumni following the order's suppression in their native land by Karl Theodor, Elector of Bavaria with the support of Frederick the Great of Prussia,* or that Skull and Bones itself controls the Central Intelligence Agency.
 
-#### <a href="https://en.wikipedia.org/wiki/Sex_differences_in_psychology">Sex differences in psychology</a>
-- Studies have shown either no differences, or advantages for both sexes, with most showing a slight advantage for males.*
+#### <a href="https://en.wikipedia.org/wiki/Plagues_of_Egypt">Plagues of Egypt</a>
+- The Egyptians had to rely on the senses of touch and hearing.*
 
-#### <a href="https://en.wikipedia.org/wiki/Logro%C3%B1o">Logroño</a>
-- Logroño was an old settlement, first of the Romans, under the name of Vareia, a commercial port, and then of the Celts*.
+#### <a href="https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973%E2%80%9390)">Military dictatorship of Chile (1973–90)</a>
+- allies Britain, France, and West Germany did not block arms sales to Pinochet, benefitting from the lack of American competition.*
 
 #### <a href="https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration">Occupational Safety and Health Administration</a>
 - The maximum penalty is a misdemeanor with a maximum of 6-months in jail.*
 
-#### <a href="https://en.wikipedia.org/wiki/Centurion_(tank)">Centurion (tank)</a>
-- The 20 pounder gun was used only for a short time* before the Royal Ordnance Factories introduced the 105 mm L7 gun.
-
-#### <a href="https://en.wikipedia.org/wiki/St_George's_Cross">St George's Cross</a>
-- George flag was supposedly used in the 5th century by Georgian king Vakhtang Gorgasali.*
-
 #### <a href="https://en.wikipedia.org/wiki/Turban">Turban</a>
 - Featuring many variations, it is worn as customary headwear, usually by men*.
 
-#### <a href="https://en.wikipedia.org/wiki/Neoconservatism">Neoconservatism</a>
-- Strauss asserted that "the crisis of the West consists in the West's having become uncertain of its purpose." His solution was a restoration of the vital ideas and faith that in the past had sustained the moral purpose of the West.*
+#### <a href="https://en.wikipedia.org/wiki/Economy_of_Cuba">Economy of Cuba</a>
+- The banks and the country's entire financial system, all electric power production and the majority of industry was dominated by US capital.*
+
+#### <a href="https://en.wikipedia.org/wiki/Zygmunt_Bauman">Zygmunt Bauman</a>
+- He went on to study philosophy at the University of Warsaw — sociology had temporarily been cancelled from the Polish curriculum as a "bourgeois" discipline* — and his teachers at Warsaw included Stanisław Ossowski and Julian Hochfeld.
+
+#### <a href="https://en.wikipedia.org/wiki/Vacuum_cleaner">Vacuum cleaner</a>
+- Thus, it was never released, although it is claimed that it would have been the first robotic vacuum cleaner sold.*
+
+#### <a href="https://en.wikipedia.org/wiki/%C5%BDeljko_Joksimovi%C4%87">Željko Joksimović</a>
+- The song was titled I Live my Life For You" which was a success throughout Europe.*
 
 #### <a href="https://en.wikipedia.org/wiki/Windsurfing">Windsurfing</a>
 - The competitions held include slalom style races, jumping competitions and more.*
@@ -1724,8 +1773,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Poundland">Poundland</a>
 - Despite this, in a survey the retailer conducted in July 2007, 99% of respondents said they would recommend the chain.*
 
-#### <a href="https://en.wikipedia.org/wiki/Vacuum_cleaner">Vacuum cleaner</a>
-- Thus, it was never released, although it is claimed that it would have been the first robotic vacuum cleaner sold.*
+#### <a href="https://en.wikipedia.org/wiki/Lao_language">Lao language</a>
+- Many consonants in Lao make a phonemic contrast between labialized* and plain versions.
 
 #### <a href="https://en.wikipedia.org/wiki/9/11_conspiracy_theories">9/11 conspiracy theories</a>
 - Some conspiracy theorists believe a small white jet seen flying over the crash area may have fired a missile to shoot down Flight 93.*
@@ -1736,8 +1785,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Open_Database_Connectivity">Open Database Connectivity</a>
 - Like the different varieties of SQL, the Embedded SQLs that used them varied widely, not only from platform to platform, but even across languages on one platform – a system that allowed calls into IBM's DB2 would look very different from one that called into their own SQL/DS.*
 
-#### <a href="https://en.wikipedia.org/wiki/Plagues_of_Egypt">Plagues of Egypt</a>
-- The Egyptians had to rely on the senses of touch and hearing.*
+#### <a href="https://en.wikipedia.org/wiki/Caviar">Caviar</a>
+- Another method is extracting the caviar surgically (C section) which allows the females to continue producing roe but this method is very painful and stressful for the fish* and is illegal in some countries.
 
 #### <a href="https://en.wikipedia.org/wiki/David_Ben-Gurion">David Ben-Gurion</a>
 - He believed that the sparsely populated and barren Negev desert offered a great opportunity for the Jews to settle in Palestine with minimal obstruction of the Arab population,* and set a personal example by settling in kibbutz Sde Boker at the centre of the Negev.
@@ -1748,32 +1797,32 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Conscription">Conscription</a>
 - Most refuse such service, as they feel that such roles are a part of the military complex.*
 
-#### <a href="https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973%E2%80%9390)">Military dictatorship of Chile (1973–90)</a>
-- allies Britain, France, and West Germany did not block arms sales to Pinochet, benefitting from the lack of American competition.*
+#### <a href="https://en.wikipedia.org/wiki/Escalator">Escalator</a>
+- Westfield San Francisco Centre (formerly The Emporium), chrome-and-glass escalator by Eleanor LeMaire for Otis, San Francisco, California*
 
 #### <a href="https://en.wikipedia.org/wiki/Hair">Hair</a>
 - It is unclear to what degree other primates sweat in response to heat, however.*
 
-#### <a href="https://en.wikipedia.org/wiki/Economy_of_Cuba">Economy of Cuba</a>
-- The banks and the country's entire financial system, all electric power production and the majority of industry was dominated by US capital.*
+#### <a href="https://en.wikipedia.org/wiki/Homeostasis">Homeostasis</a>
+- For example, it is sometimes claimed that when atmospheric carbon dioxide levels rise, certain plants are able to grow better and thus act to remove more carbon dioxide from the atmosphere.*
 
 #### <a href="https://en.wikipedia.org/wiki/Close_air_support">Close air support</a>
 - Experience in the Spanish Civil War lead to the creation of five ground-attack groups in 1938,* four of which would be equipped with Stukas.
 
-#### <a href="https://en.wikipedia.org/wiki/%C5%BDeljko_Joksimovi%C4%87">Željko Joksimović</a>
-- The song was titled I Live my Life For You" which was a success throughout Europe.*
+#### <a href="https://en.wikipedia.org/wiki/Polychlorinated_biphenyl">Polychlorinated biphenyl</a>
+- Between then and 1914,* large amounts of PCBs were released into the environment, to the extent that there are still measurable amounts of PCBs in feathers of birds currently held in museums.
 
 #### <a href="https://en.wikipedia.org/wiki/British_Iron_Age">British Iron Age</a>
 - Population estimates vary but the number of people in Iron Age Great Britain could have been three or four million by the first century BC,* with most concentrated densely in the agricultural lands of the South.
 
-#### <a href="https://en.wikipedia.org/wiki/Caviar">Caviar</a>
-- Another method is extracting the caviar surgically (C section) which allows the females to continue producing roe but this method is very painful and stressful for the fish* and is illegal in some countries.
+#### <a href="https://en.wikipedia.org/wiki/Balhae">Balhae</a>
+- In the West, Balhae is generally characterized as a successor to Goguryeo that traded with China and Japan, and its name is romanized from Korean.*
 
 #### <a href="https://en.wikipedia.org/wiki/Oscilloscope">Oscilloscope</a>
 - In a mixed-domain oscilloscope (MDO) you have an additional RF input port that goes into a spectrum analyzer part.*
 
-#### <a href="https://en.wikipedia.org/wiki/Escalator">Escalator</a>
-- Westfield San Francisco Centre (formerly The Emporium), chrome-and-glass escalator by Eleanor LeMaire for Otis, San Francisco, California*
+#### <a href="https://en.wikipedia.org/wiki/1982_Lebanon_War">1982 Lebanon War</a>
+- and Israeli technology and tactics over those of the Eastern Bloc was to have been a factor that hastened the demise of the Warsaw Pact and Soviet Union.*
 
 #### <a href="https://en.wikipedia.org/wiki/Ostsiedlung">Ostsiedlung</a>
 - Since the beginning of the 14/15th centuries, the Polish-Silesian Piast dynasty – (Władysław Opolczyk), reinforced German settlers on the land, who in decades founded more than 150 towns and villages under German town law, particularly under the law of the town Magdeburg (Magdeburg law).*
@@ -1787,17 +1836,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Bayt_Nattif">Bayt Nattif</a>
 - The Arab version is that the convoy had attacked Surif deliberately, and had held it for an hour before being driven out.*
 
-#### <a href="https://en.wikipedia.org/wiki/Homeostasis">Homeostasis</a>
-- For example, it is sometimes claimed that when atmospheric carbon dioxide levels rise, certain plants are able to grow better and thus act to remove more carbon dioxide from the atmosphere.*
+#### <a href="https://en.wikipedia.org/wiki/Varsity_Line">Varsity Line</a>
+- The engineers' proposal to junction with the London and Birmingham Railway at Bletchley was eventually accepted by the shareholders, with construction starting in December 1845 and completed by September 1846.*
 
-#### <a href="https://en.wikipedia.org/wiki/Polychlorinated_biphenyl">Polychlorinated biphenyl</a>
-- Between then and 1914,* large amounts of PCBs were released into the environment, to the extent that there are still measurable amounts of PCBs in feathers of birds currently held in museums.
+#### <a href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_Africa">History of the Jews in Africa</a>
+- According to the 2011 census carried out by Statistics Mauritius,there are 43 Jews in Mauritius.*
 
 #### <a href="https://en.wikipedia.org/wiki/Flag_of_Mexico">Flag of Mexico</a>
 - The first use of the modern colors—green, white and red—was in the flag of the unified Army of the Three Guarantees (pictured above) after independence from Spain was won.*
 
-#### <a href="https://en.wikipedia.org/wiki/Lao_language">Lao language</a>
-- Many consonants in Lao make a phonemic contrast between labialized* and plain versions.
+#### <a href="https://en.wikipedia.org/wiki/Fordham_University">Fordham University</a>
+- Organizing in the prohibited* student group SAGES (Students for Sex &amp; Gender Equality and Safety), activist elements among the student population have protested this policy through "condom drops" and other purposefully disruptive public events.
 
 #### <a href="https://en.wikipedia.org/wiki/Adenosine">Adenosine</a>
 - Some clinicians may prefer to administer a higher dose (typically 18 mg), rather than repeat a dose that apparently had no effect.*
@@ -1814,8 +1863,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Meridian_(geography)">Meridian (geography)</a>
 - The magnetic meridian is an equivalent imaginary line connecting the magnetic south and north poles and can be taken as the horizontal component of magnetic force lines along the surface of the earth.*
 
-#### <a href="https://en.wikipedia.org/wiki/1982_Lebanon_War">1982 Lebanon War</a>
-- and Israeli technology and tactics over those of the Eastern Bloc was to have been a factor that hastened the demise of the Warsaw Pact and Soviet Union.*
+#### <a href="https://en.wikipedia.org/wiki/Egyptian_Arabic">Egyptian Arabic</a>
+- Two syntactic features that are particular* to Egyptian Arabic inherited from Coptic are
 
 #### <a href="https://en.wikipedia.org/wiki/Saint_George">Saint George</a>
 - George and while the flag was not associated with George in Genoa itself, it is possibly the cause of the use of the design as the attributed arms of Saint George in the 14th century.*
@@ -1823,29 +1872,29 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Thalidomide">Thalidomide</a>
 - Thalidomide became one of the most successful prescription drugs in the history of medicine.*
 
-#### <a href="https://en.wikipedia.org/wiki/Balhae">Balhae</a>
-- In the West, Balhae is generally characterized as a successor to Goguryeo that traded with China and Japan, and its name is romanized from Korean.*
+#### <a href="https://en.wikipedia.org/wiki/Culture_of_the_United_States">Culture of the United States</a>
+- Since 1820, American schools focused on gymnastics, hygiene training, and care and development of the human body.*
 
-#### <a href="https://en.wikipedia.org/wiki/Fordham_University">Fordham University</a>
-- Organizing in the prohibited* student group SAGES (Students for Sex &amp; Gender Equality and Safety), activist elements among the student population have protested this policy through "condom drops" and other purposefully disruptive public events.
+#### <a href="https://en.wikipedia.org/wiki/United_States_Navy">United States Navy</a>
+- All ships in the navy inventory are placed in the Naval Vessel Register, which is part of "the Navy List" (required by article 29 of the United Nations Convention on the Law of the Sea).*
 
-#### <a href="https://en.wikipedia.org/wiki/Varsity_Line">Varsity Line</a>
-- The engineers' proposal to junction with the London and Birmingham Railway at Bletchley was eventually accepted by the shareholders, with construction starting in December 1845 and completed by September 1846.*
+#### <a href="https://en.wikipedia.org/wiki/Trade_secret">Trade secret</a>
+- Trade secret law as we know it today made its first appearance in England in 1817 in Newbery v James,* and in the United States in 1837 in Vickery v.
 
 #### <a href="https://en.wikipedia.org/wiki/Qin_Shi_Huang">Qin Shi Huang</a>
 - For the first time, all of China* was unified under one powerful ruler.
 
-#### <a href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_Africa">History of the Jews in Africa</a>
-- According to the 2011 census carried out by Statistics Mauritius,there are 43 Jews in Mauritius.*
-
-#### <a href="https://en.wikipedia.org/wiki/Culture_of_the_United_States">Culture of the United States</a>
-- Since 1820, American schools focused on gymnastics, hygiene training, and care and development of the human body.*
-
-#### <a href="https://en.wikipedia.org/wiki/Egyptian_Arabic">Egyptian Arabic</a>
-- Two syntactic features that are particular* to Egyptian Arabic inherited from Coptic are
-
 #### <a href="https://en.wikipedia.org/wiki/Volkswagen_Golf">Volkswagen Golf</a>
 - Historically, the Golf is Volkswagen's best-selling model and the world's second best-selling model,* with more than 29 million built by 2012.
+
+#### <a href="https://en.wikipedia.org/wiki/New_wave_music">New wave music</a>
+- This term has been applied in particular to the music of artists such as Kavinsky and Power Glove, and to the visual styles and soundtracks of films and video games such as Drive, Tron: Legacy, Hotline Miami and Far Cry 3: Blood Dragon.*
+
+#### <a href="https://en.wikipedia.org/wiki/Yitzhak_Shamir">Yitzhak Shamir</a>
+- He ran a unit that placed agents in hostile countries, created the Mossad's division for planning and served on its General Staff.*
+
+#### <a href="https://en.wikipedia.org/wiki/The_Tonight_Show_with_Jay_Leno">The Tonight Show with Jay Leno</a>
+- As the nightly broadcast approaches midnight*, the first guest appears.
 
 #### <a href="https://en.wikipedia.org/wiki/Pineal_gland">Pineal gland</a>
 - This idea occurs historically in Asia*, as well as in contemporary theories connecting to theosophy, and neo-pagan religions, as well as New Age spiritual philosophies.
@@ -1865,11 +1914,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Oral_hygiene">Oral hygiene</a>
 - Eating a balanced diet and limiting snacks can prevent tooth decay and periodontal disease.*
 
-#### <a href="https://en.wikipedia.org/wiki/United_States_Navy">United States Navy</a>
-- All ships in the navy inventory are placed in the Naval Vessel Register, which is part of "the Navy List" (required by article 29 of the United Nations Convention on the Law of the Sea).*
+#### <a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer">Book of Common Prayer</a>
+- There was widespread opposition to the introduction of regular congregational Communion, partly because the extra costs of bread and wine that would fall on the parish;* but mainly out of an intense resistance to undertaking in regular worship, a religious practice previously associated with marriage or illness.
 
-#### <a href="https://en.wikipedia.org/wiki/Trade_secret">Trade secret</a>
-- Trade secret law as we know it today made its first appearance in England in 1817 in Newbery v James,* and in the United States in 1837 in Vickery v.
+#### <a href="https://en.wikipedia.org/wiki/Aviation_safety">Aviation safety</a>
+- Failure to protect ILS critical areas can also cause CFIT accidents*.
 
 #### <a href="https://en.wikipedia.org/wiki/Cristero_War">Cristero War</a>
 - Despite remnants of anti-clerical statutes, there is no real enforcement of them, and the Catholic Church enjoys liberties from the Government, as well as devotion from the people.*
@@ -1880,8 +1929,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Definitions_of_terrorism">Definitions of terrorism</a>
 - State of Bihar), "defin[ing] acts of terrorism veritably as 'peacetime equivalents of war crimes.'"* The now lapsed Terrorist and Disruptive Activities (Prevention) Act specified the following definition of terrorism
 
-#### <a href="https://en.wikipedia.org/wiki/The_Tonight_Show_with_Jay_Leno">The Tonight Show with Jay Leno</a>
-- As the nightly broadcast approaches midnight*, the first guest appears.
+#### <a href="https://en.wikipedia.org/wiki/Sibilant">Sibilant</a>
+- They occur in English, where they are denoted with a letter s or z, as in soon or zone.*
 
 #### <a href="https://en.wikipedia.org/wiki/Fork">Fork</a>
 - Therefore it is an insult to Him to substitute artificial metallic forks for them when eating." It was not until the 18th century that the fork became commonly used in Great Britain, although some sources say that forks were common in France, England and Sweden already by the early 17th century.*
@@ -1889,35 +1938,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Pasty">Pasty</a>
 - When the pasties were ready for eating, the bal maidens at the mines would supposedly shout down the shaft "Oggy Oggy Oggy" and the miners would reply "Oi Oi Oi".*
 
-#### <a href="https://en.wikipedia.org/wiki/Aviation_safety">Aviation safety</a>
-- Failure to protect ILS critical areas can also cause CFIT accidents*.
-
-#### <a href="https://en.wikipedia.org/wiki/New_wave_music">New wave music</a>
-- This term has been applied in particular to the music of artists such as Kavinsky and Power Glove, and to the visual styles and soundtracks of films and video games such as Drive, Tron: Legacy, Hotline Miami and Far Cry 3: Blood Dragon.*
-
-#### <a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer">Book of Common Prayer</a>
-- There was widespread opposition to the introduction of regular congregational Communion, partly because the extra costs of bread and wine that would fall on the parish;* but mainly out of an intense resistance to undertaking in regular worship, a religious practice previously associated with marriage or illness.
-
-#### <a href="https://en.wikipedia.org/wiki/Riot">Riot</a>
-- A high risk of being arrested is even more effective against rioting than severe punishments.*
-
-#### <a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>
-- The castle has never been used for military purposes* and its remains survive to this day.
-
 #### <a href="https://en.wikipedia.org/wiki/2008_Tibetan_unrest">2008 Tibetan unrest</a>
 - Chinese security forces have reportedly surrounded the Ditsa monastery in Bayan County.*
-
-#### <a href="https://en.wikipedia.org/wiki/Franjo_Tu%C4%91man">Franjo Tuđman</a>
-- His promotion was not extreme but it was atypical for a Croat because senior officers were increasingly likely to be Serbs and Montenegrins.*
-
-#### <a href="https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi">Muhammad ibn Musa al-Khwarizmi</a>
-- As Paul Gallez* points out, this excellent system allows the deduction of many latitudes and longitudes where the only extant document is in such a bad condition as to make it practically illegible.
-
-#### <a href="https://en.wikipedia.org/wiki/Kozhikode">Kozhikode</a>
-- According to climate charts, 12 locations in India are cooler, 26 are warmer, 37 are dryer and only 1 is wetter than Kozhikode* The highest temperature recorded was 39.
-
-#### <a href="https://en.wikipedia.org/wiki/Garfield_Sobers">Garfield Sobers</a>
-- These were the Kent St Philip club in the Barbados Cricket League (BCL) and the Wanderers club,* located at Bay Land, in the Barbados Cricket Association (BCA).
 
 #### <a href="https://en.wikipedia.org/wiki/Lapland_(Finland)">Lapland (Finland)</a>
 - The coat of arms for the Province of Lapland was composed out of the coats of arms of Laponia and Ostrobothnia.*
@@ -1925,11 +1947,41 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Clown">Clown</a>
 - Unlike court jesters,* clowns have traditionally served a socio-religious and psychological role, and traditionally the roles of priest and clown have been held by the same persons.
 
-#### <a href="https://en.wikipedia.org/wiki/Discrimination_against_atheists">Discrimination against atheists</a>
-- Atheists and other religious skeptics can be executed in at least thirteen nations: Afghanistan, Iran, Malaysia, Maldives, Mauritania, Nigeria, Pakistan, Qatar, Saudi Arabia, Somalia, Sudan, the United Arab Emirates and Yemen.*
+#### <a href="https://en.wikipedia.org/wiki/Riot">Riot</a>
+- A high risk of being arrested is even more effective against rioting than severe punishments.*
+
+#### <a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>
+- The castle has never been used for military purposes* and its remains survive to this day.
 
 #### <a href="https://en.wikipedia.org/wiki/Semen">Semen</a>
 - Priapus Church, consumption of semen in the presence of others is a form of worship.*
+
+#### <a href="https://en.wikipedia.org/wiki/Franjo_Tu%C4%91man">Franjo Tuđman</a>
+- His promotion was not extreme but it was atypical for a Croat because senior officers were increasingly likely to be Serbs and Montenegrins.*
+
+#### <a href="https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi">Muhammad ibn Musa al-Khwarizmi</a>
+- As Paul Gallez* points out, this excellent system allows the deduction of many latitudes and longitudes where the only extant document is in such a bad condition as to make it practically illegible.
+
+#### <a href="https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin">William Thomson, 1st Baron Kelvin</a>
+- In his calculation, Kelvin assumed that photosynthesis was the only source of free oxygen; he did not know all of the components of the oxygen cycle.*
+
+#### <a href="https://en.wikipedia.org/wiki/Garfield_Sobers">Garfield Sobers</a>
+- These were the Kent St Philip club in the Barbados Cricket League (BCL) and the Wanderers club,* located at Bay Land, in the Barbados Cricket Association (BCA).
+
+#### <a href="https://en.wikipedia.org/wiki/Gaza_Strip">Gaza Strip</a>
+- In March 2010 the department had seen 55 cases that year, compared to 20 to 25 cases normally seen in an entire year.*
+
+#### <a href="https://en.wikipedia.org/wiki/Kozhikode">Kozhikode</a>
+- According to climate charts, 12 locations in India are cooler, 26 are warmer, 37 are dryer and only 1 is wetter than Kozhikode* The highest temperature recorded was 39.
+
+#### <a href="https://en.wikipedia.org/wiki/Bush_tucker">Bush tucker</a>
+- However, there are unresolved intellectual property issues associated with the commercialisation of bush tucker.*
+
+#### <a href="https://en.wikipedia.org/wiki/Discrimination_against_atheists">Discrimination against atheists</a>
+- Atheists and other religious skeptics can be executed in at least thirteen nations: Afghanistan, Iran, Malaysia, Maldives, Mauritania, Nigeria, Pakistan, Qatar, Saudi Arabia, Somalia, Sudan, the United Arab Emirates and Yemen.*
+
+#### <a href="https://en.wikipedia.org/wiki/Korea_under_Japanese_rule">Korea under Japanese rule</a>
+- In July, 1931,* Koreans attacked the Chinese residents in both Korea and Japan.
 
 #### <a href="https://en.wikipedia.org/wiki/History_of_California_before_1900">History of California before 1900</a>
 - The owners of these ranchos styled themselves after the Dons in Spain.*
@@ -1937,8 +1989,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Bhuj">Bhuj</a>
 - The walls were built by Rao Godji I in 1723*, and the Bhujiya Fort by Devkaran Seth in Rao Deshalji I's time (1718 - 1741).
 
-#### <a href="https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin">William Thomson, 1st Baron Kelvin</a>
-- In his calculation, Kelvin assumed that photosynthesis was the only source of free oxygen; he did not know all of the components of the oxygen cycle.*
+#### <a href="https://en.wikipedia.org/wiki/University_of_the_Pacific_(United_States)">University of the Pacific (United States)</a>
+- In 1923, the campus relocated from the Bay Area to the city of Stockton becoming the first institution of higher education in the Central Valley;* it became the University of the Pacific in 1961.
 
 #### <a href="https://en.wikipedia.org/wiki/Kent_State_University">Kent State University</a>
 - As such, it is the only public university in Ohio named for an individual.*
@@ -1952,26 +2004,29 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Declension">Declension</a>
 - These might look like the suffixes in earlier sections, but the big difference is that the earlier ones are related to the cases found in Indo-European languages, while no Indo-European language has any suffixes like the above three.*
 
-#### <a href="https://en.wikipedia.org/wiki/Gaza_Strip">Gaza Strip</a>
-- In March 2010 the department had seen 55 cases that year, compared to 20 to 25 cases normally seen in an entire year.*
+#### <a href="https://en.wikipedia.org/wiki/Food_security">Food security</a>
+- Examples of this include the Irish Potato Famine*, which was caused by a rainy year that created ideal conditions for the fungal blight to spread in potato fields, or the Ethiopian Famine in the early 1980s.
 
-#### <a href="https://en.wikipedia.org/wiki/Bush_tucker">Bush tucker</a>
-- However, there are unresolved intellectual property issues associated with the commercialisation of bush tucker.*
+#### <a href="https://en.wikipedia.org/wiki/Ukraine_without_Kuchma">Ukraine without Kuchma</a>
+- However, Yulia Tymoshenko* (at the time leading the National Salvation Committee), Yuriy Lutsenko (at that time representing the Socialist Party of Ukraine) and independent Volodymyr Chemerys became prominent leaders of the action.
 
-#### <a href="https://en.wikipedia.org/wiki/Korea_under_Japanese_rule">Korea under Japanese rule</a>
-- In July, 1931,* Koreans attacked the Chinese residents in both Korea and Japan.
+#### <a href="https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re">Auguste and Louis Lumière</a>
+- The American Woodville Latham had screened works of film seven months earlier, but the first public screening of films at which admission was charged was held on December 28, 1895, at Salon Indien du Grand Café in Paris.*
+
+#### <a href="https://en.wikipedia.org/wiki/Elizabeth_of_Hungary">Elizabeth of Hungary</a>
+- After her marriage, she continued her charitable practices,* which included spinning wool for the clothing of the poor.
 
 #### <a href="https://en.wikipedia.org/wiki/Indian_mathematics">Indian mathematics</a>
 - The Kerala mathematicians included Narayana Pandit* (c.
 
-#### <a href="https://en.wikipedia.org/wiki/University_of_the_Pacific_(United_States)">University of the Pacific (United States)</a>
-- In 1923, the campus relocated from the Bay Area to the city of Stockton becoming the first institution of higher education in the Central Valley;* it became the University of the Pacific in 1961.
+#### <a href="https://en.wikipedia.org/wiki/Dacian_language">Dacian language</a>
+- Lithuanian diminutive upelis.*
 
 #### <a href="https://en.wikipedia.org/wiki/Edward_England">Edward England</a>
 - His flag was the classic Jolly Roger — almost exactly as Black Sam Bellamy before him used — with a skull above two crossed Humerus bones* on a black background.
 
-#### <a href="https://en.wikipedia.org/wiki/Food_security">Food security</a>
-- Examples of this include the Irish Potato Famine*, which was caused by a rainy year that created ideal conditions for the fungal blight to spread in potato fields, or the Ethiopian Famine in the early 1980s.
+#### <a href="https://en.wikipedia.org/wiki/Incandescent_light_bulb">Incandescent light bulb</a>
+- This received a British Patent in 1880.*
 
 #### <a href="https://en.wikipedia.org/wiki/Circumnavigation">Circumnavigation</a>
 - The nautical global circumnavigation record is currently held by a wind-powered vessel.*
@@ -1985,14 +2040,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Cellulosic_ethanol">Cellulosic ethanol</a>
 - The process of turning corn into ethanol requires about 1700 times (by volume) as much water as ethanol produced.*
 
-#### <a href="https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re">Auguste and Louis Lumière</a>
-- The American Woodville Latham had screened works of film seven months earlier, but the first public screening of films at which admission was charged was held on December 28, 1895, at Salon Indien du Grand Café in Paris.*
-
 #### <a href="https://en.wikipedia.org/wiki/Dan_Rather">Dan Rather</a>
 - At the end of Rather's time as anchor, the CBS Evening News lagged behind the NBC Nightly News and ABC World News Tonight in the ratings, although it was still drawing approximately 7 million* viewers a night.
 
-#### <a href="https://en.wikipedia.org/wiki/Elizabeth_of_Hungary">Elizabeth of Hungary</a>
-- After her marriage, she continued her charitable practices,* which included spinning wool for the clothing of the poor.
+#### <a href="https://en.wikipedia.org/wiki/Nairobi">Nairobi</a>
+- These youth also support many local EDM producers &amp; DJs, such as Jahawi, Mikhail Kuzi, Barney Barrow, Jack Rooster, HennessyLive, Trancephilic5 As well as up and comers such as L.A Dave, Eric K, Raj El Rey, Tom Parker and more.*
+
+#### <a href="https://en.wikipedia.org/wiki/Regenerative_medicine">Regenerative medicine</a>
+- This extracellular matrix powder was used to regrow the finger of Lee Spievak, who had severed half an inch of his finger after getting it caught in a propeller of a model plane.*
 
 #### <a href="https://en.wikipedia.org/wiki/South_African_Border_War">South African Border War</a>
 - This event thus triggered the first use of South Africa Defence Force (SADF) Special Forces, not yet formally in existence,* but being run as an experiment under the leadership of Colonel Jan Breytenbach.
@@ -2000,8 +2055,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Christian_right">Christian right</a>
 - A large number of the Christian right view same-sex marriage as a central issue in the culture wars, more so than other gay rights issues and even more significantly than abortion.*
 
-#### <a href="https://en.wikipedia.org/wiki/Dacian_language">Dacian language</a>
-- Lithuanian diminutive upelis.*
+#### <a href="https://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Canada">Progressive Conservative Party of Canada</a>
+- In contrast to "American conservative" counterparts, however, they did not undertake as dramatic an ideological turnaround in the first half of the 20th century by continuing to follow mercantilism* and nascent notions of the welfare state.
 
 #### <a href="https://en.wikipedia.org/wiki/Shan_State">Shan State</a>
 - Hundreds of thousands of immigrants from China have come to work in Upper Burma since the 1990s.*
@@ -2036,17 +2091,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Husayn_ibn_Ali">Husayn ibn Ali</a>
 - Most of the Shias believe that Ziyarat Ashura is a Hadith-e-Qudsi (the 'word of Allah')*
 
-#### <a href="https://en.wikipedia.org/wiki/Incandescent_light_bulb">Incandescent light bulb</a>
-- This received a British Patent in 1880.*
+#### <a href="https://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan">Nuclear power in Pakistan</a>
+- On 20 March 2011, it was reported that scientists from the PNRA and PAEC were ready to leave for Japan as soon as IAEA approval was received. *
 
-#### <a href="https://en.wikipedia.org/wiki/Nairobi">Nairobi</a>
-- These youth also support many local EDM producers &amp; DJs, such as Jahawi, Mikhail Kuzi, Barney Barrow, Jack Rooster, HennessyLive, Trancephilic5 As well as up and comers such as L.A Dave, Eric K, Raj El Rey, Tom Parker and more.*
+#### <a href="https://en.wikipedia.org/wiki/Water_tower">Water tower</a>
+- Most large water utilities do not use this approach, given the potential risks.*
 
 #### <a href="https://en.wikipedia.org/wiki/Fast_bowling">Fast bowling</a>
 - A ball which bounces a little way before the good length and rises to the batsman's abdomen is said to be short pitched or described as a long hop and is easier for a batsman to hit as he will have had more time to see if the height or line of the ball has deviated after bouncing.*
 
-#### <a href="https://en.wikipedia.org/wiki/Regenerative_medicine">Regenerative medicine</a>
-- This extracellular matrix powder was used to regrow the finger of Lee Spievak, who had severed half an inch of his finger after getting it caught in a propeller of a model plane.*
+#### <a href="https://en.wikipedia.org/wiki/Utopian_socialism">Utopian socialism</a>
+- Charles Fourier (1772–1837) was by far the most utopian of the socialists*.
 
 #### <a href="https://en.wikipedia.org/wiki/Brown_bear">Brown bear</a>
 - Because they can interbreed these bears are not different biological species.*
@@ -2063,14 +2118,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/William_the_Lion">William the Lion</a>
 - William is recorded in 1206 as having cured a case of scrofula by his touching and blessing a child with the ailment whilst at York.*
 
-#### <a href="https://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Canada">Progressive Conservative Party of Canada</a>
-- In contrast to "American conservative" counterparts, however, they did not undertake as dramatic an ideological turnaround in the first half of the 20th century by continuing to follow mercantilism* and nascent notions of the welfare state.
+#### <a href="https://en.wikipedia.org/wiki/Christmas_cake">Christmas cake</a>
+- In the middle of the spectrum is the mincemeat Christmas cake, which is any traditional or vegetarian mincemeat, mixed with flour, eggs, etc., to transform it into a cake batter;* or it can also be steamed as a Christmas pudding.
 
 #### <a href="https://en.wikipedia.org/wiki/Brandywine_Creek_(Christina_River)">Brandywine Creek (Christina River)</a>
 - In Pennsylvania, Chadds Ford, Elam,* Downingtown, Unionville, and parts of West Chester, are all in the Brandywine Valley, as well as the Delaware towns of Centreville, Greenville, Montchanin, Hockessin, and Yorklyn.
 
-#### <a href="https://en.wikipedia.org/wiki/Nuclear_power_in_Pakistan">Nuclear power in Pakistan</a>
-- On 20 March 2011, it was reported that scientists from the PNRA and PAEC were ready to leave for Japan as soon as IAEA approval was received. *
+#### <a href="https://en.wikipedia.org/wiki/Homage_(arts)">Homage (arts)</a>
+- It was originally a declaration of fealty in the feudal system—swearing that one was the* man (French: homme) of the feudal lord.
 
 #### <a href="https://en.wikipedia.org/wiki/Sovereignty">Sovereignty</a>
 - In a confederation constituent entities retain the right to withdraw from the national body, but in a federation member states or republics do not hold that right.*
@@ -2087,8 +2142,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Ramat_Gan">Ramat Gan</a>
 - The Ramat Gan Safari, a 250-acre (1.0 km2) zoo housing 1,600 animals, is the largest animal collection in the Middle East.*
 
-#### <a href="https://en.wikipedia.org/wiki/Water_tower">Water tower</a>
-- Most large water utilities do not use this approach, given the potential risks.*
+#### <a href="https://en.wikipedia.org/wiki/History_of_economic_thought">History of economic thought</a>
+- Now there is a second candidate, Arab Muslim scholar Ibn Khaldun (1332–1406) of Tunisia, although how the Muslim world fell behind the West*, or what influence Khaldun had in the West is unclear.
 
 #### <a href="https://en.wikipedia.org/wiki/Gaudiya_Vaishnavism">Gaudiya Vaishnavism</a>
 - According to his biographies, Chaitanya did not display himself as Krishna in public,* and would in fact avoid being addressed as such.
@@ -2108,11 +2163,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Programming_tool">Programming tool</a>
 - For example, developers use simple databases (such as a file containing a list of important values) all the time as tools.*
 
-#### <a href="https://en.wikipedia.org/wiki/Utopian_socialism">Utopian socialism</a>
-- Charles Fourier (1772–1837) was by far the most utopian of the socialists*.
+#### <a href="https://en.wikipedia.org/wiki/Science">Science</a>
+- An explanatory thought experiment or hypothesis is put forward, as explanation, using principles such as parsimony (also known as "Occam's Razor") and are generally expected to seek consilience—fitting well with other accepted facts related to the phenomena.*
 
-#### <a href="https://en.wikipedia.org/wiki/Christmas_cake">Christmas cake</a>
-- In the middle of the spectrum is the mincemeat Christmas cake, which is any traditional or vegetarian mincemeat, mixed with flour, eggs, etc., to transform it into a cake batter;* or it can also be steamed as a Christmas pudding.
+#### <a href="https://en.wikipedia.org/wiki/Sindh">Sindh</a>
+- Sindhi culture is known all over the world for its arts, crafts and heritage.*
 
 #### <a href="https://en.wikipedia.org/wiki/Hoplite">Hoplite</a>
 - This was the famed othismos.*
@@ -2126,8 +2181,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Drake_equation">Drake equation</a>
 - Beyond this, however, the values one may attribute to each factor in this equation tell more about a person's beliefs than about scientific facts.*
 
-#### <a href="https://en.wikipedia.org/wiki/Homage_(arts)">Homage (arts)</a>
-- It was originally a declaration of fealty in the feudal system—swearing that one was the* man (French: homme) of the feudal lord.
+#### <a href="https://en.wikipedia.org/wiki/Hand_grenade">Hand grenade</a>
+- Humvees, Strykers and MRAPs.*
 
 #### <a href="https://en.wikipedia.org/wiki/K-pop">K-pop</a>
 - One of the overarching themes is that is acceptable to be a "bad boy", whereas it is considered offensive to be a "bad girl".*
@@ -2147,11 +2202,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1526%E2%80%931867)">Kingdom of Hungary (1526–1867)</a>
 - The new territories were united with the territory of Kingdom of Hungary, and, although its powers were mostly formal,* a Diet seated in Pressburg ruled these lands.
 
-#### <a href="https://en.wikipedia.org/wiki/History_of_economic_thought">History of economic thought</a>
-- Now there is a second candidate, Arab Muslim scholar Ibn Khaldun (1332–1406) of Tunisia, although how the Muslim world fell behind the West*, or what influence Khaldun had in the West is unclear.
+#### <a href="https://en.wikipedia.org/wiki/Faust">Faust</a>
+- Faust" and the adjective "Faustian" imply a situation in which an ambitious person surrenders moral integrity in order to achieve power and success for a delimited term.*
 
-#### <a href="https://en.wikipedia.org/wiki/Yitzhak_Shamir">Yitzhak Shamir</a>
-- He ran a unit that placed agents in hostile countries, created the Mossad's division for planning and served on its General Staff.*
+#### <a href="https://en.wikipedia.org/wiki/Seward_Peninsula">Seward Peninsula</a>
+- Archeological discoveries throughout the Seward Peninsula show proof that Inupiat Eskimos have been living in the region for thousands of years.*
 
 #### <a href="https://en.wikipedia.org/wiki/Anaximander">Anaximander</a>
 - Anaximander's theories were influenced by the Greek mythical tradition, and by some ideas of Thales – the father of philosophy – as well as by observations made by older civilizations in the East* (especially by the Babylonian astrologers).
@@ -2159,8 +2214,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Sexual_objectification">Sexual objectification</a>
 - Such promotion has increased the average number of lifetime sexual partners for men, which in turn has caused some men to devalue sex, which in turn has caused men who objectify women to devalue women.*
 
-#### <a href="https://en.wikipedia.org/wiki/New_Caledonia">New Caledonia</a>
-- A 2015 documentary by Al Jazeera English asserted that up to 10%* of New Caledonia's population is descended from around 2,000 Arab-Berber people deported from French Algeria in the late 19th century to prisons on the island in reprisal for the Mokrani Revolt in 1871.
+#### <a href="https://en.wikipedia.org/wiki/Baltic_languages">Baltic languages</a>
+- The range of the Eastern Balts once reached to the Ural mountains.*
 
 #### <a href="https://en.wikipedia.org/wiki/Interoperability">Interoperability</a>
 - All have in common that they want to push the development of the World Wide Web towards the semantic web.*
@@ -2183,8 +2238,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Manifold">Manifold</a>
 - Formally, the gluing is defined by a bijection between the two boundaries*.
 
-#### <a href="https://en.wikipedia.org/wiki/Duchy_of_Milan">Duchy of Milan</a>
-- At its foundation the duchy included 26 towns and spanned from the hills of Montferrat to the Lagoons of Venice,* and included all the former towns of the Lombard League.
+#### <a href="https://en.wikipedia.org/wiki/New_Caledonia">New Caledonia</a>
+- A 2015 documentary by Al Jazeera English asserted that up to 10%* of New Caledonia's population is descended from around 2,000 Arab-Berber people deported from French Algeria in the late 19th century to prisons on the island in reprisal for the Mokrani Revolt in 1871.
 
 #### <a href="https://en.wikipedia.org/wiki/Illegal_immigration">Illegal immigration</a>
 - NAFTA may have also unexpectedly raised educational requirements for industrial jobs in Mexico, since the new maquiladoras produced export products requiring skills and education that many unskilled workers did not have.*
@@ -2198,8 +2253,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Klaip%C4%97da_Region">Klaipėda Region</a>
 - The Memel Territory was recognized as an integral part* of the Republic of Lithuania also by Germany on 29 January 1928, when the two countries signed the Lithuanian-German Border Treaty.
 
-#### <a href="https://en.wikipedia.org/wiki/Science">Science</a>
-- An explanatory thought experiment or hypothesis is put forward, as explanation, using principles such as parsimony (also known as "Occam's Razor") and are generally expected to seek consilience—fitting well with other accepted facts related to the phenomena.*
+#### <a href="https://en.wikipedia.org/wiki/Russo-Georgian_War">Russo-Georgian War</a>
+- According to political scientist Svante Cornell, the Kremlin spent millions in an international information campaign to blame Georgia for the war; however there is abundant evidence, including some in Russian media, that Russia actually started the war.*
 
 #### <a href="https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch">Great Pacific garbage patch</a>
 - There are no strong scientific data concerning the origins of pelagic plastics.*
@@ -2207,8 +2262,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Andrews_Field">Andrews Field</a>
 - Andrews transferred from the Army to the 1947 United States Air Force and Headquarters Command held command reins at Andrews from 1947 through 1952 and again after 1957.*
 
-#### <a href="https://en.wikipedia.org/wiki/Sindh">Sindh</a>
-- Sindhi culture is known all over the world for its arts, crafts and heritage.*
+#### <a href="https://en.wikipedia.org/wiki/Sexual_revolution">Sexual revolution</a>
+- By 2013, this number had declined to 26.6 births per 1,000 teenage girls. *
 
 #### <a href="https://en.wikipedia.org/wiki/Socialist_Republic_of_Romania">Socialist Republic of Romania</a>
 - Ultimately, with Joseph Stalin's backing, and probably due in part to the anti-Semitic* policies of late Stalinism (Pauker was Jewish), Gheorghiu-Dej and the "Prison Communists" won out.
@@ -2216,8 +2271,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/La_Liga">La Liga</a>
 - Sometimes, this can lead to a triple-citizenship situation; for example, Leo Franco, who is Argentine-born, of Italian heritage, and can claim a Spanish passport, having played in La Liga for over five years.*
 
-#### <a href="https://en.wikipedia.org/wiki/Manorialism">Manorialism</a>
-- As concerns for privacy* increased in the 18th century, manor houses were often located a farther distance from the village.
+#### <a href="https://en.wikipedia.org/wiki/Duchy_of_Milan">Duchy of Milan</a>
+- At its foundation the duchy included 26 towns and spanned from the hills of Montferrat to the Lagoons of Venice,* and included all the former towns of the Lombard League.
 
 #### <a href="https://en.wikipedia.org/wiki/Rye,_East_Sussex">Rye, East Sussex</a>
 - The name of Rye is believed to come from rie meaning a bank*.
@@ -2225,8 +2280,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Adoor">Adoor</a>
 - Adoor has an average literacy rate of 85%, higher than the national average of 59.5%; with 49% of the males and 51% of females literate.*
 
-#### <a href="https://en.wikipedia.org/wiki/Hand_grenade">Hand grenade</a>
-- Humvees, Strykers and MRAPs.*
+#### <a href="https://en.wikipedia.org/wiki/Anthropology_of_religion">Anthropology of religion</a>
+- Anthropology circa 1940 assumed that religion is in complete continuity with magical thinking,* that it is a cultural product,.
 
 #### <a href="https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)">Flag of Georgia (country)</a>
 - George's cross was supposedly used by King Vakhtang I in the 5th century.*
@@ -2243,8 +2298,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Muhammad_Iqbal">Muhammad Iqbal</a>
 - Iqbal of Lahore) Iqbal's "Asrare-i-Khudi" and famous "Bal-i-Jibreel" enjoy mass popularity in Iran and are taken as a way of life,* while many scholars in Iran have recognised the importance of Iqbal's poetry in inspiring and sustaining the Iranian Revolution of 1979.
 
-#### <a href="https://en.wikipedia.org/wiki/Faust">Faust</a>
-- Faust" and the adjective "Faustian" imply a situation in which an ambitious person surrenders moral integrity in order to achieve power and success for a delimited term.*
+#### <a href="https://en.wikipedia.org/wiki/Manorialism">Manorialism</a>
+- As concerns for privacy* increased in the 18th century, manor houses were often located a farther distance from the village.
 
 #### <a href="https://en.wikipedia.org/wiki/Price">Price</a>
 - Use value was supposed to give some measure of usefulness, later refined as marginal benefit (which is marginal utility counted in common units of value) while exchange value was the measure of how much one good was in terms of another, namely what is now called relative price.*
@@ -2255,8 +2310,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Battle_of_Crete">Battle of Crete</a>
 - Churchill claimed that the Germans must have suffered well over 15,000 casualties, while Admiral Cunningham felt that the figure was more like 22,000.*
 
-#### <a href="https://en.wikipedia.org/wiki/Russo-Georgian_War">Russo-Georgian War</a>
-- According to political scientist Svante Cornell, the Kremlin spent millions in an international information campaign to blame Georgia for the war; however there is abundant evidence, including some in Russian media, that Russia actually started the war.*
+#### <a href="https://en.wikipedia.org/wiki/Moorish_Castle">Moorish Castle</a>
+- Construction of the Moorish Castle commenced in the 8th century AD (possibly AD 711);* the date of its completion is not recorded.
 
 #### <a href="https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_political_system">List of European Union member states by political system</a>
 - Public opinion is currently strongly in favour of keeping the monarchy in the remaining seven monarchies in the European Union, and there is currently no ongoing campaign with popular support to abolish monarchy in any of them.*
@@ -2264,14 +2319,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Heinrich_event">Heinrich event</a>
 - Ice provenance: Icebergs in H1, H2, H4, and H5 appear to have flowed along the Hudson Strait; H3 and H6 icebergs appear to have flowed across it (Kirby and Andrews, 1999).*
 
-#### <a href="https://en.wikipedia.org/wiki/Sexual_revolution">Sexual revolution</a>
-- By 2013, this number had declined to 26.6 births per 1,000 teenage girls. *
+#### <a href="https://en.wikipedia.org/wiki/Quito">Quito</a>
+- Quito's origins date back to the first millennium, when the Quitu tribe occupied the area and eventually formed a commercial center.*
 
 #### <a href="https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia">Virginia Beach, Virginia</a>
 - The issue of closure of NAS Oceana remains unresolved as of May, 2008*
 
-#### <a href="https://en.wikipedia.org/wiki/Anthropology_of_religion">Anthropology of religion</a>
-- Anthropology circa 1940 assumed that religion is in complete continuity with magical thinking,* that it is a cultural product,.
+#### <a href="https://en.wikipedia.org/wiki/Thesis">Thesis</a>
+- Lesser projects (a master's thesis, for example) are judged by whether or not they demonstrate mastery of available scholarship in the presentation of an idea.*
 
 #### <a href="https://en.wikipedia.org/wiki/Cecil_County,_Maryland">Cecil County, Maryland</a>
 - Another early developer was George Talbot, appointed Surveyor-General of Maryland in 1683, who came from Ballyconnell, County Cavan, Ireland.*
@@ -2294,8 +2349,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/St._Matthews,_Kentucky">St. Matthews, Kentucky</a>
 - It incorporated as a city in 1950, partially to address infrastructure problems and to build a sewer system.*
 
-#### <a href="https://en.wikipedia.org/wiki/Sibilant">Sibilant</a>
-- They occur in English, where they are denoted with a letter s or z, as in soon or zone.*
+#### <a href="https://en.wikipedia.org/wiki/Linguistic_history_of_the_Indian_subcontinent">Linguistic history of the Indian subcontinent</a>
+- Inscriptions containing alleged Telugu words dated back to 400 BCE* were discovered in Bhattiprolu in District of Guntur.
 
 #### <a href="https://en.wikipedia.org/wiki/Nuclear_weapon">Nuclear weapon</a>
 - In 2013, Mark Diesendorf says that governments of France, India, North Korea, Pakistan, UK, and South Africa have used nuclear power and/or research reactors to assist nuclear weapons development or to contribute to their supplies of nuclear explosives from military reactors.*
@@ -2309,11 +2364,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Ali_al-Ridha">Ali al-Ridha</a>
 - Based on this, some sources describe it as the largest mosque in the world.*
 
-#### <a href="https://en.wikipedia.org/wiki/Moorish_Castle">Moorish Castle</a>
-- Construction of the Moorish Castle commenced in the 8th century AD (possibly AD 711);* the date of its completion is not recorded.
+#### <a href="https://en.wikipedia.org/wiki/Yellow_River">Yellow River</a>
+- The Yellow River Conservancy Commission had surveyed more than 8,384 mi (13,493 km) of the river in 2007 and said 33.8% of the river system registered worse than "level five" according to the criteria used by the UN Environment Program.*
 
-#### <a href="https://en.wikipedia.org/wiki/Baltic_languages">Baltic languages</a>
-- The range of the Eastern Balts once reached to the Ural mountains.*
+#### <a href="https://en.wikipedia.org/wiki/Vietnam_People's_Air_Force">Vietnam People's Air Force</a>
+- Though the North Vietnamese forces claim over 81 US aircraft as shot down during Operation Linebacker II, (including 34 B-52s, two attributed to the VPAF),*, U.
 
 #### <a href="https://en.wikipedia.org/wiki/Neo-fascism">Neo-fascism</a>
 - However, UKIP have denied this, stating that their policies are not anti-immigration but pro-controlled immigration, patriotic not nationalist, in support of British democracy, and for all British citizens without regard to ethnicity or country of birth.*
@@ -2336,8 +2391,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Perspective_(graphical)">Perspective (graphical)</a>
 - The scene is a set of points, and these points are projected to a plane (computer screen)* in front of the view point (the viewer's eye).
 
-#### <a href="https://en.wikipedia.org/wiki/Quito">Quito</a>
-- Quito's origins date back to the first millennium, when the Quitu tribe occupied the area and eventually formed a commercial center.*
+#### <a href="https://en.wikipedia.org/wiki/Diesel_engine">Diesel engine</a>
+- As such, diesel engines in the late 19th and early 20th centuries used the same basic layout and form as industrial steam engines, with long-bore cylinders, external valve gear, cross-head bearings and an open crankshaft connected to a large flywheel.*
 
 #### <a href="https://en.wikipedia.org/wiki/Tofu">Tofu</a>
 - Most dried tofu is sold after it has been fried or pre-stewed by tofu vendors.*
@@ -2351,14 +2406,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Classics">Classics</a>
 - Classical philology was a major preoccupation of the 19th-century German education system, which became "the paradigm for higher education" throughout Western culture.*
 
-#### <a href="https://en.wikipedia.org/wiki/Thesis">Thesis</a>
-- Lesser projects (a master's thesis, for example) are judged by whether or not they demonstrate mastery of available scholarship in the presentation of an idea.*
+#### <a href="https://en.wikipedia.org/wiki/Social_conservatism">Social conservatism</a>
+- In fact, many Canadian politicians who hold socially conservative views on a personal level often choose not to pursue them in their political life, including Former Prime Minister Stephen Harper.*
 
 #### <a href="https://en.wikipedia.org/wiki/Mordvins">Mordvins</a>
 - The worship of trees, water (especially of the water-divinity which favours marriage), the sun or Shkay, who is the chief divinity, the moon, the thunder and the frost, and of the home-divinity Kardaz-scrko* still exists among them; and a small stone altar or flat stone covering a small pit to receive the blood of slaughtered animals can be found in many houses.
 
-#### <a href="https://en.wikipedia.org/wiki/Linguistic_history_of_the_Indian_subcontinent">Linguistic history of the Indian subcontinent</a>
-- Inscriptions containing alleged Telugu words dated back to 400 BCE* were discovered in Bhattiprolu in District of Guntur.
+#### <a href="https://en.wikipedia.org/wiki/Squamata">Squamata</a>
+- Snakes use a variety of tactics in acquiring mates.*
 
 #### <a href="https://en.wikipedia.org/wiki/Education_reform">Education reform</a>
 - OBE reforms usually had other disputed methods, such as constructivist mathematics and whole language, added onto them.*
@@ -2366,8 +2421,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Endeavour_(crater)">Endeavour (crater)</a>
 - The name of the crater, and features of it, are based on the voyage of HM Bark Endeavour,* a British Royal Navy research vessel commanded by Lieutenant James Cook on his first voyage of discovery, to Fiji, New Zealand and Australia from 1769 to 1771, using Australian places named by James Cook.
 
-#### <a href="https://en.wikipedia.org/wiki/Yellow_River">Yellow River</a>
-- The Yellow River Conservancy Commission had surveyed more than 8,384 mi (13,493 km) of the river in 2007 and said 33.8% of the river system registered worse than "level five" according to the criteria used by the UN Environment Program.*
+#### <a href="https://en.wikipedia.org/wiki/Hunter-gatherer">Hunter-gatherer</a>
+- In the Brazilian rainforest, those groups that recently did, or even continue to, rely on hunting and gathering techniques seem to have adopted this lifestyle, abandoning most agriculture, as a way to escape colonial control and as a result of the introduction of European diseases reducing their populations to levels where agriculture became difficult.*
 
 #### <a href="https://en.wikipedia.org/wiki/Munich_massacre">Munich massacre</a>
 - The magazine further adds that this is only part of a 40-year cover-up by the German authorities of the mishandling of the massacre.*
@@ -2375,11 +2430,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/New_Jerusalem">New Jerusalem</a>
 - They were also frustrated that Judean Kings were also given the role of High Priest.*
 
-#### <a href="https://en.wikipedia.org/wiki/Squamata">Squamata</a>
-- Snakes use a variety of tactics in acquiring mates.*
+#### <a href="https://en.wikipedia.org/wiki/T._S._Eliot">T. S. Eliot</a>
+- Eliot additionally influenced, among many others, Virginia Woolf, Ezra Pound, Hart Crane, William Gaddis, Allen Tate, Ted Hughes, Geoffrey Hill, Seamus Heaney, Kamau Brathwaite, Russell Kirk, George Seferis (who in 1936 published a modern Greek translation of The Waste Land,) and James Joyce* .
 
-#### <a href="https://en.wikipedia.org/wiki/Social_conservatism">Social conservatism</a>
-- In fact, many Canadian politicians who hold socially conservative views on a personal level often choose not to pursue them in their political life, including Former Prime Minister Stephen Harper.*
+#### <a href="https://en.wikipedia.org/wiki/The_Full_Monty">The Full Monty</a>
+- Jennel (an alley) is local to Sheffield:* it is a variation on the word "ginnel", which is in full versions of the Oxford English Dictionary and is used in many parts of England.
 
 #### <a href="https://en.wikipedia.org/wiki/Criticism_of_the_United_States_government">Criticism of the United States government</a>
 - of being too supportive of the Palestinians.*
@@ -2396,8 +2451,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/1936%E2%80%9339_Arab_revolt_in_Palestine">1936–39 Arab revolt in Palestine</a>
 - It caused the British Mandate to give crucial support to pre-state Zionist militias like the Haganah, whereas on the Palestinian Arab side, the revolt forced the fleeing into exile of the main Palestinian Arab leader of the period, the Grand Mufti of Jerusalem - Haj Amin al-Husseini.*
 
-#### <a href="https://en.wikipedia.org/wiki/DV">DV</a>
-- Sony has done a significant amount of internal testing to simulate head clogs as a result of mixing tape lubricants, and has been unable to recreate the problem.*
+#### <a href="https://en.wikipedia.org/wiki/Friday_the_13th">Friday the 13th</a>
+- In addition, in Greek the name of the day is Triti (Τρίτη) meaning literally the third (day of the week), adding weight to the superstition, since bad luck is said to "come in threes".*
 
 #### <a href="https://en.wikipedia.org/wiki/Fairy_Queen_(locomotive)">Fairy Queen (locomotive)</a>
 - Following a substantial rebuild, in which the workshops had to construct the missing parts themselves, the locomotive returned to service on 22 December 2012.*
@@ -2408,8 +2463,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Catalan_cuisine">Catalan cuisine</a>
 - Two of the five best restaurants in the world are in Catalonia*, and four restaurants have three Michelin stars.
 
-#### <a href="https://en.wikipedia.org/wiki/Hunter-gatherer">Hunter-gatherer</a>
-- In the Brazilian rainforest, those groups that recently did, or even continue to, rely on hunting and gathering techniques seem to have adopted this lifestyle, abandoning most agriculture, as a way to escape colonial control and as a result of the introduction of European diseases reducing their populations to levels where agriculture became difficult.*
+#### <a href="https://en.wikipedia.org/wiki/Tuple">Tuple</a>
+- This originates from a medieval Latin suffix ‑plus (meaning "more"*) related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".
 
 #### <a href="https://en.wikipedia.org/wiki/Intel_Atom">Intel Atom</a>
 - Embedded processors based on the ARM version 7 instruction set architecture (such as Nvidia's Tegra 3 series, TI's 4 series and Freescale's i.MX51 based on the Cortex-A8 core, or the Qualcomm Snapdragon and Marvell Armada 500/600 based on custom ARMv7 implementations) offer similar performance to the low end Atom chipsets* but at roughly one quarter the power consumption, and (like most ARM systems) as a single integrated system on a chip, rather than a two chip solution like the current Atom line.
@@ -2423,17 +2478,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/List_of_UNIT_personnel">List of UNIT personnel</a>
 - UNIT's principal scientific advisor since his third incarnation was exiled to Earth (having periodically collaborated with UNIT during his second incarnation) the Doctor has maintained a loose affiliation with UNIT in all* his subsequent bodies.
 
-#### <a href="https://en.wikipedia.org/wiki/T._S._Eliot">T. S. Eliot</a>
-- Eliot additionally influenced, among many others, Virginia Woolf, Ezra Pound, Hart Crane, William Gaddis, Allen Tate, Ted Hughes, Geoffrey Hill, Seamus Heaney, Kamau Brathwaite, Russell Kirk, George Seferis (who in 1936 published a modern Greek translation of The Waste Land,) and James Joyce* .
+#### <a href="https://en.wikipedia.org/wiki/Food_allergy">Food allergy</a>
+- Food allergies cause roughly 30,000 emergency room visits and 100 to 200 deaths per year* and the prevalence is rising.
 
-#### <a href="https://en.wikipedia.org/wiki/The_Full_Monty">The Full Monty</a>
-- Jennel (an alley) is local to Sheffield:* it is a variation on the word "ginnel", which is in full versions of the Oxford English Dictionary and is used in many parts of England.
+#### <a href="https://en.wikipedia.org/wiki/N%C3%BCshu_script">Nüshu script</a>
+- About half of Nüshu is modified Chinese characters used logographically.*
 
-#### <a href="https://en.wikipedia.org/wiki/Friday_the_13th">Friday the 13th</a>
-- In addition, in Greek the name of the day is Triti (Τρίτη) meaning literally the third (day of the week), adding weight to the superstition, since bad luck is said to "come in threes".*
+#### <a href="https://en.wikipedia.org/wiki/DV">DV</a>
+- Sony has done a significant amount of internal testing to simulate head clogs as a result of mixing tape lubricants, and has been unable to recreate the problem.*
 
-#### <a href="https://en.wikipedia.org/wiki/Tuple">Tuple</a>
-- This originates from a medieval Latin suffix ‑plus (meaning "more"*) related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".
+#### <a href="https://en.wikipedia.org/wiki/Passenger_rail_terminology">Passenger rail terminology</a>
+- This is because the Prandtl-Glauert singularity would cause catastrophic damage to the vehicle as the sound waves reflected off of the ground, potentially blasting the train into the air.*
 
 #### <a href="https://en.wikipedia.org/wiki/United_States_embargo_against_Cuba">United States embargo against Cuba</a>
 - These purchases have grown since then*, even though all sales are made in cash.
@@ -2447,8 +2502,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Windows_Server_2012">Windows Server 2012</a>
 - Windows Defender is available in a Server Core installation, and is installed and enabled by default.*
 
-#### <a href="https://en.wikipedia.org/wiki/Food_allergy">Food allergy</a>
-- Food allergies cause roughly 30,000 emergency room visits and 100 to 200 deaths per year* and the prevalence is rising.
+#### <a href="https://en.wikipedia.org/wiki/Exothermic_process">Exothermic process</a>
+- and constant volume, one has for the internal energy*
 
 #### <a href="https://en.wikipedia.org/wiki/Tacloban">Tacloban</a>
 - Home of the Marcos Family, it displays the fortune and previous properties of the first* dictator of the Philippines.
@@ -2486,8 +2541,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Dress_code">Dress code</a>
 - In China before the establishment of the republic, only the emperor could wear yellow.*
 
-#### <a href="https://en.wikipedia.org/wiki/N%C3%BCshu_script">Nüshu script</a>
-- About half of Nüshu is modified Chinese characters used logographically.*
+#### <a href="https://en.wikipedia.org/wiki/Conservation_biology">Conservation biology</a>
+- The IUCN Red List categories, which appear on Wikipedia species articles, is an example of the hotspot conservation approach in action; species that are not rare or endemic are listed the least concern and their Wikipedia articles tend to be ranked low on the importance scale.*
 
 #### <a href="https://en.wikipedia.org/wiki/Shin_Bet">Shin Bet</a>
 - Salah Haj Yihyeh, a Palestinian who runs mobile clinics for Physicians for Human Rights, was detained for questioning by the Shin Bet.*
@@ -2498,8 +2553,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Bear_Bryant">Bear Bryant</a>
 - Allen Barra claims that two hundred others died in the collision.*
 
-#### <a href="https://en.wikipedia.org/wiki/Vietnam_People's_Air_Force">Vietnam People's Air Force</a>
-- Though the North Vietnamese forces claim over 81 US aircraft as shot down during Operation Linebacker II, (including 34 B-52s, two attributed to the VPAF),*, U.
+#### <a href="https://en.wikipedia.org/wiki/Stockholm_metro">Stockholm metro</a>
+- The following years, and in some cases earlier, some routes were built with near metro standard* but operated with trams.
 
 #### <a href="https://en.wikipedia.org/wiki/Parallel_ATA">Parallel ATA</a>
 - Adding the CD-ROM drive would have required removal of one of the drives.*
@@ -2531,8 +2586,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Alemannic_German">Alemannic German</a>
 - Standard German is used in writing, and orally in formal contexts, throughout the Alemannic-speaking regions (with the exception of Alsace, where French or the Alsatian dialect of Alemannic are used), and Alemannic varieties are generally considered German dialects (more precisely, a dialect group within Upper German) rather than separate languages.*
 
-#### <a href="https://en.wikipedia.org/wiki/Passenger_rail_terminology">Passenger rail terminology</a>
-- This is because the Prandtl-Glauert singularity would cause catastrophic damage to the vehicle as the sound waves reflected off of the ground, potentially blasting the train into the air.*
+#### <a href="https://en.wikipedia.org/wiki/Kumquat">Kumquat</a>
+- Kumquats do not grow well from seeds and so are vegetatively propagated, using rootstock of another citrus fruit, air layering or cuttings (using a rooting gel/powder).*
 
 #### <a href="https://en.wikipedia.org/wiki/Arabic_script">Arabic script</a>
 - In the 20th century, the Arabic script was generally replaced by the Latin alphabet in the Balkans,* parts of Sub-Saharan Africa, and Southeast Asia, while in the Soviet Union, after a brief period of Latinisation, use of Cyrillic was mandated.
@@ -2543,8 +2598,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Last.fm">Last.fm</a>
 - Although this was introduced in a previous version of Last.fm many users had complained that such features had ceased to function in recent updates.*
 
-#### <a href="https://en.wikipedia.org/wiki/Exothermic_process">Exothermic process</a>
-- and constant volume, one has for the internal energy*
+#### <a href="https://en.wikipedia.org/wiki/International_law_and_the_Arab%E2%80%93Israeli_conflict">International law and the Arab–Israeli conflict</a>
+- In other words, that the relevant resolutions adopted at the San Remo Conference are the public law that awarded the Jewish people de jure sovereignty over Palestine.*
+
+#### <a href="https://en.wikipedia.org/wiki/Credit_card_fraud">Credit card fraud</a>
+- Card fraud begins either with the theft of the physical card or with the compromise of data associated with the account, including the card account number or other information that would routinely and necessarily be available to a merchant during a legitimate transaction*.
 
 #### <a href="https://en.wikipedia.org/wiki/Kannada_alphabet">Kannada alphabet</a>
 - the trill [r] ಱ the retroflex lateral [ɭ] ಳ and the retroflex palatal [ɺ] ೞ found only in South Indian languages, by 5th century.*
@@ -2555,8 +2613,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Happiness">Happiness</a>
 - Happiness forms a central theme of Buddhist teachings.*
 
-#### <a href="https://en.wikipedia.org/wiki/Conservation_biology">Conservation biology</a>
-- The IUCN Red List categories, which appear on Wikipedia species articles, is an example of the hotspot conservation approach in action; species that are not rare or endemic are listed the least concern and their Wikipedia articles tend to be ranked low on the importance scale.*
+#### <a href="https://en.wikipedia.org/wiki/Levi_Eshkol">Levi Eshkol</a>
+- Komer and others, Eshkol signed what became known as the Eshkol-Comer (sic)* memorandum of understanding (MOU) about Israeli nuclear capabilities.
 
 #### <a href="https://en.wikipedia.org/wiki/Republic">Republic</a>
 - Calvinism also espoused a fierce egalitarianism and an opposition to hierarchy.*
@@ -2576,8 +2634,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Languages_of_Russia">Languages of Russia</a>
 - The Constitution of Dagestan defines "Russian and the languages of the peoples of Dagestan" as the state languages, though no comprehensive list of the languages was given.*
 
-#### <a href="https://en.wikipedia.org/wiki/Stockholm_metro">Stockholm metro</a>
-- The following years, and in some cases earlier, some routes were built with near metro standard* but operated with trams.
+#### <a href="https://en.wikipedia.org/wiki/Carburetor">Carburetor</a>
+- EEC legislation required all vehicles sold and produced in member countries to have a catalytic converter after December 1992; among the last carburetor-engined models produced in these countries were most of the Ford Fiesta MK2 range (1989) as well as cheaper versions of the Nissan Primera (1990) and Peugeot's 106 and 405 range - the French built 106 went into production just over a year before carburetor engines were outlawed in the EEC.*
 
 #### <a href="https://en.wikipedia.org/wiki/Wallace_and_Gromit">Wallace and Gromit</a>
 - just over one second of film is photographed for each day of production.*
@@ -2588,17 +2646,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Iraq_War">Iraq War</a>
 - Members of Iraq Veterans Against the War tell similar stories.*
 
-#### <a href="https://en.wikipedia.org/wiki/Kumquat">Kumquat</a>
-- Kumquats do not grow well from seeds and so are vegetatively propagated, using rootstock of another citrus fruit, air layering or cuttings (using a rooting gel/powder).*
+#### <a href="https://en.wikipedia.org/wiki/IBM_Personal_Computer">IBM Personal Computer</a>
+- The ninth bit was used for parity checking of memory.) After the IBM XT shipped, the IBM PC motherboard was configured more like the XTs motherboard with 8 narrower slots*, as well as the same RAM configuration as the IBM XT.
 
 #### <a href="https://en.wikipedia.org/wiki/Ramesses_II">Ramesses II</a>
 - He had outlived many of his wives and children and left great memorials all over Egypt, especially to his beloved first queen Nefertari*.
 
-#### <a href="https://en.wikipedia.org/wiki/IBM_Personal_Computer">IBM Personal Computer</a>
-- The ninth bit was used for parity checking of memory.) After the IBM XT shipped, the IBM PC motherboard was configured more like the XTs motherboard with 8 narrower slots*, as well as the same RAM configuration as the IBM XT.
-
 #### <a href="https://en.wikipedia.org/wiki/Self-propelled_anti-aircraft_weapon">Self-propelled anti-aircraft weapon</a>
 - The introduction of jet engines and the subsequent rough doubling of aircraft speeds greatly reduced the effectiveness of the SPAAG against attack aircraft.*
+
+#### <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Final_Settlement_with_Respect_to_Germany">Treaty on the Final Settlement with Respect to Germany</a>
+- Under one interpretation of the treaty, only German forces may be deployed in the area of the former East Germany.*
 
 #### <a href="https://en.wikipedia.org/wiki/Licinius">Licinius</a>
 - Then in 324, Constantine, tempted by the "advanced age and unpopular vices" of his colleague, again declared war against him and having defeated his army of 170,000 men* at the Battle of Adrianople (July 3, 324), succeeded in shutting him up within the walls of Byzantium.
@@ -2612,23 +2670,23 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Primo_Levi">Primo Levi</a>
 - He engaged them in talking about the depravity of the Nazis and the lack of redemption sought by most Germans, many of whom* had been involved in the exploitation of slave labour from occupied countries during the war.
 
-#### <a href="https://en.wikipedia.org/wiki/Credit_card_fraud">Credit card fraud</a>
-- Card fraud begins either with the theft of the physical card or with the compromise of data associated with the account, including the card account number or other information that would routinely and necessarily be available to a merchant during a legitimate transaction*.
+#### <a href="https://en.wikipedia.org/wiki/Egyptian_Revolution_of_1952">Egyptian Revolution of 1952</a>
+- On 9 September, the Agrarian Reform Law was passed, which immediately seized any European-owned, especially British owned property in Egypt.*
 
 #### <a href="https://en.wikipedia.org/wiki/Aquaculture_of_salmonids">Aquaculture of salmonids</a>
 - Coho salmon mature after only one year in the sea, so two separate broodstocks (spawners) are needed, alternating each year.*
 
-#### <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Final_Settlement_with_Respect_to_Germany">Treaty on the Final Settlement with Respect to Germany</a>
-- Under one interpretation of the treaty, only German forces may be deployed in the area of the former East Germany.*
-
-#### <a href="https://en.wikipedia.org/wiki/Carburetor">Carburetor</a>
-- EEC legislation required all vehicles sold and produced in member countries to have a catalytic converter after December 1992; among the last carburetor-engined models produced in these countries were most of the Ford Fiesta MK2 range (1989) as well as cheaper versions of the Nissan Primera (1990) and Peugeot's 106 and 405 range - the French built 106 went into production just over a year before carburetor engines were outlawed in the EEC.*
-
-#### <a href="https://en.wikipedia.org/wiki/Egyptian_Revolution_of_1952">Egyptian Revolution of 1952</a>
-- On 9 September, the Agrarian Reform Law was passed, which immediately seized any European-owned, especially British owned property in Egypt.*
-
 #### <a href="https://en.wikipedia.org/wiki/White_people">White people</a>
 - In the literature of the Ancient Near East and Classical Antiquity, descriptions of the physical aspect of various nations or peoples in terms of color is commonplace.*
+
+#### <a href="https://en.wikipedia.org/wiki/Rainforest_Alliance">Rainforest Alliance</a>
+- However, in a comparison of the Fair Trade and Rainforest Alliance certification systems by the International Trade Center, the Rainforest Alliance ranks as more rigorous in nearly every category.*
+
+#### <a href="https://en.wikipedia.org/wiki/Apollo%E2%80%93Soyuz_Test_Project">Apollo–Soyuz Test Project</a>
+- Each nation was making its own extravagant claims about accomplishments in space*.
+
+#### <a href="https://en.wikipedia.org/wiki/History_of_the_Middle_East">History of the Middle East</a>
+- Many of the militant Islamists gained their military training while fighting against the forces of the Soviet Union in Afghanistan*.
 
 #### <a href="https://en.wikipedia.org/wiki/Shelf_life">Shelf life</a>
 - Shelf life is not significantly studied during drug development*, and drug manufacturers have economic and liability incentives to specify shorter shelf lives so that consumers are encouraged to discard and repurchase products.
@@ -2642,17 +2700,17 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Organizational_theory">Organizational theory</a>
 - Organizations in the United States are said to have risen within a variety of social and historical contexts*.
 
-#### <a href="https://en.wikipedia.org/wiki/Rainforest_Alliance">Rainforest Alliance</a>
-- However, in a comparison of the Fair Trade and Rainforest Alliance certification systems by the International Trade Center, the Rainforest Alliance ranks as more rigorous in nearly every category.*
-
 #### <a href="https://en.wikipedia.org/wiki/Futures_studies">Futures studies</a>
 - Marketers have increasingly started to embrace futures studies, in an effort to benefit from an increasingly competitive marketplace with fast production cycles, using such techniques as trendspotting as popularized by Faith Popcorn.*
+
+#### <a href="https://en.wikipedia.org/wiki/Quetiapine">Quetiapine</a>
+- This means quetiapine is a dopamine, serotonin, and adrenergic antagonist, and a potent antihistamine with clinically negligible anticholinergic properties.*
 
 #### <a href="https://en.wikipedia.org/wiki/Quantum_optics">Quantum optics</a>
 - Laser science—i.e., research into principles, design and application of these devices—became an important field, and the quantum mechanics underlying the laser's principles was studied now with more emphasis on the properties of light*, and the name quantum optics became customary.
 
-#### <a href="https://en.wikipedia.org/wiki/Apollo%E2%80%93Soyuz_Test_Project">Apollo–Soyuz Test Project</a>
-- Each nation was making its own extravagant claims about accomplishments in space*.
+#### <a href="https://en.wikipedia.org/wiki/Will_Durant">Will Durant</a>
+- He was earlier noted for The Story of Philosophy (1924), described as "a groundbreaking work that helped to popularize philosophy".*
 
 #### <a href="https://en.wikipedia.org/wiki/Women_in_Mexico">Women in Mexico</a>
 - Although the majority of these women had few political responsibilities, they were vital to the political fabric of the state.*
@@ -2660,8 +2718,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Prayer">Prayer</a>
 - Classical Hinduism came to focus on extolling a single supreme force, Brahman, that is made manifest in several lower forms as the familiar gods of the Hindu pantheon*.
 
-#### <a href="https://en.wikipedia.org/wiki/History_of_the_Middle_East">History of the Middle East</a>
-- Many of the militant Islamists gained their military training while fighting against the forces of the Soviet Union in Afghanistan*.
+#### <a href="https://en.wikipedia.org/wiki/Microphone">Microphone</a>
+- Certain ribbon and dynamic microphones are exceptions, due to the designers' assumption of a certain load impedance being part of the internal electro-acoustical damping circuit of the microphone.*
 
 #### <a href="https://en.wikipedia.org/wiki/List_of_Star_Trek_races">List of Star Trek races</a>
 - Some of the refugees came to the United Federation of Planets and it has been noted that this is likely an analogy for the spread of Africans around the Earth via colonialism and slavery.*
@@ -2672,8 +2730,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor">Wilhelm II, German Emperor</a>
 - Historians have suggested that this disability affected his emotional development.*
 
-#### <a href="https://en.wikipedia.org/wiki/Quetiapine">Quetiapine</a>
-- This means quetiapine is a dopamine, serotonin, and adrenergic antagonist, and a potent antihistamine with clinically negligible anticholinergic properties.*
+#### <a href="https://en.wikipedia.org/wiki/East_Rail_Line">East Rail Line</a>
+- In May 2008, MTR announced plans to renew many stations, most* of which have been in service for over half a century.
 
 #### <a href="https://en.wikipedia.org/wiki/Negotiations_to_end_apartheid_in_South_Africa">Negotiations to end apartheid in South Africa</a>
 - In November 1985, Minister Kobie Coetsee met Mandela in the hospital while Mandela was being treated for prostate surgery.*
@@ -2681,8 +2739,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>
 - Most Norwegians are registered at baptism as members of the Church of Norway which until the constitutional amendment of 21 May 2012 was the official state church.*
 
-#### <a href="https://en.wikipedia.org/wiki/Will_Durant">Will Durant</a>
-- He was earlier noted for The Story of Philosophy (1924), described as "a groundbreaking work that helped to popularize philosophy".*
+#### <a href="https://en.wikipedia.org/wiki/Quebec_Act">Quebec Act</a>
+- In the same communication, Carleton observed that the Act was not a permanent solution*
 
 #### <a href="https://en.wikipedia.org/wiki/Vizier">Vizier</a>
 - The most accepted* etymology is that it is derived from the Arabic wazara ("to bear a burden"), from the Semitic root W-Z-R.
@@ -2693,14 +2751,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Aerial_bombing_of_cities">Aerial bombing of cities</a>
 - These attacks were at the request of General Franco as retribution against the Catalan population.*
 
-#### <a href="https://en.wikipedia.org/wiki/Microphone">Microphone</a>
-- Certain ribbon and dynamic microphones are exceptions, due to the designers' assumption of a certain load impedance being part of the internal electro-acoustical damping circuit of the microphone.*
-
-#### <a href="https://en.wikipedia.org/wiki/Quebec_Act">Quebec Act</a>
-- In the same communication, Carleton observed that the Act was not a permanent solution*
-
 #### <a href="https://en.wikipedia.org/wiki/Tokyo">Tokyo</a>
 - The last one to hit was Fitow in 2007,* while the most rainy month since records began in 1876 has been October 2004 with 780 millimetres (30 in) of rain, including 270.
+
+#### <a href="https://en.wikipedia.org/wiki/Nuclear_warfare">Nuclear warfare</a>
+- However, no terms could be arrived at that would be agreed upon by both the United States and the Soviet Union.*
+
+#### <a href="https://en.wikipedia.org/wiki/Pagoda">Pagoda</a>
+- Many pagodas have a decorated finial at the top of the structure, and when made of metal, this finial, sometimes referred to as a "demon-arrester", can function as a lightning rod.*
 
 #### <a href="https://en.wikipedia.org/wiki/Gda%C5%84sk">Gdańsk</a>
 - Out of the 2,938 Jewish community in the city 1,227 were able to escape from the Nazis before the outbreak of war.*
@@ -2735,8 +2793,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/War_elephant">War elephant</a>
 - The elephants' thick hide gave them considerable protection,* while their height and mass protected their riders.
 
-#### <a href="https://en.wikipedia.org/wiki/Nuclear_warfare">Nuclear warfare</a>
-- However, no terms could be arrived at that would be agreed upon by both the United States and the Soviet Union.*
+#### <a href="https://en.wikipedia.org/wiki/James_Francis_McIntyre">James Francis McIntyre</a>
+- The end of McIntyre's tenure was filled with rancor, as he found himself at odds with blacks, Hispanics, and his own clergy.*
 
 #### <a href="https://en.wikipedia.org/wiki/Software_testing">Software testing</a>
 - More than a third of this cost could be avoided if better software testing was performed.*
@@ -2750,14 +2808,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Project_Gutenberg">Project Gutenberg</a>
 - In recent decades the resulting relatively bland appearance and the lack of a markup possibility have often been perceived as a drawback of this format.*
 
-#### <a href="https://en.wikipedia.org/wiki/Diesel_engine">Diesel engine</a>
-- As such, diesel engines in the late 19th and early 20th centuries used the same basic layout and form as industrial steam engines, with long-bore cylinders, external valve gear, cross-head bearings and an open crankshaft connected to a large flywheel.*
+#### <a href="https://en.wikipedia.org/wiki/Human_rights_in_the_United_States">Human rights in the United States</a>
+- The ADA reflected a dramatic shift toward the employment of persons with disabilities to enhance the labor force participation of qualified persons with disabilities and to reduce their dependence on government entitlement programs. *
 
 #### <a href="https://en.wikipedia.org/wiki/Lytham_St_Annes">Lytham St Annes</a>
 - The area is also popular for workers commuting to Manchester and Liverpool which are both under one hour away.*
 
-#### <a href="https://en.wikipedia.org/wiki/James_Francis_McIntyre">James Francis McIntyre</a>
-- The end of McIntyre's tenure was filled with rancor, as he found himself at odds with blacks, Hispanics, and his own clergy.*
+#### <a href="https://en.wikipedia.org/wiki/Cantonment">Cantonment</a>
+- Cantonments can be found in Bangladesh, India, Pakistan, South Africa,* Singapore, Malaysia, Ghana, Sri Lanka and Nepal.
 
 #### <a href="https://en.wikipedia.org/wiki/Po%C5%BEarevac">Požarevac</a>
 - The modern town of Požarevac was first mentioned in the 14th century under the name Puporače*; it first being mentioned under its present-day name in 1476.
@@ -2774,8 +2832,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Lithuanian_language">Lithuanian language</a>
 - The Ivanov–Toporov theory is gaining ground among students of comparative-historic grammar of Indo-European language, and seems to be replacing the previous two stances in most P-I-E textbooks.*
 
-#### <a href="https://en.wikipedia.org/wiki/Human_rights_in_the_United_States">Human rights in the United States</a>
-- The ADA reflected a dramatic shift toward the employment of persons with disabilities to enhance the labor force participation of qualified persons with disabilities and to reduce their dependence on government entitlement programs. *
+#### <a href="https://en.wikipedia.org/wiki/Clothing_in_ancient_Rome">Clothing in ancient Rome</a>
+- There were far fewer colours than in the modern era.*
 
 #### <a href="https://en.wikipedia.org/wiki/Humvee">Humvee</a>
 - The HMMWV was designed primarily for personnel and light cargo transport behind front lines, not as a front line fighting vehicle.*
@@ -2789,8 +2847,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Nepal">Nepal</a>
 - Kathmandu, with a population of over 2.6 million (metropolitan area: 5 million),* is the largest city in the country and the cultural and economic heart.
 
-#### <a href="https://en.wikipedia.org/wiki/Cantonment">Cantonment</a>
-- Cantonments can be found in Bangladesh, India, Pakistan, South Africa,* Singapore, Malaysia, Ghana, Sri Lanka and Nepal.
+#### <a href="https://en.wikipedia.org/wiki/Sea_of_Japan_naming_dispute">Sea of Japan naming dispute</a>
+- Additionally, it specifically states that the name Sea of Japan was not widely used, even in Japan, as late as the mid 19th century.*
 
 #### <a href="https://en.wikipedia.org/wiki/Horizon">Horizon</a>
 - For observers near sea level the difference between this geometrical horizon (which assumes a perfectly flat, infinite ground plane) and the true horizon (which assumes a spherical Earth surface) is imperceptible to the naked eye* (but for someone on a 1000-meter hill looking out to sea the true horizon will be about a degree below a horizontal line).
@@ -2798,8 +2856,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/History_of_Mongolia">History of Mongolia</a>
 - During the 4th century also, the Huns left the steppes north of the Aral Sea to invade Europe.*
 
-#### <a href="https://en.wikipedia.org/wiki/Clothing_in_ancient_Rome">Clothing in ancient Rome</a>
-- There were far fewer colours than in the modern era.*
+#### <a href="https://en.wikipedia.org/wiki/Medicine">Medicine</a>
+- In India, the surgeon Sushruta described numerous surgical operations, including the earliest forms of plastic surgery.*
 
 #### <a href="https://en.wikipedia.org/wiki/Space_Shuttle_main_engine">Space Shuttle main engine</a>
 - Once the remaining RS-25Ds are used up, they are to be replaced with a cheaper, expendable version, currently designated the RS-25E ('E' for expendable).*
@@ -2816,8 +2874,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Persecution_of_Hindus">Persecution of Hindus</a>
 - According to some sources (like Ibn Batuta) the name of the Hindu Kush mountains of the region means "Hindu kill"* probably because raiders would capture Hindu slaves from the plains and take them away but they would die of cold in the mountains.
 
-#### <a href="https://en.wikipedia.org/wiki/Medicine">Medicine</a>
-- In India, the surgeon Sushruta described numerous surgical operations, including the earliest forms of plastic surgery.*
+#### <a href="https://en.wikipedia.org/wiki/Inheritance">Inheritance</a>
+- is the world's wealthiest nation, but "ranks twenty-ninth in life expectancy, right behind Jordan and Bosnia." This has been regarded as highly attributed to the significant gap of inheritance inequality in the country, although there are clearly other factors such as the healthcare system.*
+
+#### <a href="https://en.wikipedia.org/wiki/Magister_militum">Magister militum</a>
+- Magister militum (Latin for "Master of the Soldiers", plural magistri militum) was a top-level military command used in the later Roman Empire, dating from the reign of Constantine.*
 
 #### <a href="https://en.wikipedia.org/wiki/Lo-fi_music">Lo-fi music</a>
 - The term was adopted in late 1986 by WFMU DJ William Berger, who dedicated a weekly half hour segment of his program to home recorded music under the name Lo-Fi.*
@@ -2846,20 +2907,20 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Decibel">Decibel</a>
 - Decibels are the traditional way of expressing gain or margin in such diverse disciplines as control theory, antenna and radio frequency transmission theory, and even assessment of nuclear hardness.*
 
-#### <a href="https://en.wikipedia.org/wiki/Pagoda">Pagoda</a>
-- Many pagodas have a decorated finial at the top of the structure, and when made of metal, this finial, sometimes referred to as a "demon-arrester", can function as a lightning rod.*
+#### <a href="https://en.wikipedia.org/wiki/Blood_sugar">Blood sugar</a>
+- In healthy individuals, blood glucose-regulating mechanisms are generally quite effective, and symptomatic hypoglycemia is generally found only in diabetics using insulin or other pharmacological treatment*.
 
 #### <a href="https://en.wikipedia.org/wiki/Foxtel">Foxtel</a>
 - Since the Foxtel advertisement, other Australian businesses and advertising firms have taken licence to adopt the term, and it has become an acceptable part of the Australian lexicon* and verbal nomenclature referring to businesses offerings before the Australian financial year end on 30 June.
 
-#### <a href="https://en.wikipedia.org/wiki/Sea_of_Japan_naming_dispute">Sea of Japan naming dispute</a>
-- Additionally, it specifically states that the name Sea of Japan was not widely used, even in Japan, as late as the mid 19th century.*
+#### <a href="https://en.wikipedia.org/wiki/Lisbon">Lisbon</a>
+- In return for paying this extra tax, Christians and Jews were excluded from specific duties assigned to Muslims like joining the Islamic army, and their security was guaranteed by the state, but otherwise, the Christians and Jews were equal to Muslims* under the laws of property, contract and obligation.
 
 #### <a href="https://en.wikipedia.org/wiki/Ordovician">Ordovician</a>
 - The green algae were similar to today's sea moss.*
 
-#### <a href="https://en.wikipedia.org/wiki/Inheritance">Inheritance</a>
-- is the world's wealthiest nation, but "ranks twenty-ninth in life expectancy, right behind Jordan and Bosnia." This has been regarded as highly attributed to the significant gap of inheritance inequality in the country, although there are clearly other factors such as the healthcare system.*
+#### <a href="https://en.wikipedia.org/wiki/Kamarupa">Kamarupa</a>
+- In the 16th century the Ahom kingdom came into prominence and assumed for itself the political and territorial legacy of the Kamarupa kingdom.*
 
 #### <a href="https://en.wikipedia.org/wiki/Chinese_space_program">Chinese space program</a>
 - Nonetheless, the decision to develop a totally new moon rocket in the 1962 Soviet UR-700M-class (Project Aelita) able to launch a 500-ton payload in LTO* and a more modest 50 tons LTO payload LV has been discussed in a 2006 conference by academician Zhang Guitian (张贵田), a liquid propellant rocket engine specialist, who developed the CZ-2 and CZ-4A rockets engines.
@@ -2870,14 +2931,14 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Chicago_(pool)">Chicago (pool)</a>
 - pocketing the cue ball, results in ball in hand behind the headstring, and the incoming player must shoot at object balls forward of that line.*
 
-#### <a href="https://en.wikipedia.org/wiki/Blood_sugar">Blood sugar</a>
-- In healthy individuals, blood glucose-regulating mechanisms are generally quite effective, and symptomatic hypoglycemia is generally found only in diabetics using insulin or other pharmacological treatment*.
-
 #### <a href="https://en.wikipedia.org/wiki/B-cell_chronic_lymphocytic_leukemia">B-cell chronic lymphocytic leukemia</a>
 - CLL is a stage of small lymphocytic lymphoma (SLL), a type of B-cell lymphoma, which presents primarily in the lymph nodes.*
 
 #### <a href="https://en.wikipedia.org/wiki/Protist">Protist</a>
 - The most popular contemporary definition is a phylogenetic one, that identifies a paraphyletic group:* a protist is any eukaryote that is not an animal, (land) plant, or (true) fungus; this definition excludes many unicellular groups, like the Microsporidia (fungi), many Chytridiomycetes (fungi), and yeasts (fungi).
+
+#### <a href="https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks">Bedknobs and Broomsticks</a>
+- The movie was reissued theatrically in 1979, with a lower time of 96 minutes, with all songs, excluding "Portobello Road" and "Beautiful Briny Sea", being muted out.*
 
 #### <a href="https://en.wikipedia.org/wiki/Greater_Romania">Greater Romania</a>
 - the organisation of the New Right –Noua Dreaptă with paramilitary inclinations*).
@@ -2885,8 +2946,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Columbia,_Maryland">Columbia, Maryland</a>
 - By 1974, the amount owed reached $100,000 million*, prompting partner Connecticut General to consider bankruptcy.
 
-#### <a href="https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks">Bedknobs and Broomsticks</a>
-- The movie was reissued theatrically in 1979, with a lower time of 96 minutes, with all songs, excluding "Portobello Road" and "Beautiful Briny Sea", being muted out.*
+#### <a href="https://en.wikipedia.org/wiki/Search_engine_optimization">Search engine optimization</a>
+- Inaccurate, incomplete, and inconsistent data in meta tags could and did cause pages to rank for irrelevant searches.*
 
 #### <a href="https://en.wikipedia.org/wiki/Continental_Basketball_Association">Continental Basketball Association</a>
 - With the league in a blind trust there are no funds available to pay players, to buy plane tickets for road games, or to handle day-to-day operations.*
@@ -2900,11 +2961,11 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Northwestern_United_States">Northwestern United States</a>
 - It is home to over 14.2 million citizens.*
 
-#### <a href="https://en.wikipedia.org/wiki/Lisbon">Lisbon</a>
-- In return for paying this extra tax, Christians and Jews were excluded from specific duties assigned to Muslims like joining the Islamic army, and their security was guaranteed by the state, but otherwise, the Christians and Jews were equal to Muslims* under the laws of property, contract and obligation.
+#### <a href="https://en.wikipedia.org/wiki/Scouse">Scouse</a>
+- The use of me instead of my is also attributed to Irish English influence: for example, "That's me book you got there" for "That's my book you got there".*
 
-#### <a href="https://en.wikipedia.org/wiki/Kamarupa">Kamarupa</a>
-- In the 16th century the Ahom kingdom came into prominence and assumed for itself the political and territorial legacy of the Kamarupa kingdom.*
+#### <a href="https://en.wikipedia.org/wiki/Slade">Slade</a>
+- At the beginning of 1985, Slade released the single "7 Year Bitch" which stalled at number 60 in the UK when it was banned* for the lyrical content and title.
 
 #### <a href="https://en.wikipedia.org/wiki/Abjad">Abjad</a>
 - In most cases, the absence of full glyphs for vowels makes the common root clearer, allowing readers to guess the meaning of unfamiliar words from familiar roots (especially in conjunction with context clues) and improving word recognition* while reading for practiced readers.
@@ -2936,8 +2997,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Flag_of_Tunisia">Flag of Tunisia</a>
 - During the era of the French protectorate in Tunisia, French authorities did not change the Tunisian flag.*
 
-#### <a href="https://en.wikipedia.org/wiki/Magister_militum">Magister militum</a>
-- Magister militum (Latin for "Master of the Soldiers", plural magistri militum) was a top-level military command used in the later Roman Empire, dating from the reign of Constantine.*
+#### <a href="https://en.wikipedia.org/wiki/Prairie">Prairie</a>
+- The native grasses suffered much less damage from dry conditions than the farm crops currently grown.*
 
 #### <a href="https://en.wikipedia.org/wiki/Beryllium">Beryllium</a>
 - Therefore, tools fabricated out of beryllium-based materials are used by naval or military explosive ordnance disposal teams for work on or near naval mines, since these mines commonly have magnetic fuzes.*
@@ -2960,8 +3021,8 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Anushilan_Samiti">Anushilan Samiti</a>
 - In the meantime, Aurobindo and Bipin Chandra Pal, a Bengali politician, began in 1907 the radical Bengali nationalist publication of Jugantar (Lit:Change),* and its English counterpart Bande Mataram.
 
-#### <a href="https://en.wikipedia.org/wiki/Search_engine_optimization">Search engine optimization</a>
-- Inaccurate, incomplete, and inconsistent data in meta tags could and did cause pages to rank for irrelevant searches.*
+#### <a href="https://en.wikipedia.org/wiki/Culture">Culture</a>
+- In common parlance, culture is often used to refer specifically to the symbolic markers used by ethnic groups to distinguish themselves visibly from each other such as body modification, clothing or jewelry.*
 
 #### <a href="https://en.wikipedia.org/wiki/Continuously_variable_transmission">Continuously variable transmission</a>
 - Leonardo da Vinci, in 1490, conceptualized a stepless continuously variable transmission.*
@@ -2969,23 +3030,23 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/British_nationality_law">British nationality law</a>
 - Note that this is required for permanent residency, not just for citizenship, and married partners may be deported if they are unable to pass the test.*
 
-#### <a href="https://en.wikipedia.org/wiki/Levi_Eshkol">Levi Eshkol</a>
-- Komer and others, Eshkol signed what became known as the Eshkol-Comer (sic)* memorandum of understanding (MOU) about Israeli nuclear capabilities.
+#### <a href="https://en.wikipedia.org/wiki/Colonial_India">Colonial India</a>
+- The East India Company had failed to implement any coordinated policy to deal with the famines during its period of rule.*
 
 #### <a href="https://en.wikipedia.org/wiki/Names_of_the_Greeks">Names of the Greeks</a>
 - Argives is an annotation drawn from the most prominent city of the Achaeans,* Argos).
 
-#### <a href="https://en.wikipedia.org/wiki/Scouse">Scouse</a>
-- The use of me instead of my is also attributed to Irish English influence: for example, "That's me book you got there" for "That's my book you got there".*
+#### <a href="https://en.wikipedia.org/wiki/Tachyon">Tachyon</a>
+- Because the total energy must be real,* the numerator must also be imaginary: i.
 
 #### <a href="https://en.wikipedia.org/wiki/Caucasian_Albania">Caucasian Albania</a>
 - Albania or Arran in Islamic times was a triangle of land, lowland in the east and mountainous in the west, formed by the junction of the Kura and Aras rivers,* Mil plain and parts of the Mughan plain, and in the pre-Islamic times, corresponded roughly to the territory of modern-day Republic of Azerbaijan.
 
-#### <a href="https://en.wikipedia.org/wiki/Indian_South_Africans">Indian South Africans</a>
-- Indians were taught in their mother tongue for several years*.
+#### <a href="https://en.wikipedia.org/wiki/Segovia">Segovia</a>
+- The Casa de la Moneda, the oldest industrial building in Europe.*
 
-#### <a href="https://en.wikipedia.org/wiki/Culture">Culture</a>
-- In common parlance, culture is often used to refer specifically to the symbolic markers used by ethnic groups to distinguish themselves visibly from each other such as body modification, clothing or jewelry.*
+#### <a href="https://en.wikipedia.org/wiki/List_of_Testudines_families">List of Testudines families</a>
+- A third order, the Paracryptodirans, are extinct.*
 
 #### <a href="https://en.wikipedia.org/wiki/Stations_of_the_Cross">Stations of the Cross</a>
 - The stations themselves must consist of, at the very least, fourteen wooden crosses, pictures alone do not suffice, and they must be blessed by someone with the authority to erect stations.*
@@ -2996,20 +3057,20 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 #### <a href="https://en.wikipedia.org/wiki/Padua">Padua</a>
 - In fact, the remains of an amphitheater (the Arena) and some bridge foundations are all that remain of Roman Padua today.*
 
-#### <a href="https://en.wikipedia.org/wiki/Tachyon">Tachyon</a>
-- Because the total energy must be real,* the numerator must also be imaginary: i.
-
-#### <a href="https://en.wikipedia.org/wiki/Segovia">Segovia</a>
-- The Casa de la Moneda, the oldest industrial building in Europe.*
-
-#### <a href="https://en.wikipedia.org/wiki/List_of_Testudines_families">List of Testudines families</a>
-- A third order, the Paracryptodirans, are extinct.*
-
 #### <a href="https://en.wikipedia.org/wiki/Ur">Ur</a>
 - About that time, the houses in the city were two-storied villas with 13 or 14 rooms, with plastered interior walls.*
 
-#### <a href="https://en.wikipedia.org/wiki/Slade">Slade</a>
-- At the beginning of 1985, Slade released the single "7 Year Bitch" which stalled at number 60 in the UK when it was banned* for the lyrical content and title.
+#### <a href="https://en.wikipedia.org/wiki/Joe_Cole">Joe Cole</a>
+- As an England schoolboy international, Cole scored seven goals in an 8–1 victory against Spain in an England Schoolboys game,* as well as playing for England's Under 17 team, where he scored the winning goal against Norway in a final of the Nordic Tournament.
+
+#### <a href="https://en.wikipedia.org/wiki/Alberta_general_election,_2012">Alberta general election, 2012</a>
+- The following is a summary of polling firms, used by Alberta's media, with percentages of decided voters* whom had been asked for what party they would vote for.
+
+#### <a href="https://en.wikipedia.org/wiki/Indian_South_Africans">Indian South Africans</a>
+- Indians were taught in their mother tongue for several years*.
+
+#### <a href="https://en.wikipedia.org/wiki/Mineral_oil">Mineral oil</a>
+- Food grade mineral oil has an E number of E905a, although it is not approved in food products in the European Union, and incidental amounts in foods are carefully regulated.*
 
 #### <a href="https://en.wikipedia.org/wiki/Hemp">Hemp</a>
 - One claim is that Hearst believed* that his extensive timber holdings were threatened by the invention of the decorticator which he feared would allow hemp to become a cheap substitute for the paper pulp used for newspaper.
@@ -3028,15 +3089,3 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 
 #### <a href="https://en.wikipedia.org/wiki/Michael_Shannon">Michael Shannon</a>
 - Shannon made his film debut with a small role in Groundhog Day in 1993 as a wedding groom.*
-
-#### <a href="https://en.wikipedia.org/wiki/Joe_Cole">Joe Cole</a>
-- As an England schoolboy international, Cole scored seven goals in an 8–1 victory against Spain in an England Schoolboys game,* as well as playing for England's Under 17 team, where he scored the winning goal against Norway in a final of the Nordic Tournament.
-
-#### <a href="https://en.wikipedia.org/wiki/Alberta_general_election,_2012">Alberta general election, 2012</a>
-- The following is a summary of polling firms, used by Alberta's media, with percentages of decided voters* whom had been asked for what party they would vote for.
-
-#### <a href="https://en.wikipedia.org/wiki/Trieste">Trieste</a>
-- In total, the city's ethnic Slavic minority makes up about 30 percent of the population.*
-
-#### <a href="https://en.wikipedia.org/wiki/Rootkit">Rootkit</a>
-- Most of the rootkits available on the Internet originated as exploits or as academic "proofs of concept" to demonstrate varying methods of hiding things within a computer system and of taking unauthorized control of it.*
