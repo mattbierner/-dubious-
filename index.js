@@ -46,7 +46,8 @@ const writeResults = (db, results) =>
             new Promise((resolve, reject) =>
                 db.update({ 'article': result.title}, {
                     'article': result.title,
-                    'usages': result.usages
+                    'usages': result.usages,
+                    'date': Date.now()
                 }, {upsert: true}, err => err ? reject(err) : resolve()))));
 
 /**
