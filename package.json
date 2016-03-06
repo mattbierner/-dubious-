@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonp-promise": "^0.1.2",
+    "nedb": "^1.8.0"
+  }
+}
