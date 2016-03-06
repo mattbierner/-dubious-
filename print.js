@@ -13,20 +13,22 @@ const STATE_FILE = 'state.json';
 const printArticle = (data) => {
     if (!data.usages.length)
         return;
+    const title = data.article;
+    const pagePath = 'https://en.wikipedia.org/wiki/' + encodeURI(title.replace(/ /g, '_'));
+    
     console.log('');
-    console.log(`=====${data.article}=====`);
+    console.log(`#### <a href="${pagePath}">${title}</a>`);
     for (let usage of data.usages)
         console.log('- ' + usage);
 };
-
-
 
 const template = process.argv[2];
 if (!template) {
     console.error('no template specified');
     process.exit(1);
 }
-console.log('Template:', template)
+console.log('# ', template)
+console.log('Orded by number of occurrences. \\* is where the template is used in the sentance.');
 
 const db = new Datastore({
     filename: path.join(ROOT, template, DB_FILE),
@@ -34,5 +36,7 @@ const db = new Datastore({
 });
 
 db.find({}, (err, docs) => {
-    docs.map(printArticle)
+    docs
+        .sort((a, b) => b.usages.length - a.usages.length)
+        .map(printArticle);
 });

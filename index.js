@@ -44,17 +44,17 @@ const writeResults = (db, results) =>
     Promise.all(
         results.filter(x => x).map(result =>
             new Promise((resolve, reject) =>
-                db.update({ 'article': result.title}, {
+                db.update({ 'article': result.title }, {
                     'article': result.title,
                     'usages': result.usages,
                     'date': Date.now()
-                }, {upsert: true}, err => err ? reject(err) : resolve()))));
+                }, { upsert: true }, err => err ? reject(err) : resolve()))));
 
 /**
  * 
  */
 const getResults = (client, name, templateNames, start, count) =>
-   wiki.searchForTemplate(client, name, start, count)
+    wiki.searchForTemplate(client, name, start, count)
         .then(results =>
             Promise.all(results.map(title => wiki.getTemplateUsages(client, title, templateNames))))
 
@@ -91,7 +91,7 @@ const templateAliases = {
 
 
 // template to find.
-const template = process.argv[2];
+let template = process.argv[2];
 if (!template) {
     console.error('no template specified');
     process.exit(1);
@@ -117,7 +117,7 @@ const client = new NodeMw({
     path: '/w'
 });
 
-const begin = () => { 
+const begin = () => {
     const state = load_inital_state(output_dir);
     getResults(client, template, templateAliases[template], state.start, state.count)
         .then(x => { console.log(x); return x; })
@@ -132,10 +132,10 @@ const begin = () => {
         .catch(console.error);
 };
 
-begin();
-
-/*
-wiki.getTemplateUsages(client, 'Early Slavs', templateAliases[template])
-    .then(console.log)
-    .catch(console.error);
-*/
+if (true) {
+    begin();
+} else {
+    wiki.getTemplateUsages(client, 'Blue whale', templateAliases[template])
+        .then(console.log)
+        .catch(console.error);
+}

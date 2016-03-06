@@ -16,19 +16,21 @@ const createTemplateRe = templateNames =>
  */
 const removeLinks = markup =>
     markup
-        .replace(/\[\[.+?\|(.+?)\]\]?/g, (match, content) => content)
-        .replace(/\[\[(.+?)\]\]/g, (match, content) => content)
+        .replace(/\[\[[^\]]+?\|(.+?)\]\]?/g, (match, content) => content)
+        .replace(/\[\[([^\]]+?)\]\]/g, (match, content) => content)
     
     // other template
         .replace(/\{\{[^]+?\}\}/g, '')
     
     // ref tags
         .replace(/<ref .+?\/>/gi, '')
-        .replace(/\n?<ref.*?>[^]+?(<\/ref>|$)/gi, '')
-        .replace(/(^|\n?<ref.*?>)[^]+?<\/ref>/gi, '')
-    
+        .replace(/\n?<ref.*?>[^]*?<\/ref>/gi, '')
+        .replace(/\n?<ref.*?>[^]*?<\/ref>/gi, '')
+        .replace(/^[^]*?<\/ref>/gi, '')
+        .replace(/\n?<ref.*?>[^]*?$/gi, '')
+        
     // comment tags
-        .replace(/<!--[^]*?-->/gi, '')
+        .replace(/<!--[^]+?-->/gi, '')
     
     // Markup
         .replace(/''/g, '')
@@ -48,7 +50,8 @@ const char_re = /[\w \.\(\),;:'";\-]/;
 const reverseContext = (text, index) => {
     const out = [];
     const sampleSize = 500;
-    const sample = removeLinks(text.substr(index - sampleSize, sampleSize));
+    let sample = text.substr(index - sampleSize, sampleSize);
+    sample = removeLinks(sample);
     for (let i = sample.length - 1; i >= 0; --i) {
         const c = sample[i];
         if (!c.match(char_re))
@@ -61,7 +64,8 @@ const reverseContext = (text, index) => {
 var forwardContext = (text, index) => {
     const out = [];
     const sampleSize = 500;
-    const sample = removeLinks(text.substr(index, sampleSize));
+    let sample = text.substr(index, sampleSize);
+    sample = removeLinks(sample);
     for (let i = 0; i < sample.length; ++i) {
         const c = sample[i];
         if (!c.match(char_re))
