@@ -56,4 +56,4 @@ Results are saved using [NeDB][nedb] to `output/TEMPLATE_NAME`.
 [inline]: https://en.wikipedia.org/wiki/Category:Inline_cleanup_templates
 [search_api]: https://www.mediawiki.org/wiki/API:Search
 
-[nedb]: nedbank internet banking
+[nedb]: https://github.com/louischatriot/nedb
