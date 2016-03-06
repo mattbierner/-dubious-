@@ -20,9 +20,10 @@ const removeLinks = markup =>
         .replace(/\[\[(.+?)\]\]/g, (match, content) => content)
     
     // other template
-        .replace(/\{\{[^]+?\}\}/, '')
+        .replace(/\{\{[^]+?\}\}/g, '')
     
     // ref tags
+        .replace(/<ref .+?\/>/gi, '')
         .replace(/\n?<ref.*?>[^]+?(<\/ref>|$)/gi, '')
         .replace(/(^|\n?<ref.*?>)[^]+?<\/ref>/gi, '')
     
@@ -75,7 +76,7 @@ const context = (text, match) => {
     let post = forwardContext(text, match.index + match[0].length);
 
     const matchLength = 50;
-    pre = pre.length < matchLength ? pre : pre.substr(pre.length - pre.length);
+    pre = pre.length < matchLength ? pre : pre.substr(pre.length - matchLength);
     post = post.substr(0, Math.min(matchLength, post.length));
     return {
         pre: pre,

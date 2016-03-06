@@ -5,6 +5,7 @@ const wiki = require('./wiki');
 const path = require('path');
 const mkdirp = require('mkdirp');
 const fs = require('fs');
+const process = require('process');
 
 const ROOT = path.join(__dirname, 'out');
 
@@ -13,7 +14,7 @@ const STATE_FILE = 'state.json';
 
 const DEFAULT_STATE = {
     start: 0,
-    count: 10
+    count: 20
 };
 
 const load_inital_state = (root) => {
@@ -43,10 +44,10 @@ const writeResults = (db, results) =>
     Promise.all(
         results.filter(x => x).map(result =>
             new Promise((resolve, reject) =>
-                db.insert({
+                db.update({ 'article': result.title}, {
                     'article': result.title,
                     'usages': result.usages
-                }, err => err ? reject(err) : resolve()))));
+                }, {upsert: true}, err => err ? reject(err) : resolve()))));
 
 /**
  * 
@@ -56,8 +57,6 @@ const getResults = (client, name, templateNames, start, count) =>
         .then(results =>
             Promise.all(results.map(title => wiki.getTemplateUsages(client, title, templateNames))))
 
-const process = (client, db, name, templateNames, start, count) =>
-    getResults(client, name, templateNames, start, count);
 
 const templateAliases = {
     // dubious
@@ -91,8 +90,18 @@ const templateAliases = {
 
 
 // template to find.
-const template = 'lopsided';
+const template = process.argv[2];
+if (!template) {
+    console.error('no template specified');
+    process.exit(1);
+}
+console.log('Template:', template)
 
+let aliases = templateAliases[template];
+if (!aliases) {
+    console.warn('No template aliases found, only using template name');
+    aliases = [template];
+}
 
 const output_dir = path.join(ROOT, template);
 mkdirp.sync(output_dir);
@@ -109,7 +118,7 @@ const client = new NodeMw({
 
 const begin = () => { 
     const state = load_inital_state(output_dir);
-    process(client, db, template, templateAliases[template], state.start, state.count)
+    getResults(client, template, templateAliases[template], state.start, state.count)
         .then(x => { console.log(x); return x; })
         .catch(err => { console.error(err); return []; })
         .then(results =>
@@ -117,12 +126,15 @@ const begin = () => {
         .then(results => {
             save_state(output_dir, state.start + state.count, state.count);
             if (results.length)
-                setTimeout(begin, 10000);
+                setTimeout(begin, 30000);
         })
         .catch(console.error);
 };
 
-//begin();
+begin();
 
-wiki.getTemplateUsages(client, 'Moral status of animals in the ancient world', templateAliases[template])
-    .then(console.log);
+/*
+wiki.getTemplateUsages(client, 'Early Slavs', templateAliases[template])
+    .then(console.log)
+    .catch(console.error);
+*/
