@@ -124,5 +124,5 @@ const begin = () => {
 
 //begin();
 
-wiki.getTemplateUsages(client, 'Bobo doll experiment', templateAliases[template])
+wiki.getTemplateUsages(client, 'Moral status of animals in the ancient world', templateAliases[template])
     .then(console.log);

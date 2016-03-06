@@ -16,19 +16,25 @@ const createTemplateRe = templateNames =>
  */
 const removeLinks = markup =>
     markup
+        .replace(/\[\[.+?\|(.+?)\]\]?/g, (match, content) => content)
         .replace(/\[\[(.+?)\]\]/g, (match, content) => content)
-        .replace(/\[\[(.+?)\|(.+?)\]/g, (match, content) => content)
+    
+    // other template
+        .replace(/\{\{[^]+?\}\}/, '')
+    
     // ref tags
         .replace(/\n?<ref.*?>[^]+?(<\/ref>|$)/gi, '')
         .replace(/(^|\n?<ref.*?>)[^]+?<\/ref>/gi, '')
+    
     // comment tags
         .replace(/<!--[^]*?-->/gi, '')
     
     // Markup
         .replace(/''/g, '')
-        .replace(/""/g, '');
+        .replace(/""/g, '')
+        .replace(/  /g, ' ');
         
-const char_re = /[\w \.\(\),;:'";]/;
+const char_re = /[\w \.\(\),;:'";\-]/;
 
 /**
  * Try to extract a string matching context around a dubious tag.
@@ -69,7 +75,7 @@ const context = (text, match) => {
     let post = forwardContext(text, match.index + match[0].length);
 
     const matchLength = 50;
-    pre = pre.substr(Math.min(matchLength, pre.length));
+    pre = pre.length < matchLength ? pre : pre.substr(pre.length - pre.length);
     post = post.substr(0, Math.min(matchLength, post.length));
     return {
         pre: pre,
@@ -209,7 +215,7 @@ exports.getTemplateUsages = (client, title, templateNames) =>
             return { title: title, usages: [] };
 
         return getArticleText(client, title).then(data => {
-            data = normalizeOutput(data);console.log(data);
+            data = normalizeOutput(data);
             const out = []
             for (let target of contexts) {
                 const index = data.indexOf(target.pre + target.post);
