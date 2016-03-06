@@ -32,7 +32,7 @@ Examples of `lopsided` statements. The star represents where the template is use
 - However, key Republican lawmakers, including John Boehner (a key proponent of for-profit colleges) *  and Mitch McConnell publicly opposed the legislation.
 ```
 
-"refreshes souls*". Amazing! The [rest of the Cali article](https://en.wikipedia.org/wiki/Cali) is similarly hilarious. 
+"refreshes souls*" Amazing! The [rest of the Cali article](https://en.wikipedia.org/wiki/Cali#Tourism) is similarly hilarious. 
 
 The tool is great for finding entertaining pages on Wikipedia like this.
 
