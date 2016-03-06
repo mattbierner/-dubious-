@@ -1,240 +1,63 @@
 "use strict";
 const NodeMw = require('nodemw');
-const striptags = require('striptags');
-const regExpEscape = require('escape-regexp');
 const Datastore = require('nedb');
+const wiki = require('./wiki');
+const path = require('path');
+const mkdirp = require('mkdirp');
+const fs = require('fs');
 
-const MIX_CONTEXT_LENGTH = 20;
+const ROOT = path.join(__dirname, 'out');
 
-/**
- * Create a regular expression that matches uses of a set of templates.
- */
-const createTemplateRe = templateNames =>
-    new RegExp(`\{\{(${templateNames.map(regExpEscape).join('|') })[^]*?\}\}`, 'gi');
+const DB_FILE = "data.db";
+const STATE_FILE = 'state.json';
 
-/**
- * Try to remove links from wikimarkup.
- */
-const removeLinks = markup =>
-    markup
-        .replace(/\[\[(.+?)\]\]/g, (match, content) => content)
-        .replace(/\[\[(.+?)\|(.+?)\]/g, (match, content) => content)
-    // ref tags
-        .replace(/\n?<ref.*?>[^]+?(<\/ref>|$)/gi, '')
-        .replace(/(^|\n?<ref.*?>)[^]+?<\/ref>/gi, '')
-    // comment tags
-        .replace(/<!--[^]*?-->/gi, '');
-
-/**
- * Try to extract a string matching context around a dubious tag.
- * 
- * Wikimedia doesn't actually mark what the dubious part of a statement is, and these
- * tags get stripped out from the plaintext. The context tries to find some text around
- * the dubious statement using the markup, which can be later matched against the
- * plaintext.
- */
-const reverseContext = (text, index) => {
-    const out = [];
-    const sampleSize = 500;
-    const sample = removeLinks(text.substr(index - sampleSize, sampleSize));
-    for (let i = sample.length - 1; i >= 0; --i) {
-        const c = sample[i];
-        if (!c.match(/[\w \.\(\),;'";]/))
-            break;
-        out.unshift(c);
-    }
-    return out.join('');
+const DEFAULT_STATE = {
+    start: 0,
+    count: 10
 };
 
-var forwardContext = (text, index) => {
-    const out = [];
-    const sampleSize = 500;
-    const sample = removeLinks(text.substr(index, sampleSize));
-    for (let i = 0; i < sample.length; ++i) {
-        const c = sample[i];
-        if (!c.match(/[\w \.\(\),;'";]/))
-            break;
-        out.push(c);
+const load_inital_state = (root) => {
+    let data;
+    try {
+        data = fs.readFileSync(path.join(root, STATE_FILE));
+    } catch (e) {
+        //noop
     }
-    return out.join('');
+    if (data) {
+        const state = JSON.parse(data);
+        if (state)
+            return Object.assign({}, DEFAULT_STATE, state);
+    }
+    return DEFAULT_STATE;
 };
 
-const context = (text, match) => {
-    let pre = reverseContext(text, match.index);
-    let post = forwardContext(text, match.index + match[0].length);
-
-    const matchLength = 50;
-    pre = pre.substr(Math.min(matchLength, pre.length));
-    post = post.substr(0, Math.min(matchLength, post.length));
-    return {
-        pre: pre,
-        post: post,
-        length: pre.length + post.length
-    };
-};
-
-/**
- *  
- */
-const extractDubiousness = (text, index) => {
-    const out = [];
-    let last;
-    let inSentance = false;
-    // Extract the leading part of the sentance.
-    for (let i = index; i >= 0; --i) {
-        const c = text[i];
-        if (c === '\n')
-            break;
-        if (c === '.' && last === ' ') {
-            if (inSentance)
-                break;
-            inSentance = true;
-        }
-        inSentance = inSentance || c.match(/\w/);
-        out.unshift(c);
-        last = c;
-    }
-    if (out.length === 0)
-        return '';
-
-    out.push('*');
-    // If in the middle of a sentence, try extracting the rest.
-    if (text[index] !== '.' && text[index - 1] !== '.') {
-        for (let i = index + 1; i < text.length; ++i) {
-            const c = text[i];
-            if (c === '\n')
-                break;
-            if (c === '.') {
-                out.push(c);
-                break;
-            }
-            out.push(c);
-        }
-    }
-    return out.join('');
-};
-
-/**
- * Clean up text for output.
- */
-const normalizeOutput = text =>
-    striptags(text)
-        .trim()
-        .replace(/^[^\w\*]+/g, '')
-        .replace(/[^\w|)|\.\*]+$/g, '');
-
-/**
- * Find titles of articles that use a given template. 
- */
-const searchForTemplate = (client, templateName, start, count) =>
-    new Promise((resolve, reject) =>
-        client.api.call({
-            action: 'query',
-            format: 'json',
-            list: 'search',
-            srsearch: `hastemplate:"${templateName}"`,
-            sroffset: start,
-            srlimit: count
-        }, (err, data) => {
-            if (err)
-                return reject(err);
-            if (!data || !data.search)
-                return reject('No data returned');
-            return resolve(data.search.map(x => x.title));
-        }));
-
-/**
- * Get the wiki markup content of an article
- */
-const getArticle = (client, title) =>
-    new Promise((resolve, reject) =>
-        client.getArticle(title, (err, data) => {
-            if (err)
-                return reject(err);
-            return resolve(data);
-        }));
-
-/**
- * Try to extract the text contexts of a set of template usages.
- */
-const getContexts = (title, templateNames, content) => {
-    const out = [];
-    const re = createTemplateRe(templateNames);
-    let m;
-    while (m = re.exec(content)) {
-        const target = context(content, m);
-        if (target.length > MIX_CONTEXT_LENGTH)
-            out.push(target);
-    }
-    return out;
-};
-
-/**
- * Get a text representation of a rendered article.
- */
-const getArticleText = (client, title) =>
-    new Promise((resolve, reject) =>
-        client.api.call({
-            action: 'query',
-            prop: 'extracts',
-            rvprop: 'content',
-            titles: title
-        }, (err, data) => {
-            if (err)
-                return reject(err);
-
-            const pages = data && data.pages;
-            if (!pages)
-                return reject('no page');
-
-            const page = Object.keys(pages)[0];
-            if (!page)
-                return reject('no page');
-
-            return resolve(pages[page].extract);
-        }));
-
-/**
- * Get all sentances for a given template's usage.
- */
-var getTemplateUsages = (client, title, templateNames) =>
-    getArticle(client, title).then(data => {
-        const contexts = getContexts(title, templateNames, data);
-        if (!contexts.length)
-            return null;
-
-        return getArticleText(client, title).then(data => {
-            const out = []
-            for (let target of contexts) {
-                const index = data.indexOf(target.pre + target.post);
-                if (index === -1)
-                    continue;
-                const text = extractDubiousness(data, index - 1 + target.pre.length);
-                out.push(normalizeOutput(text));
-            }
-            if (!out.length)
-                return null;
-            return { title: title, usages: out };
-        })
+const save_state = (root, start, count) => {
+    const data = JSON.stringify({
+        start: start,
+        count: count
     });
+    fs.writeFileSync(path.join(root, STATE_FILE), data);
+};
+
+const writeResults = (db, results) =>
+    Promise.all(
+        results.filter(x => x).map(result =>
+            new Promise((resolve, reject) =>
+                db.insert({
+                    'article': result.title,
+                    'usages': result.usages
+                }, err => err ? reject(err) : resolve()))));
 
 /**
  * 
  */
-const begin = (client, name, templateNames, start, count) =>
-    searchForTemplate(client, name, start, count)
+const getResults = (client, name, templateNames, start, count) =>
+   wiki.searchForTemplate(client, name, start, count)
         .then(results =>
-            Promise.all(results.map(title => getTemplateUsages(client, title, templateNames))))
-        .then(console.log)
-        .catch(console.error);
+            Promise.all(results.map(title => wiki.getTemplateUsages(client, title, templateNames))))
 
-const client = new NodeMw({
-    server: 'en.wikipedia.org',
-    path: '/w',
-    //debug: true
-});
-
-const db = new Datastore({ filename: 'path/to/datafile' });
+const process = (client, db, name, templateNames, start, count) =>
+    getResults(client, name, templateNames, start, count);
 
 const templateAliases = {
     // dubious
@@ -266,6 +89,40 @@ const templateAliases = {
     'technical': ['technical']
 };
 
+
+// template to find.
 const template = 'lopsided';
 
-begin(client, template, templateAliases[template], 0, 20)
+
+const output_dir = path.join(ROOT, template);
+mkdirp.sync(output_dir);
+
+const db = new Datastore({
+    filename: path.join(output_dir, DB_FILE),
+    autoload: true
+});
+
+const client = new NodeMw({
+    server: 'en.wikipedia.org',
+    path: '/w'
+});
+
+const begin = () => { 
+    const state = load_inital_state(output_dir);
+    process(client, db, template, templateAliases[template], state.start, state.count)
+        .then(x => { console.log(x); return x; })
+        .catch(err => { console.error(err); return []; })
+        .then(results =>
+            writeResults(db, results).then(_ => results))
+        .then(results => {
+            save_state(output_dir, state.start + state.count, state.count);
+            if (results.length)
+                setTimeout(begin, 10000);
+        })
+        .catch(console.error);
+};
+
+//begin();
+
+wiki.getTemplateUsages(client, 'Bobo doll experiment', templateAliases[template])
+    .then(console.log);
