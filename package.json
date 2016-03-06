@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "jsonp-promise": "^0.1.2",
-    "nedb": "^1.8.0"
+    "escape-regexp": "0.0.1",
+    "jsonp": "^0.2.0",
+    "nedb": "^1.8.0",
+    "striptags": "^2.1.1"
   }
 }
