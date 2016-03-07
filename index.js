@@ -86,6 +86,7 @@ const templateAliases = {
     
     // wording
     'buzz': ['buzz'],
+    'awkward': ['awkward'],
     'technical': ['technical']
 };
 
