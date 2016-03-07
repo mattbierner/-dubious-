@@ -45,6 +45,7 @@ The tool is great for finding entertaining pages on Wikipedia like this.
 * [buzz](https://github.com/mattbierner/dubious/blob/master/out/buzz/buzz.md)
 * [loaded term](https://github.com/mattbierner/dubious/blob/master/out/loaded term/loaded term.md)
 * [peacock-term](https://github.com/mattbierner/dubious/blob/master/out/peacock-term/peacock-term.md)
+* [Undue](https://github.com/mattbierner/dubious/blob/master/out/undue inline/undue inline.md)
 
 ## Usage
 

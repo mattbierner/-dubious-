@@ -84,6 +84,9 @@ const templateAliases = {
     'why': ['why'],
     'how': ['how'],
     
+    // Precision Excessive
+    'undue inline': ['undue inline', 'undue-inline', 'undue weight inline','undue-weight-inline'],
+    
     // wording
     'buzz': ['buzz'],
     'awkward': ['awkward'],
