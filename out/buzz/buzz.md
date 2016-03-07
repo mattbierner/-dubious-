@@ -15,23 +15,23 @@ Orded by number of occurrences. \* is where the template is used in the sentance
 - Old Catholic ministry is a small and developing aspect of Christian ministry and often reflects a growing diversification within niche chaplaincy*.
 - Niche chaplaincy* describes a type of ministry where Old Catholics often choose to serve communities and put their Holy Orders into practice.
 
-#### <a href="https://en.wikipedia.org/wiki/Four-color_deck">Four-color deck</a>
-- 52 Plus Joker's website displays a vintage* Tarock deck designed for use in the United States.
-
-#### <a href="https://en.wikipedia.org/wiki/Next-Generation_Firewall">Next-Generation Firewall</a>
-- Device sprawl"* arising out of multiple solutions adds complexities of cost, maintenance and management for the organizations.
+#### <a href="https://en.wikipedia.org/wiki/Blue_Coat_Systems">Blue Coat Systems</a>
+- Web Security Service (WSS), cloud-based* web security platform for mobile devices featuring SWG &amp; CAS appliances-as-a-service
 
 #### <a href="https://en.wikipedia.org/wiki/Hublot">Hublot</a>
 - In 1980, it also marked the birth of 'Fusion' concept after a few months from its inception date.*
-
-#### <a href="https://en.wikipedia.org/wiki/Blue_Coat_Systems">Blue Coat Systems</a>
-- Web Security Service (WSS), cloud-based* web security platform for mobile devices featuring SWG &amp; CAS appliances-as-a-service
 
 #### <a href="https://en.wikipedia.org/wiki/Queen's_Hussar">Queen's Hussar</a>
 - Queen's Hussar was inbred* 3 x 3 to Fair Trial, meaning that this stallion appear twice in the third generation of his pedigree.
 
 #### <a href="https://en.wikipedia.org/wiki/Stephen_Byrne_(broadcaster)">Stephen Byrne (broadcaster)</a>
 - The show created an enormous amount of buzz* with the hashtag #HowToBeIrish trending for 24 hours on Twitter.
+
+#### <a href="https://en.wikipedia.org/wiki/Next-Generation_Firewall">Next-Generation Firewall</a>
+- Device sprawl"* arising out of multiple solutions adds complexities of cost, maintenance and management for the organizations.
+
+#### <a href="https://en.wikipedia.org/wiki/Four-color_deck">Four-color deck</a>
+- 52 Plus Joker's website displays a vintage* Tarock deck designed for use in the United States.
 
 #### <a href="https://en.wikipedia.org/wiki/Itineris_Early_College_High_School">Itineris Early College High School</a>
 - Itineris Early College High School is a new kind of institution that blends high school and college into a coherent educational program.*

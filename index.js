@@ -128,7 +128,7 @@ const begin = () => {
         .then(results => {
             save_state(output_dir, state.start + state.count, state.count);
             if (results.length)
-                setTimeout(begin, 30000);
+                setTimeout(begin, 15000);
         })
         .catch(console.error);
 };

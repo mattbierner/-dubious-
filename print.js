@@ -37,6 +37,7 @@ const db = new Datastore({
 
 db.find({}, (err, docs) => {
     docs
+        .filter(x => x.usages.length)
         .sort((a, b) => b.usages.length - a.usages.length)
         .map(printArticle);
 });
