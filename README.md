@@ -1,4 +1,4 @@
-## {{Dubious}}
+## {{dubious}}
 
 Script for extracting all uses of a given [inline cleanup template][inline] (such as 'dubious' or 'citation-needed' or 'lopsided') from Wikipedia.
 
@@ -48,6 +48,7 @@ The tool is great for finding entertaining pages on Wikipedia like this.
 * [Undue](https://github.com/mattbierner/dubious/blob/master/out/undue inline/undue inline.md)
 * [Opinion](https://github.com/mattbierner/dubious/blob/master/out/opinion/opinion.md)
 * [disputed inline](https://github.com/mattbierner/dubious/blob/master/out/disputed inline/disputed inline.md)
+* [according to whom](https://github.com/mattbierner/dubious/blob/master/out/according to whom/according to whom.md)
 
 ## Usage
 

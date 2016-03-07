@@ -63,6 +63,7 @@ const templateAliases = {
     // dubious
     'dubious': ['doubtful', 'dubious'],
     'disputed inline': ['disputed inline', 'disputed-inline', 'dispute-inline', 'dispute inline'],
+    'asf': ['asf', 'Fact or opinion', 'Fact or opinion?', 'Factopinion'],
     
     // Missing or problematic reference
     'citation needed': ['Facts', 'Citeneeded', 'Citationneeded', 'Cite needed', 'Cite-needed', 'Citation required', 'Uncited', 'Cn', 'Needs citation', 'Reference needed', 'Citation-needed', 'Sourceme', 'Cb', 'Refneeded', 'Source needed', 'Citation missing', 'FACT', 'Cite missing', 'Citation Needed', 'Proveit', 'CN', 'Source?', 'Fact', 'Refplease', 'Needcite', 'Needsref', 'Ref?', 'Citationeeded', 'Are you sure?', 'Citesource', 'Cite source', 'Citation requested', 'Needs citations', 'Fcitation needed', 'Need sources', 'Request citation', 'Citation Requested', 'Request Citation', 'Prove it', 'Ctn', 'Citation need', 'PROV-statement', 'Ciation needed', 'Cn/sandbox', 'Cit', 'Unsourced-inline', 'Ref-needed', 'Fact?', 'Need Citation', 'CitationNeeded'],
@@ -80,17 +81,20 @@ const templateAliases = {
     'lopsided': ['Lopsided'], // unbalanced opinion
     'opinion': ['opinion'],
     
+    // attribution
+    'who': ['who', 'who?', 'whose?', 'who ?'],
+    'according to whom': ['According to whom', "According to", "According to whom?", "Says who", "Says who?", "Sayswho", "Who says", "Whom", "Whom?", "Whosaid"],
+    
     // Precision
-    'who': ['who'],
-    'which': ['which'],
-    'why': ['why'],
-    'how': ['how'],
+    'which': ['which', 'which?', 'which ?'],
+    'why': ['why', 'why?', 'why ?'],
+    'how': ['how', 'how?', 'how ?'],
     
     // Precision Excessive
     'undue inline': ['undue inline', 'undue-inline', 'undue weight inline','undue-weight-inline'],
     
     // wording
-    'buzz': ['buzz'],
+    'buzz': ['buzz', 'buzzwords inline', 'Buzzwords-inline', 'Buzzword-inline'],
     'awkward': ['awkward'],
     'technical': ['technical']
 };
@@ -141,7 +145,7 @@ const begin = () => {
 if (true) {
     begin();
 } else {
-    wiki.getTemplateUsages(client, 'Blue whale', templateAliases[template])
+    wiki.getTemplateUsages(client, 'Debate', templateAliases[template])
         .then(console.log)
         .catch(console.error);
 }
