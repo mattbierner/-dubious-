@@ -62,6 +62,7 @@ const getResults = (client, name, templateNames, start, count) =>
 const templateAliases = {
     // dubious
     'dubious': ['doubtful', 'dubious'],
+    'disputed inline': ['disputed inline', 'disputed-inline', 'dispute-inline', 'dispute inline'],
     
     // Missing or problematic reference
     'citation needed': ['Facts', 'Citeneeded', 'Citationneeded', 'Cite needed', 'Cite-needed', 'Citation required', 'Uncited', 'Cn', 'Needs citation', 'Reference needed', 'Citation-needed', 'Sourceme', 'Cb', 'Refneeded', 'Source needed', 'Citation missing', 'FACT', 'Cite missing', 'Citation Needed', 'Proveit', 'CN', 'Source?', 'Fact', 'Refplease', 'Needcite', 'Needsref', 'Ref?', 'Citationeeded', 'Are you sure?', 'Citesource', 'Cite source', 'Citation requested', 'Needs citations', 'Fcitation needed', 'Need sources', 'Request citation', 'Citation Requested', 'Request Citation', 'Prove it', 'Ctn', 'Citation need', 'PROV-statement', 'Ciation needed', 'Cn/sandbox', 'Cit', 'Unsourced-inline', 'Ref-needed', 'Fact?', 'Need Citation', 'CitationNeeded'],
@@ -77,6 +78,7 @@ const templateAliases = {
     'peacock-term': ['peacock-term', 'peacock-inline', 'peacock inline', 'Really?'],
     'loaded term': ['Loaded term', 'loaded inline', 'loaded-term', 'How dare you?!'],
     'lopsided': ['Lopsided'], // unbalanced opinion
+    'opinion': ['opinion'],
     
     // Precision
     'who': ['who'],
