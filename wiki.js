@@ -9,7 +9,7 @@ const MIX_CONTEXT_LENGTH = 20;
  * Create a regular expression that matches uses of a set of templates.
  */
 const createTemplateRe = templateNames =>
-    new RegExp(`\{\{(${templateNames.map(regExpEscape).join('|') })[^]*?\}\}`, 'gi');
+    new RegExp(`\{\{(${templateNames.map(regExpEscape).join('|')})([ |][^]+?)?\}\}`, 'gi');
 
 /**
  * Try to remove links from wikimarkup.
