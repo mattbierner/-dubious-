@@ -40,7 +40,7 @@ The tool is great for finding entertaining pages on Wikipedia like this.
 
 * [Dubious](https://github.com/mattbierner/dubious/blob/master/out/dubious/dubious.md)
 * [Lopsided](https://github.com/mattbierner/dubious/blob/master/out/lopsided/lopsided.md)
-* [Dubious](https://github.com/mattbierner/dubious/blob/master/out/citation needed/citation needed.md)
+* [Citation Needed](https://github.com/mattbierner/dubious/blob/master/out/citation needed/citation needed.md)
 * [How?](https://github.com/mattbierner/dubious/blob/master/out/how/how.md)
 * [buzz](https://github.com/mattbierner/dubious/blob/master/out/buzz/buzz.md)
 * [loaded term](https://github.com/mattbierner/dubious/blob/master/out/loaded term/loaded term.md)
