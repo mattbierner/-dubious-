@@ -10,7 +10,7 @@ const DB_FILE = "data.db";
 const STATE_FILE = 'state.json';
 
 
-const printArticle = (data) => {
+const printArticle = (template, data) => {
     if (!data.usages.length)
         return;
     const title = data.article;
@@ -19,7 +19,7 @@ const printArticle = (data) => {
     console.log('');
     console.log(`#### <a href="${pagePath}">${title}</a>`);
     for (let usage of data.usages)
-        console.log('- ' + usage);
+        console.log('- ' + usage.replace('*', x => `<sup>[${template}]</sup>`));
 };
 
 const template = process.argv[2];
@@ -28,7 +28,7 @@ if (!template) {
     process.exit(1);
 }
 console.log('# ', template)
-console.log('Orded by number of occurrences. \\* is where the template is used in the sentance.');
+console.log('Orded by number of occurrences.');
 
 const db = new Datastore({
     filename: path.join(ROOT, template, DB_FILE),
@@ -39,5 +39,5 @@ db.find({}, (err, docs) => {
     docs
         .filter(x => x.usages.length)
         .sort((a, b) => b.usages.length - a.usages.length)
-        .map(printArticle);
+        .map(x => printArticle(template, x));
 });
