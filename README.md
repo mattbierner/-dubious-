@@ -32,9 +32,7 @@ Examples of `lopsided` statements. The star represents where the template is use
 - However, key Republican lawmakers, including John Boehner (a key proponent of for-profit colleges) *  and Mitch McConnell publicly opposed the legislation.
 ```
 
-"refreshes souls*" Amazing! The [rest of the Cali article](https://en.wikipedia.org/wiki/Cali#Tourism) is similarly hilarious. 
-
-The tool is great for finding entertaining pages on Wikipedia like this.
+"refreshes souls*" Amazing! The tool is great for finding entertaining pages on Wikipedia like this.
 
 ## Examples
 
@@ -66,6 +64,15 @@ For best results, make sure the template name is listed in `templateAliases`, wh
 
 Results are saved using [NeDB][nedb] to `output/TEMPLATE_NAME`.
 
+`print.sh` and `print.js` can be used to generate markdown from the results:
+
+```bash
+$ node print.js 'citation-needed'
+
+# or, to generate all
+
+$ ./print.sh
+```
 
 [inline]: https://en.wikipedia.org/wiki/Category:Inline_cleanup_templates
 [search_api]: https://www.mediawiki.org/wiki/API:Search
