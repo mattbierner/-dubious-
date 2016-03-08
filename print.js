@@ -18,8 +18,10 @@ const printArticle = (template, data) => {
     
     console.log('');
     console.log(`#### <a href="${pagePath}">${title}</a>`);
-    for (let usage of data.usages)
-        console.log('- ' + usage.replace('*', x => `<sup>[${template}]</sup>`));
+    for (let usage of data.usages) {
+        if (usage.length)
+            console.log('- ' + usage.replace('*', x => `<sup>[${template}]</sup>`));
+    }
 };
 
 const template = process.argv[2];

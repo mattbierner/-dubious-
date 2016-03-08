@@ -119,7 +119,6 @@ Orded by number of occurrences.
 - His duets like Palkon Ke Tale, Mujhko Yeh Zindagi Lagti Hai in the flop films Sailaab were hits too.<sup>[according to whom]</sup>
 - By this he gained reputation of being a singer who belted out hit songs irrespective of the film being a commercial success or critically panned film or otherwise.<sup>[according to whom]</sup>
 - The songs "Deewana dil deewana" and "Sachhi yeh kahani hai" became famous.<sup>[according to whom]</sup>
-- 
 
 #### <a href="https://en.wikipedia.org/wiki/Vailala_Madness">Vailala Madness</a>
 - The latter item is disputed,<sup>[according to whom]</sup> and may stem from the account of contemporary expatriate plantation owners, who were highly distressed by events.

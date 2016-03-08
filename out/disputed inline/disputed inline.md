@@ -361,7 +361,6 @@ Orded by number of occurrences.
 - A logical system or, for short, logic, is a formal system together with a form of semantics,<sup>[disputed inline]</sup> usually in the form of model-theoretic interpretation, which assigns truth values to sentences of the formal language, that is, formulae that contain no free variables.
 
 #### <a href="https://en.wikipedia.org/wiki/Digital_Equipment_Corporation">Digital Equipment Corporation</a>
-- 
 
 #### <a href="https://en.wikipedia.org/wiki/Cultigen">Cultigen</a>
 - Cultigens may be named in any of a number of ways.<sup>[disputed inline]</sup>
