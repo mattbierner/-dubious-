@@ -75,7 +75,7 @@ const templateAliases = {
     'elucidate': ['elucidate'],
 
     // Neutrality
-    'weasel-inline': ['weasel-inline'],
+    'weasel-inline': ['weasel-inline', 'weaselinline', "WW", "Weal", "Weasel Word", "Weasel word", "Weasel words inline", "Weasel-inline", "Weasel-word", "Weaselinline", "Weaselword", "Whosays"],
     'peacock-term': ['peacock-term', 'peacock-inline', 'peacock inline', 'Really?'],
     'loaded term': ['Loaded term', 'loaded inline', 'loaded-term', 'How dare you?!'],
     'lopsided': ['Lopsided'], // unbalanced opinion

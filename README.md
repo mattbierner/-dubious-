@@ -47,6 +47,7 @@ Examples of `lopsided` statements. The star represents where the template is use
 * [Opinion](https://github.com/mattbierner/dubious/blob/master/out/opinion/opinion.md)
 * [disputed inline](https://github.com/mattbierner/dubious/blob/master/out/disputed inline/disputed inline.md)
 * [according to whom](https://github.com/mattbierner/dubious/blob/master/out/according to whom/according to whom.md)
+* [weasel-inline](https://github.com/mattbierner/dubious/blob/master/out/weasel-inline/weasel-inline.md)
 
 ## Usage
 
